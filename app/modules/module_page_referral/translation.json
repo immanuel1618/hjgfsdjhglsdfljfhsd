@@ -1,0 +1,497 @@
+{
+    "_RefPageName":{
+      "EN" : "Player Management System",
+      "UA" : "Реферальная система",
+      "RU" : "Реферальная система"
+    },
+    "_RefReason": {
+      "RU": "Вывод %reason%",
+      "UA": "Вивід %reason%",
+      "EN": "Reason: %reason%"
+    },
+    "_RefSuccessMessage": {
+      "EN": "completed successfully",
+      "UA": "пройшло успішно",
+      "RU": "прошёл успешно"
+    },
+    "_WithdrawalsDisabled": {
+      "EN": "This output type is not available",
+      "UA": "Цей тип висновку недоступний",
+      "RU": "Данный тип вывода не доступен"
+    },
+    "_InvalidReferralCodeChars": {
+      "EN": "Referral code contains invalid characters: $invalidChars",
+      "UA": "Реферальний код містить неприпустимі символи: $invalidChars",
+      "RU": "Реферальный код содержит недопустимые символы: $invalidChars"
+    },
+    "_ReferralCodeExists": {
+      "EN": "This referral code already exists",
+      "UA": "Такий реферальний код вже існує",
+      "RU": "Такой реферальный код уже существует"
+    },
+    "_ReferralCodeCreated": {
+      "EN": "Referral code successfully created",
+      "UA": "Реферальний код успішно створений",
+      "RU": "Реферальный код успешно создан"
+    },
+    "_OnlyDigitsAllowed": {
+      "EN": "Card/phone number should contain only digits",
+      "UA": "Номер карти/телефона повинен містити лише цифри",
+      "RU": "Номер карты/телефона должен содержать только цифры"
+    },
+    "_MinDigitsRequired": {
+      "EN": "Number should contain at least 10 digits",
+      "UA": "Номер повинен містити не менше 10 цифр",
+      "RU": "Номер должен содержать не менее 10 цифр"
+    },
+    "_RequiredFieldsMissing": {
+      "EN": "Not all required fields are filled or withdrawal amount is incorrect",
+      "UA": "Не всі обов'язкові поля заповнені або сума виводу некоректна",
+      "RU": "Не все обязательные поля заполнены или сумма вывода некорректна"
+    },
+    "_MinWithdrawalAmounts": {
+      "EN": "Minimum withdrawal amount:",
+      "UA": "Мінімальна сума для виводу:",
+      "RU": "Минимальная сумма для вывода:"
+    },
+    "_InsufficientFunds": {
+      "EN": "Insufficient funds for withdrawal",
+      "UA": "Недостатньо коштів для виводу",
+      "RU": "Недостаточно средств для вывода"
+    },
+    "_WithdrawalRequestCreated": {
+      "EN": "Withdrawal request successfully created",
+      "UA": "Заявку на вивід успішно створено",
+      "RU": "Заявка на вывод успешно создана"
+    },
+    "_InvalidWithdrawalAmount": {
+      "EN": "Withdrawal amount is incorrect",
+      "UA": "Сума виводу некоректна",
+      "RU": "Сумма вывода некорректна"
+    },
+    "_FundsConverted": {
+      "EN": "Funds successfully converted to your balance",
+      "UA": "Кошти успішно конвертовано на ваш баланс",
+      "RU": "Средства успешно конвертированы на ваш баланс"
+    },
+    "_OutputReferral": {
+      "EN": "Withdraw funds",
+      "RU": "Вывод средств",
+      "UA": "Виведення коштів"
+    },
+    "_Balance": {
+      "EN": "Balance",
+      "RU": "Баланс",
+      "UA": "Баланс"
+    },
+    "_NewPlayerBonus": {
+      "EN": "New player bonus",
+      "RU": "Бонус за депозит игроку",
+      "UA": "Бонус нового гравця"
+    },
+    "_RequestDeletedSuccessfully": {
+      "EN": "Request deleted successfully",
+      "RU": "Заявка успешно удалена",
+      "UA": "Заявку успішно видалено"
+    },
+    "_Withdrawal": {
+      "EN": "Withdrawal",
+      "RU": "Вывод средств на карту",
+      "UA": "Виведення коштів на картку"
+    },
+    "_Min": {
+      "EN": "Min.",
+      "RU": "Мин.",
+      "UA": "Мін."
+    },
+    "_ReferralClients": {
+      "EN": "Referred clients",
+      "RU": "Привлеченные клиенты",
+      "UA": "Залучені клієнти"
+    },
+    "_Nickname": {
+      "EN": "Nick",
+      "RU": "Ник",
+      "UA": "Нік"
+    },
+    "_Amount": {
+      "EN": "Amount",
+      "RU": "Сумма",
+      "UA": "Сума"
+    },
+    "_Percentage": {
+      "EN": "Percentage",
+      "RU": "Процент",
+      "UA": "Відсоток"
+    },
+    "_Payout": {
+      "EN": "Payout",
+      "RU": "Выплата",
+      "UA": "Виплата"
+    },
+    "_DateOfDeposit": {
+      "EN": "Date of deposit",
+      "RU": "Дата пополнения",
+      "UA": "Дата поповнення"
+    },
+    "_NoPaymentData": {
+      "EN": "No payment data",
+      "RU": "Нет данных о платежах",
+      "UA": "Немає даних про платежі"
+    },
+    "_ReferralLevels": {
+      "EN": "Referral levels",
+      "RU": "Уровни реферальной системы",
+      "UA": "Рівні реферальної системи"
+    },
+    "_YourBonus": {
+      "EN": "Your bonus",
+      "RU": "Ваш бонус",
+      "UA": "Ваш бонус"
+    },
+    "_Statistics": {
+      "EN": "Statistics",
+      "RU": "Статистика",
+      "UA": "Статистика"
+    },
+    "_PaidAmount": {
+      "EN": "Paid amount",
+      "RU": "Выплаченная сумма",
+      "UA": "Виплачена сума"
+    },
+    "_PendingPayouts": {
+      "EN": "Pending payouts",
+      "RU": "Ожидающие выплаты",
+      "UA": "Очікувані виплати"
+    },
+    "_TodayIncome": {
+      "EN": "Today's income",
+      "RU": "Доход за сегодня",
+      "UA": "Дохід за сьогодні"
+    },
+    "_AllTimeIncome": {
+      "EN": "All-time income",
+      "RU": "Доход за все время",
+      "UA": "Дохід за весь час"
+    },
+    "_Deposits": {
+      "EN": "Deposits",
+      "RU": "Пополнений",
+      "UA": "Поповнень"
+    },
+    "_Activated": {
+      "EN": "Activated",
+      "RU": "Активировано",
+      "UA": "Активовано"
+    },
+    "_YourReferralCode": {
+      "EN": "Your referral code",
+      "RU": "Ваш реферальный код",
+      "UA": "Ваш реферальний код"
+    },
+    "_EnterCode": {
+      "EN": "Enter code",
+      "RU": "Введите код",
+      "UA": "Введіть код"
+    },
+    "_Save": {
+      "EN": "Save",
+      "RU": "Сохранить",
+      "UA": "Зберегти"
+    },
+    "_WithdrawalRequests": {
+        "EN": "Withdrawal requests",
+        "RU": "Заявки на вывод",
+        "UA": "Заявки на виведення"
+    },
+    "_ID": {
+        "EN": "ID",
+        "RU": "ID",
+        "UA": "ID"
+    },
+    "_CurrencyRub": {
+        "EN": "rub",
+        "RU": "руб",
+        "UA": "грн"
+    },
+    "_Pending": {
+        "EN": "Pending",
+        "RU": "Ожидает вывода",
+        "UA": "Очікує виведення"
+    },
+    "_Accepted": {
+        "EN": "Accepted",
+        "RU": "Выведено",
+        "UA": "Виведено"
+    },
+    "_Declined": {
+        "EN": "Declined",
+        "RU": "Отклонено",
+        "UA": "Відхилено"
+    },
+    "_Review": {
+        "EN": "Review",
+        "RU": "Рассмотреть",
+        "UA": "Розглянути"
+    },
+    "_DeleteRequest": {
+        "EN": "Delete request",
+        "RU": "Удалить заявку",
+        "UA": "Видалити заявку"
+    },
+    "_ViewRequest": {
+        "EN": "View request",
+        "RU": "Просмотр заявки",
+        "UA": "Перегляд заявки"
+    },
+    "_User": {
+        "EN": "User",
+        "RU": "Пользователь",
+        "UA": "Користувач"
+    },
+    "_Date": {
+        "EN": "Date",
+        "RU": "Дата",
+        "UA": "Дата"
+    },
+    "_Status": {
+        "EN": "Status",
+        "RU": "Статус",
+        "UA": "Статус"
+    },
+    "_Details": {
+        "EN": "Details",
+        "RU": "Детали",
+        "UA": "Деталі"
+    },
+    "_DetailsOutput": {
+      "EN": "Реквизиты",
+      "RU": "Реквизиты",
+      "UA": "Реквизиты"
+    },
+    "_DeclinedReason": {
+        "EN": "Reject reason",
+        "RU": "Причина отказа",
+        "UA": "Причина відмови"
+    },
+    "_Accept": {
+        "EN": "Accept",
+        "RU": "Принять",
+        "UA": "Прийняти"
+    },
+    "_Reject": {
+        "EN": "Reject",
+        "RU": "Отклонить",
+        "UA": "Відхилити"
+    },
+    "_MainSettings": {
+        "EN": "Main settings",
+        "RU": "Основные настройки",
+        "UA": "Основні налаштування"
+    },
+    "_DiscordWebhookNewRef": {
+        "EN": "Discord Webhook (new referral)",
+        "RU": "Discord Webhook (новый реферал)",
+        "UA": "Discord Webhook (новий реферал)"
+    },
+    "_DiscordWebhookWithdraw": {
+        "EN": "Discord Webhook (withdrawal)",
+        "RU": "Discord Webhook (вывод средств)",
+        "UA": "Discord Webhook (виведення коштів)"
+    },
+    "_MinWithdrawalAmount": {
+        "EN": "Minimum withdrawal amount",
+        "RU": "Минимальная сумма вывода на карту",
+        "UA": "Мінімальна сума виведення на карту"
+    },
+    "_WithdrawalAmount": {
+      "EN": "Withdrawal amount",
+      "RU": "Сумма вывода",
+      "UA": "Сума виведення"
+  },
+    "_FirstDepositAmount": {
+        "EN": "Min. amount for bonus",
+        "RU": "Мин. сумма для бонуса",
+        "UA": "Мін. сума для бонусу"
+    },
+    "_FirstDepositBonus": {
+        "EN": "Bonus on replenishment",
+        "RU": "Бонус при пополнении",
+        "UA": "Бонус при депозиті"
+    },
+    "_PercentageConverting": {
+        "EN": "Commission for withdrawal to the site in %",
+        "RU": "Комиссия вывода на сайт в %",
+        "UA": "Комісія виведення на сайт в %"
+    },
+    "_CommissionOutput": {
+        "EN": "Commission for withdrawal to card in %",
+        "RU": "Комиссия вывода на карту в %",
+        "UA": "Комісія виведення на карту в %"
+    },
+    "_AvailableWithdrawalTypes": {
+        "EN": "Available withdrawal types",
+        "RU": "Доступные типы вывода",
+        "UA": "Доступні типи виведення"
+    },
+    "_AddWithdrawalType": {
+        "EN": "Add withdrawal type",
+        "RU": "Добавить тип вывода",
+        "UA": "Додати тип виведення"
+    },
+    "_WithdrawalType": {
+        "EN": "Withdrawal type",
+        "RU": "Тип вывода",
+        "UA": "Тип виведення"
+    },
+    "_All": {
+        "EN": "All",
+        "RU": "Все",
+        "UA": "Всі"
+    },
+    "_OutputReferralTitle": {
+      "EN": "Withdrawal of funds",
+      "RU": "Вывод средств",
+      "UA": "Виведення коштів"
+    },
+    "_WithdrawReal": {
+        "EN": "Output to card",
+        "RU": "Вывод на карту",
+        "UA": "Виведення на карту"
+    },
+    "_AdminHome": {
+      "EN": "Home",
+      "RU": "Главная",
+      "UA": "Головна"
+    },
+    "_Settings": {
+        "EN": "Settings",
+        "RU": "Настройки",
+        "UA": "Налаштування"
+    },
+    "_WithdrawalTypesNotSpecified": {
+      "EN": "Available withdrawal types are not specified",
+      "RU": "Не указаны доступные типы вывода",
+      "UA": "Не вказано доступні типи виведення"
+    },
+    "_SettingsUpdatedSuccessfully": {
+        "EN": "Settings updated successfully",
+        "RU": "Настройки успешно обновлены",
+        "UA": "Налаштування успішно оновлено"
+    },
+    "_NotAllLevelFieldsFilled": {
+        "EN": "Not all required level fields are filled",
+        "RU": "Не заполнены все обязательные поля уровней",
+        "UA": "Не заповнені всі обов'язкові поля рівнів"
+    },
+    "_LevelSettingsUpdatedSuccessfully": {
+        "EN": "Level settings updated successfully",
+        "RU": "Настройки уровней успешно обновлены",
+        "UA": "Налаштування рівнів успішно оновлено"
+    },
+    "_InvalidAction": {
+      "EN": "Invalid action",
+      "RU": "Некорректное действие",
+      "UA": "Невірна дія"
+    },
+    "_RequestUpdatedSuccessfully": {
+        "EN": "Request updated successfully",
+        "RU": "Заявка успешно обновлена",
+        "UA": "Заявку успішно оновлено"
+    },
+    "_RequestNotFound": {
+        "EN": "Request not found",
+        "RU": "Заявка не найдена",
+        "UA": "Заявку не знайдено"
+    },
+    "_ToSite": {
+        "EN": "Withdrawal to balance site",
+        "RU": "Вывод на баланс сайт",
+        "UA": "Виведення на баланс сайт"
+    },
+    "_AmountToReceive": {
+        "EN": "Amount to receive",
+        "RU": "К получению",
+        "UA": "До отримання"
+    },
+    "_WithdrawToRealButton": {
+        "EN": "Withdraw to real",
+        "RU": "Вывести в реал",
+        "UA": "Вивести в реал"
+    },
+    "_WithdrawToSiteButton": {
+        "EN": "Withdraw to site",
+        "RU": "Вывести на сайт",
+        "UA": "Вивести на сайт"
+    },
+    "_OnlyCard": {
+        "EN": "Only card",
+        "RU": "Только на карту",
+        "UA": "Тільки на картку"
+    },
+    "_OnlySite": {
+        "EN": "Only site",
+        "RU": "Только на сайт",
+        "UA": "Тільки на сайт"
+    },
+    "_Choose": {
+      "EN": "Select the withdrawal method",
+      "RU": "Выберете способ вывода",
+      "UA": "Виберіть спосіб виводу"
+    },
+    "_LevelSettings": {
+        "EN": "Level settings",
+        "RU": "Настройки уровней",
+        "UA": "Налаштування рівнів"
+    },
+    "_Level1Requirement": {
+        "EN": "Level 1 - Requirement (deposit)",
+        "RU": "Уровень 1 - Требование (депозит)",
+        "UA": "Рівень 1 - Вимога (депозит)"
+    },
+    "_Level1Bonus": {
+        "EN": "Level 1 - Bonus (%)",
+        "RU": "Уровень 1 - Бонус (%)",
+        "UA": "Рівень 1 - Бонус (%)"
+    },
+    "_Level2Requirement": {
+        "EN": "Level 2 - Requirement (deposit)",
+        "RU": "Уровень 2 - Требование (депозит)",
+        "UA": "Рівень 2 - Вимога (депозит)"
+    },
+    "_Level2Bonus": {
+        "EN": "Level 2 - Bonus (%)",
+        "RU": "Уровень 2 - Бонус (%)",
+        "UA": "Рівень 2 - Бонус (%)"
+    },
+    "_Level3Requirement": {
+        "EN": "Level 3 - Requirement (deposit)",
+        "RU": "Уровень 3 - Требование (депозит)",
+        "UA": "Рівень 3 - Вимога (депозит)"
+    },
+    "_Level3Bonus": {
+        "EN": "Level 3 - Bonus (%)",
+        "RU": "Уровень 3 - Бонус (%)",
+        "UA": "Рівень 3 - Бонус (%)"
+    },
+    "_Level4Requirement": {
+        "EN": "Level 4 - Requirement (deposit)",
+        "RU": "Уровень 4 - Требование (депозит)",
+        "UA": "Рівень 4 - Вимога (депозит)"
+    },
+    "_Level4Bonus": {
+        "EN": "Level 4 - Bonus (%)",
+        "RU": "Уровень 4 - Бонус (%)",
+        "UA": "Рівень 4 - Бонус (%)"
+    },
+    "_Level5Requirement": {
+        "EN": "Level 5 - Requirement (deposit)",
+        "RU": "Уровень 5 - Требование (депозит)",
+        "UA": "Рівень 5 - Вимога (депозит)"
+    },
+    "_Level5Bonus": {
+        "EN": "Level 5 - Bonus (%)",
+        "RU": "Уровень 5 - Бонус (%)",
+        "UA": "Рівень 5 - Бонус (%)"
+    }
+}

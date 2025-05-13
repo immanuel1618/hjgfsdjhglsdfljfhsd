@@ -1,0 +1,54 @@
+{
+  "_AdmOnline": {
+    "EN": "Admins online",
+    "RU": "Онлайн админов"
+  },
+  "_NO_RIGHTS": {
+    "EN": "You do not have the rights to perform this action",
+    "RU": "У вас нет прав для выполнения данного действия"
+  },
+  "_INVALID_FILLED_FIELDS": {
+    "EN": "Not all fields were filled in or some fields are invalid",
+    "RU": "Не все поля были заполнены или некоторые из них невалидны"
+  },
+  "_ADD_ACCESS": {
+    "EN": "You have successfully added access",
+    "RU": "Вы успешно добавили доступ"
+  },
+  "_WITHDRAWN_ACCESS": {
+    "EN": "You have successfully withdrawn access",
+    "RU": "Вы успешно забрали доступ"
+  },
+  "_UPDATE_STATUS": {
+    "EN": "You have successfully updated your status",
+    "RU": "Вы успешно обновили статус"
+  },
+  "_DELETE_SERVER": {
+    "EN": "You have successfully deleted the server",
+    "RU": "Вы успешно удалили сервер"
+  },
+  "_LINK_SERVER": {
+    "EN": "You have successfully bound the server",
+    "RU": "Вы успешно привязали сервер"
+  },
+  "_UPDATE_SETTINGS": {
+    "EN": "You have successfully updated the settings",
+    "RU": "Вы успешно обновили настройки"
+  },
+  "_ALREADY_EXISTS": {
+    "EN": "The record already exists",
+    "RU": "Запись уже существует"
+  },
+  "_NOT_ACCESS": {
+    "EN": "No accesses",
+    "RU": "Нет доступов"
+  },
+  "_DELETE": {
+    "EN": "Delete",
+    "RU": "Удалить"
+  },
+  "_USERS_WITH_ACCESS": {
+    "EN": "Users with access",
+    "RU": "Пользователи с доступом"
+  }
+}

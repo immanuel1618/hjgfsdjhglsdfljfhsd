@@ -1,0 +1,548 @@
+{
+    "0": {
+        "id": "1",
+        "name": "Valve — Counter-Strike 2",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/valve_cs2_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "1": {
+        "id": "2",
+        "name": "Valve — CS:GO",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/valve_02_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "2": {
+        "id": "3",
+        "name": "Набор музыки | Daniel Sadowski — Crimson Assault",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/danielsadowski_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "4": {
+        "id": "4",
+        "name": "Набор музыки | Noisia — Sharpened",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/noisia_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "6": {
+        "id": "5",
+        "name": "Набор музыки | Robert Allaire — Insurgency",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/robertallaire_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "8": {
+        "id": "6",
+        "name": "Набор музыки | Sean Murray — A*D*8",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/seanmurray_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "10": {
+        "id": "7",
+        "name": "Набор музыки | Feed Me — High Noon",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/feedme_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "12": {
+        "id": "8",
+        "name": "Набор музыки | Dren — Death's Head Demolition",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/dren_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "14": {
+        "id": "9",
+        "name": "Набор музыки | Austin Wintory — Desert Fire",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/austinwintory_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "16": {
+        "id": "10",
+        "name": "Набор музыки | Sasha — LNOE",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/sasha_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "18": {
+        "id": "11",
+        "name": "Набор музыки | Skog — Metal",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/skog_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "20": {
+        "id": "12",
+        "name": "Набор музыки | Midnight Riders — All I Want for Christmas",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/midnightriders_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "22": {
+        "id": "13",
+        "name": "Набор музыки | Matt Lange — IsoRhythm",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/mattlange_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "24": {
+        "id": "14",
+        "name": "Набор музыки | Mateo Messina — For No Mankind",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/mateomessina_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "26": {
+        "id": "15",
+        "name": "Набор музыки | Разные исполнители — Hotline Miami",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/hotlinemiami_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "28": {
+        "id": "16",
+        "name": "Набор музыки | Daniel Sadowski — Total Domination",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/danielsadowski_02_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "30": {
+        "id": "17",
+        "name": "Набор музыки | Damjan Mravunac — The Talos Principle",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/damjanmravunac_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "32": {
+        "id": "18",
+        "name": "Набор музыки | Proxy — Battlepack",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/proxy_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "34": {
+        "id": "19",
+        "name": "Набор музыки | Ki:Theory — MOLOTOV",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/kitheory_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "36": {
+        "id": "20",
+        "name": "Набор музыки | Troels Folmann — Uber Blasto Phone",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/troelsfolmann_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "38": {
+        "id": "21",
+        "name": "Набор музыки | Kelly Bailey — Hazardous Environments",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/kellybailey_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "40": {
+        "id": "22",
+        "name": "Набор музыки | Skog — II-Headshot",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/skog_02_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "42": {
+        "id": "23",
+        "name": "Набор музыки | Daniel Sadowski — The 8-Bit Kit",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/danielsadowski_03_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "44": {
+        "id": "24",
+        "name": "Набор музыки | AWOLNATION — I Am",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/awolnation_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "46": {
+        "id": "25",
+        "name": "Набор музыки | Mord Fustang — Diamonds",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/mordfustang_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "48": {
+        "id": "26",
+        "name": "Набор музыки | Michael Bross — Invasion!",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/michaelbross_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "50": {
+        "id": "27",
+        "name": "Набор музыки | Ian Hultquist — Lion's Mouth",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/ianhultquist_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "52": {
+        "id": "28",
+        "name": "Набор музыки | New Beat Fund — Sponge Fingerz",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/newbeatfund_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "54": {
+        "id": "29",
+        "name": "Набор музыки | Beartooth — Disgusting",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/beartooth_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "56": {
+        "id": "30",
+        "name": "Набор музыки | Lennie Moore — Java Havana Funkaloo",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/lenniemoore_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "58": {
+        "id": "31",
+        "name": "Набор музыки | Darude — Moments CS:GO",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/darude_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "67": {
+        "id": "39",
+        "name": "Набор музыки | The Verkkars — EZ4ENCE",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/theverkkars_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "69": {
+        "id": "40",
+        "name": "Halo — The Master Chief Collection",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/halo_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "70": {
+        "id": "41",
+        "name": "Набор музыки | Scarlxrd — King, Scar",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/scarlxrd_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "72": {
+        "id": "42",
+        "name": "Half-Life: Alyx — Anti-Citizen",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/hlalyx_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "73": {
+        "id": "43",
+        "name": "Набор музыки | Austin Wintory — Bachram",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/austinwintory_02_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "75": {
+        "id": "44",
+        "name": "Набор музыки | Dren — Gunman Taco Truck",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/dren_02_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "77": {
+        "id": "45",
+        "name": "Набор музыки | Daniel Sadowski — Eye of the Dragon",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/danielsadowski_04_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "79": {
+        "id": "46",
+        "name": "Набор музыки | Tree Adams and Ben Bromfield — M.U.D.D. FORCE",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/treeadams_benbromfield_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "81": {
+        "id": "47",
+        "name": "Набор музыки | Tim Huling — Neo Noir",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/timhuling_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "83": {
+        "id": "48",
+        "name": "Набор музыки | Sam Marshall — Bodacious",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/sammarshall_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "85": {
+        "id": "49",
+        "name": "Набор музыки | Matt Levine — Drifter",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/mattlevine_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "87": {
+        "id": "50",
+        "name": "Набор музыки | Amon Tobin — All for Dust",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/amontobin_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "89": {
+        "id": "51",
+        "name": "Darren Korb — Hades",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/hades_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "90": {
+        "id": "52",
+        "name": "Набор музыки | Neck Deep — The Lowlife Pack",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/neckdeep_02_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "92": {
+        "id": "53",
+        "name": "Набор музыки | Scarlxrd — CHAIN$AW.LXADXUT.",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/scarlxrd_02_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "94": {
+        "id": "54",
+        "name": "Набор музыки | Austin Wintory — Mocha Petal",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/austinwintory_03_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "96": {
+        "id": "55",
+        "name": "Набор музыки | Chipzel — ~Yellow Magic~",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/chipzel_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "98": {
+        "id": "56",
+        "name": "Набор музыки | Freaky DNA — Vici",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/freakydna_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "100": {
+        "id": "57",
+        "name": "Набор музыки | Jesse Harlin — Astro Bellum",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/jesseharlin_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "102": {
+        "id": "58",
+        "name": "Набор музыки | Laura Shigihara — Work Hard, Play Hard",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/laurashigihara_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "104": {
+        "id": "59",
+        "name": "Набор музыки | Sarah Schachner — KOLIBRI",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/sarahschachner_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "106": {
+        "id": "60",
+        "name": "Набор музыки | bbno$ — u mad!",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/bbnos_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "108": {
+        "id": "61",
+        "name": "Набор музыки | The Verkkars & n0thing — Flashbang Dance",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/theverkkars_02_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "110": {
+        "id": "62",
+        "name": "Набор музыки | 3kliksphilip — Heading for the Source",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/3kliksphilip_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "112": {
+        "id": "63",
+        "name": "Набор музыки | Humanity's Last Breath — Void",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/hlb_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "114": {
+        "id": "64",
+        "name": "Набор музыки | Juelz — Shooters",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/juelz_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "116": {
+        "id": "65",
+        "name": "Набор музыки | Knock2 — dashstar*",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/knock2_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "118": {
+        "id": "66",
+        "name": "Набор музыки | Meechy Darko — Gothic Luxury",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/meechydarko_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "120": {
+        "id": "67",
+        "name": "Набор музыки | Sullivan King — Lock Me Up",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/sullivanking_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "122": {
+        "id": "68",
+        "name": "Набор музыки | Perfect World, 中脸 Hua Lian — Painted Face",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/perfectworld_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "124": {
+        "id": "69",
+        "name": "Набор музыки | Denzel Curry — ULTIMATE",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/denzelcurry_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "126": {
+        "id": "70",
+        "name": "Valve — CS:GO",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/valve_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "127": {
+        "id": "71",
+        "name": "Набор музыки | DRYDEN — Feel The Power",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/dryden_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "129": {
+        "id": "72",
+        "name": "Набор музыки | ISOxo — inhuman",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/isoxo_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "131": {
+        "id": "73",
+        "name": "Набор музыки | KILL SCRIPT — All Night",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/killscript_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "133": {
+        "id": "74",
+        "name": "Набор музыки | Knock2 — Make U SWEAT!",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/knock2_02_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "135": {
+        "id": "75",
+        "name": "Набор музыки | Rad Cat — Reason",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/radcat_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "137": {
+        "id": "76",
+        "name": "Набор музыки | TWERL и Ekko & Sidetrack — Under Bright Lights",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/twerl_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "139": {
+        "id": "78",
+        "name": "Набор музыки | Austin Wintory — The Devil Went Clubbing In Georgia",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/austinwintory_04_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "141": {
+        "id": "79",
+        "name": "Набор музыки | Ben Bromfield — Rabbit Hole",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/benbromfield_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "143": {
+        "id": "80",
+        "name": "Набор музыки | Daniel Sadowski — Dead Shot",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/danielsadowski_05_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "145": {
+        "id": "81",
+        "name": "Набор музыки | Dren McDonald — Coffee! Kofe! Kahveh!",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/dren_03_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "147": {
+        "id": "82",
+        "name": "Набор музыки | Matt Levine — Agency",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/mattlevine_02_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "149": {
+        "id": "83",
+        "name": "Набор музыки | Sam Marshall — Clutch",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/sammarshall_02_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "151": {
+        "id": "84",
+        "name": "Набор музыки | Tim Huling — Devil's Paintbrush",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/timhuling_02_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "153": {
+        "id": "85",
+        "name": "Набор музыки | Tree Adams — Seventh Moon",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/treeadams_01_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    },
+    "155": {
+        "id": "86",
+        "name": "Набор музыки | Perfect World — Ay Hey",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/music_kits\/perfectworld_02_png.png",
+        "id_rarity": "rarity_rare",
+        "rarity": "высшего класса"
+    }
+}

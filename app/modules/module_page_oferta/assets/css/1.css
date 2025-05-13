@@ -1,0 +1,35 @@
+p:not(.title_offer) {
+  line-height: 150%;
+  margin-bottom: 25px;
+  border-left: 1px solid var(--bottom-line-table);
+  padding-left: 15px;
+  margin-left: 6px;
+  color: var(--text-custom);
+  font-size: 13px;
+}
+
+.title_offer {
+  padding-top: 15px;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 25px;
+  font-family: "Unbounded";
+}
+
+.desc_ofer {
+  padding: 10px 15px;
+  font-size: 13px;
+  color: var(--text-custom);
+  font-weight: 400;
+  margin: 10px 0 20px 0;
+  text-align: center;
+}
+
+.badge span {
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  right: 20px;
+  color: var(--text-custom);
+  opacity: 0.5;
+}

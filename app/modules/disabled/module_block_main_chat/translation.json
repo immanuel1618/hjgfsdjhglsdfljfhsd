@@ -1,0 +1,146 @@
+{
+    "_chat_title": {
+        "RU": "Игровой чат",
+        "EN": "Gaming Chat",
+        "UA": "Геймінговий чат",
+        "DE": "Gaming-Chat"
+    },
+    "_chat_info": {
+        "RU": "Здесь вы можете спрашивать любые вопросы и общаться, только уважительно и не спамить!",
+        "EN": "Here you can ask any questions and communicate, just be respectful and avoid spamming!",
+        "UA": "Тут ви можете задавати будь-які питання та спілкуватися, лише з повагою та уникайте спаму!",
+        "DE": "Hier können Sie Fragen stellen und kommunizieren, aber bitte respektvoll und ohne Spam!"
+    },
+    "_chat_reload": {
+        "RU": "Загрузка сообщений...",
+        "EN": "Loading messages...",
+        "UA": "Завантаження повідомлень...",
+        "DE": "Nachrichten werden geladen..."
+    },
+    "_chat_no_msg": {
+        "RU": "Нет сообщений...",
+        "EN": "No messages...",
+        "UA": "Немає повідомлень...",
+        "DE": "Keine Nachrichten..."
+    },
+    "_chat_add_msg": {
+        "RU": "Написать сообщение",
+        "EN": "Write a message",
+        "UA": "Написати повідомлення",
+        "DE": "Nachricht hinzufügen"
+    },
+    "_chat_mention": {
+        "RU": "@Упомянуть",
+        "EN": "@Mention",
+        "UA": "@Згадати",
+        "DE": "@Erwähnung"
+    },
+    "_chat_delete": {
+        "RU": "Удалить",
+        "EN": "Delete",
+        "UA": "Видалити",
+        "DE": "Löschen"
+    },
+    "_chat_error_command": {
+        "RU": "Неправильный ввод команды",
+        "EN": "Invalid command input",
+        "UA": "Неправильний ввід команди",
+        "DE": "Ungültige Befehlseingabe"
+    },
+    "_chat_error_emput": {
+        "RU": "Сообщение не может быть пустым",
+        "EN": "Message cannot be empty",
+        "UA": "Повідомлення не може бути пустим",
+        "DE": "Nachricht darf nicht leer sein"
+    },
+    "_chat_error_500": {
+        "RU": "Максимум букв может быть не больше 500",
+        "EN": "Maximum of 500 characters allowed",
+        "UA": "Максимум 500 символів",
+        "DE": "Maximal 500 Zeichen erlaubt"
+    },
+    "_chat_error": {
+        "RU": "Что-то пошло не так ;)",
+        "EN": "Something went wrong ;)",
+        "UA": "Щось пішло не так ;)",
+        "DE": "Etwas ist schief gelaufen ;)"
+    },
+    "_chat_delete_msg": {
+        "RU": "Вы удалили сообщение №",
+        "EN": "You deleted message №",
+        "UA": "Ви видалили повідомлення №",
+        "DE": "Sie haben die Nachricht Nr. gelöscht"
+    },
+    "_chat_mute_1": {
+        "RU": "Вы получили мут чата до",
+        "EN": "You have been muted until",
+        "UA": "Ви отримали мут чата до",
+        "DE": "Sie wurden bis stummgeschaltet"
+    },
+    "_chat_mute_2": {
+        "RU": ", причина: ",
+        "EN": ", reason: ",
+        "UA": ", причина: ",
+        "DE": ", Grund: "
+    },
+    "_chat_add_role": {
+        "RU": "вам выдали роль",
+        "EN": "received a new role",
+        "UA": "отримав нову роль",
+        "DE": "hat eine neue Rolle erhalten"
+    },
+    "_chat_del_role": {
+        "RU": "ваша роль была удалена!",
+        "EN": "role has been removed!",
+        "UA": "роль була видалена!",
+        "DE": "Rolle wurde entfernt!"
+    },
+    "_chat_add_mute": {
+        "RU": "вы получил мут чата до ",
+        "EN": "received a chat mute until ",
+        "UA": "отримав мут чата до ",
+        "DE": "hat eine Chat-Sperrung bis erhalten "
+    },
+    "_chat_del_mute": {
+        "RU": "вам сняли мут чата",
+        "EN": "chat mute has been lifted",
+        "UA": "мут чата був знятий",
+        "DE": "Chat-Sperre wurde aufgehoben"
+    }, 
+    "_chat_notified": {
+        "RU": "Вас упомянули в чате, ответьте пожалуйста",
+        "EN": "You have been mentioned in the chat, please respond",
+        "UA": "Вас згадали в чаті, будь ласка, відповідайте",
+        "DE": "Sie wurden im Chat erwähnt, bitte antworten Sie"
+    },
+    "_chat_msg_time": {
+        "RU": "Отправить сообщение через",
+        "EN": "Send message in",
+        "UA": "Надіслати повідомлення через",
+        "DE": "Sende Nachricht in"
+    },
+    "_chat_sound": {
+        "RU": "Вкл/выкл увед.",
+        "EN": "On/Off notif.",
+        "UA": "Увімк./вимк. спов.",
+        "DE": "An/Aus Ben."
+    },
+    "_chat_date_today": {
+        "RU": "Сегодня, в ",
+        "EN": "Today, at ",
+        "UA": "Сьогодні, о ",
+        "DE": "Heute, um "
+    },
+    "_chat_yesterday": {
+        "RU": "Вчера, в ",
+        "EN": "Yesterday, at ",
+        "UA": "Вчора, о ",
+        "DE": "Gestern, um "
+    },
+    "_chat_preposition_b": {
+        "RU": "в",
+        "EN": "at",
+        "UA": "о",
+        "DE": "um"
+    }
+}

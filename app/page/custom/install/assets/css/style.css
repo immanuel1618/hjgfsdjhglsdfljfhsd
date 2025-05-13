@@ -1,0 +1,386 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font-family: "SF Pro Display", sans-serif;
+  font-weight: var(--font-weight-1);
+  font-size: 15px;
+}
+
+html,
+body,
+.wrapper {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+  height: auto !important;
+  align-items: center;
+  justify-content: center;
+}
+
+.lang_block {
+  display: flex;
+  gap: 8em;
+}
+
+.bd_back {
+  display: flex;
+  background-color: var(--card);
+  border-radius: 16px;
+  padding: 20px;
+  max-width: 650px;
+  min-width: 400px;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.db_title {
+  display: flex;
+  font-family: "Unbounded";
+  font-size: 20px;
+  font-weight: 700;
+  justify-content: center;
+}
+
+.badge {
+  display: inline-block;
+  padding: 0.35em 0.6em;
+  font-size: 75%;
+  font-weight: 500;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  fill: #ffffff;
+  color: #ffffff !important;
+  background-color: var(--span-color);
+  box-shadow: var(--span-color-back) 5px 5px;
+}
+
+.badge a {
+  fill: #ffffff;
+  color: #ffffff !important;
+  transition-duration: 400ms;
+}
+
+.input-form {
+  position: relative;
+  text-align: left;
+  margin-top: 6px;
+  width: 100%;
+}
+
+.btn {
+  margin-top: 12px;
+  float: right;
+}
+
+.container-fluid {
+  width: 100%;
+  padding-top: 0px;
+}
+
+.card {
+  margin-bottom: 17px;
+}
+
+.back {
+  width: 100%;
+  height: 100%;
+}
+
+.language_title {
+  text-align: center;
+  margin-top: 4%;
+  margin-bottom: 4%;
+  font-size: 3vw;
+  font-weight: 600;
+  font-family: "Unbounded";
+}
+
+.language_left {
+  width: 50%;
+  float: left;
+  text-align: center;
+  filter: brightness(60%);
+  transition: all 0.2s;
+}
+
+.language_left:hover {
+  filter: brightness(100%);
+}
+
+.language_right {
+  width: 50%;
+  float: right;
+  text-align: center;
+  filter: brightness(60%);
+  transition: all 0.2s;
+}
+
+.language_right:hover {
+  filter: brightness(100%);
+}
+
+.language_right img,
+.language_left img {
+  width: 15vw;
+  border-radius: 32px;
+}
+
+.language_name {
+  font-size: 2vw;
+  font-weight: 500;
+  color: var(--text-default);
+}
+
+.install_permissions {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.install_permissions span {
+  display: flex;
+  font-size: 14px;
+  color: var(--red);
+  font-weight: 700;
+  background: rgb(255 73 64 / 10%);
+  padding: 10px;
+  border-radius: 6px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.not_ready {
+  color: var(--red) !important;
+  background: rgb(255 73 64 / 10%) !important;
+}
+
+.ready {
+  color: var(--green) !important;
+  background: rgb(100 206 130 / 10%) !important;
+}
+
+.webkey_title {
+  text-align: center;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  font-size: 3vw;
+  font-weight: 600;
+}
+
+.webkey_btn_dont_key {
+  position: fixed;
+  bottom: 0px;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}
+
+.webkey_btn_dont_key input {
+  float: none;
+  font-size: 0.9vw;
+  font-weight: 500;
+}
+
+.sidebar_title {
+  text-align: center;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  font-size: 3vw;
+  font-weight: 600;
+}
+
+.sidebar_left {
+  width: 50%;
+  float: left;
+  text-align: center;
+  filter: brightness(70%);
+}
+
+.sidebar_right {
+  width: 50%;
+  float: right;
+  text-align: center;
+  filter: brightness(70%);
+}
+
+.sidebar_left img,
+.sidebar_right img {
+  width: 80%;
+}
+
+.sidebar_name {
+  font-size: 2vw;
+  font-weight: 500;
+}
+
+.sidebar_left:hover,
+.sidebar_right:hover {
+  filter: brightness(100%);
+}
+
+button[type="submit"] {
+  background: none;
+  cursor: pointer;
+  color: #f27b26;
+}
+
+.animation_mp4 video {
+  width: 20vw;
+}
+
+.admin_zone img {
+  width: 12vw;
+  border-radius: 16px;
+  border: 6px solid var(--transparent);
+}
+
+.admin_zone .admin_name {
+  font-size: 1.3vw;
+  color: var(--span);
+  font-weight: 700;
+}
+
+.admin_zone {
+  display: flex;
+  text-align: center;
+  width: 100%;
+  margin-top: 2%;
+  margin-left: auto;
+  margin-right: auto;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+}
+
+.admin_que {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+}
+
+.admin_que .admin_text {
+  font-size: 16px;
+  font-weight: 500;
+  text-align: center;
+  color: var(--orange);
+  border-radius: 6px;
+}
+
+.info {
+  /* font-size: 1.3vw; */
+  /* font-weight: 500; */
+  /* text-align: center; */
+  /* margin-top: 2%; */
+  /* margin-bottom: 2%; */
+}
+
+.servers_info input {
+  font-size: 0.8vw;
+  font-weight: 400;
+}
+
+.badge_1 {
+  display: inline-block;
+  padding: 0.35em 0.6em;
+  font-size: 2vw;
+  font-weight: 500;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  fill: #ffffff;
+  color: #ffffff !important;
+  background-color: var(--span-color);
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
+.badge_2 {
+  display: inline-block;
+  padding: 0.35em 0.6em;
+  font-size: 2vw;
+  font-weight: 500;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  fill: #ffffff;
+  color: #ffffff !important;
+  background-color: var(--span-color);
+  box-shadow: var(--span-color-back) 5px 5px;
+}
+
+.db_left {
+  display: flex;
+  width: 100%;
+  float: left;
+  text-align: center;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.db_left .info {
+  font-size: 0.8vw;
+  font-weight: 500;
+  text-align: center;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  color: #fff;
+}
+
+.db_left .check {
+  text-align: center;
+  float: none;
+}
+
+.db_left .check input {
+  display: flex;
+  float: none;
+  width: 100%;
+  justify-content: center;
+  text-align: center;
+}
+
+.input-form .input_text {
+  font-size: 12px !important;
+}
+
+.add_peersim_text {
+  color: var(--text-custom);
+  font-size: 14px;
+}
+
+.ready svg,
+.not_ready svg {
+  width: 14px !important;
+  height: 14px !important;
+}
+
+.admin_buttons {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 5px;
+}
+
+.svrname_form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}

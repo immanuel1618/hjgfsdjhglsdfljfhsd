@@ -1,0 +1,29 @@
+19-04-2025 17:53:48 - NEW ERROR [1] 
+ FILE - /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php 
+ MESSAGE - Uncaught PDOException: SQLSTATE[HY000] [2003] Can't connect to MySQL server on '85.119.149.36:3306' (111) in /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php:282
+Stack trace:
+#0 /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php(282): PDO->__construct('mysql:host=85.1...', 'astral_main', 'kB8qH4nD8s', Array)
+#1 /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php(306): app\ext\Db->get_new_connect('Core', 0, 0)
+#2 /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php(379): app\ext\Db->inquiry('Core', 0, 0, 'SELECT * FROM `...', Array)
+#3 /var/www/gw_user440/data/www/astralzone.space/app/ext/Notifications.php(88): app\ext\Db->queryAll('Core', 0, 0, 'SELECT * FROM `...')
+#4 /var/www/gw_user440/data/www/astralzone.space/app/ext/Notifications.php(41): app\ext\Notifications->NotificationsEach(true)
+#5 /var/www/gw_user440/data/www/astralzone.space/app/ext/Notifications.php(21): app\ext\Notifications->NotificationsRender()
+#6 /var/www/gw_user440/data/www/astralzone.space/index.php(139): app\ext\Notifications->__construct(Object(app\ext\Translate), Object(app\ext\Db))
+#7 {main}
+  thrown 
+ LINE - 282 
+ 19-04-2025 17:53:52 - NEW ERROR [1] 
+ FILE - /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php 
+ MESSAGE - Uncaught PDOException: SQLSTATE[HY000] [2003] Can't connect to MySQL server on '85.119.149.36:3306' (111) in /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php:282
+Stack trace:
+#0 /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php(282): PDO->__construct('mysql:host=85.1...', 'astral_main', 'kB8qH4nD8s', Array)
+#1 /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php(306): app\ext\Db->get_new_connect('Core', 0, 0)
+#2 /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php(379): app\ext\Db->inquiry('Core', 0, 0, 'SELECT * FROM `...', Array)
+#3 /var/www/gw_user440/data/www/astralzone.space/app/ext/Notifications.php(88): app\ext\Db->queryAll('Core', 0, 0, 'SELECT * FROM `...')
+#4 /var/www/gw_user440/data/www/astralzone.space/app/ext/Notifications.php(41): app\ext\Notifications->NotificationsEach(true)
+#5 /var/www/gw_user440/data/www/astralzone.space/app/ext/Notifications.php(21): app\ext\Notifications->NotificationsRender()
+#6 /var/www/gw_user440/data/www/astralzone.space/index.php(139): app\ext\Notifications->__construct(Object(app\ext\Translate), Object(app\ext\Db))
+#7 {main}
+  thrown 
+ LINE - 282 
+ 

@@ -1,0 +1,569 @@
+[
+    {
+        "id": "4613",
+        "name": "Деріл «Криваве Безгрошів’я» | Професіонали",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_professional_varf5_png.png",
+        "model": "tm_professional\/tm_professional_varf5",
+        "team": 0,
+        "id_rarity": "rarity_legendary_character",
+        "rarity": "Старший"
+    },
+    {
+        "id": "4619",
+        "name": "«Лохина» Бекшот | Морські котики",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_st6_variantj_png.png",
+        "model": "ctm_st6\/ctm_st6_variantj",
+        "team": 1,
+        "id_rarity": "rarity_mythical_character",
+        "rarity": "Винятковий"
+    },
+    {
+        "id": "4680",
+        "name": "«Подвійний» Макой | Повітряна кавалерія",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_st6_variantl_png.png",
+        "model": "ctm_st6\/ctm_st6_variantl",
+        "team": 1,
+        "id_rarity": "rarity_legendary_character",
+        "rarity": "Старший"
+    },
+    {
+        "id": "4711",
+        "name": "Командер Мей «Стужа» Джеймісон | Тактичний спецзагін",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_swat_variante_png.png",
+        "model": "ctm_swat\/ctm_swat_variante",
+        "team": 1,
+        "id_rarity": "rarity_ancient_character",
+        "rarity": "Експертний"
+    },
+    {
+        "id": "4712",
+        "name": "Перший лейтенант Ферлоу | Тактичний спецзагін",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_swat_variantf_png.png",
+        "model": "ctm_swat\/ctm_swat_variantf",
+        "team": 1,
+        "id_rarity": "rarity_legendary_character",
+        "rarity": "Старший"
+    },
+    {
+        "id": "4713",
+        "name": "Джон «Ван Меден» Каск | Тактичний спецзагін",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_swat_variantg_png.png",
+        "model": "ctm_swat\/ctm_swat_variantg",
+        "team": 1,
+        "id_rarity": "rarity_mythical_character",
+        "rarity": "Винятковий"
+    },
+    {
+        "id": "4714",
+        "name": "Спеціаліст із біозахисту | Тактичний спецзагін",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_swat_varianth_png.png",
+        "model": "ctm_swat\/ctm_swat_varianth",
+        "team": 1,
+        "id_rarity": "rarity_rare_character",
+        "rarity": "Видатний"
+    },
+    {
+        "id": "4715",
+        "name": "Сержант Бомбсон | Тактичний спецзагін",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_swat_varianti_png.png",
+        "model": "ctm_swat\/ctm_swat_varianti",
+        "team": 1,
+        "id_rarity": "rarity_mythical_character",
+        "rarity": "Винятковий"
+    },
+    {
+        "id": "4716",
+        "name": "Спеціаліст із хімзахисту | Тактичний спецзагін",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_swat_variantj_png.png",
+        "model": "ctm_swat\/ctm_swat_variantj",
+        "team": 1,
+        "id_rarity": "rarity_rare_character",
+        "rarity": "Видатний"
+    },
+    {
+        "id": "4718",
+        "name": "Резан «Червона Сорочка» | Шабля",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_balkan_variantk_png.png",
+        "model": "tm_balkan\/tm_balkan_variantk",
+        "team": 0,
+        "id_rarity": "rarity_legendary_character",
+        "rarity": "Старший"
+    },
+    {
+        "id": "4726",
+        "name": "Пан Деріл «Криваве Маямі» | Професіонали",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_professional_varf_png.png",
+        "model": "tm_professional\/tm_professional_varf",
+        "team": 0,
+        "id_rarity": "rarity_ancient_character",
+        "rarity": "Експертний"
+    },
+    {
+        "id": "4727",
+        "name": "Зламниця Вольцман | Професіонали",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_professional_varg_png.png",
+        "model": "tm_professional\/tm_professional_varg",
+        "team": 0,
+        "id_rarity": "rarity_legendary_character",
+        "rarity": "Старший"
+    },
+    {
+        "id": "4728",
+        "name": "Малюк Кев | Професіонали",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_professional_varh_png.png",
+        "model": "tm_professional\/tm_professional_varh",
+        "team": 0,
+        "id_rarity": "rarity_mythical_character",
+        "rarity": "Винятковий"
+    },
+    {
+        "id": "4730",
+        "name": "Утікачка Саллі | Професіонали",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_professional_varj_png.png",
+        "model": "tm_professional\/tm_professional_varj",
+        "team": 0,
+        "id_rarity": "rarity_mythical_character",
+        "rarity": "Винятковий"
+    },
+    {
+        "id": "4732",
+        "name": "Номер К | Професіонали",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_professional_vari_png.png",
+        "model": "tm_professional\/tm_professional_vari",
+        "team": 0,
+        "id_rarity": "rarity_legendary_character",
+        "rarity": "Старший"
+    },
+    {
+        "id": "4733",
+        "name": "Пан Деріл «Кривава Тиша» | Професіонали",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_professional_varf1_png.png",
+        "model": "tm_professional\/tm_professional_varf1",
+        "team": 0,
+        "id_rarity": "rarity_ancient_character",
+        "rarity": "Експертний"
+    },
+    {
+        "id": "4734",
+        "name": "Пан Деріл «Кривавий Череп» | Професіонали",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_professional_varf2_png.png",
+        "model": "tm_professional\/tm_professional_varf2",
+        "team": 0,
+        "id_rarity": "rarity_ancient_character",
+        "rarity": "Експертний"
+    },
+    {
+        "id": "4735",
+        "name": "Пан Деріл «Кривава Величність» | Професіонали",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_professional_varf3_png.png",
+        "model": "tm_professional\/tm_professional_varf3",
+        "team": 0,
+        "id_rarity": "rarity_ancient_character",
+        "rarity": "Експертний"
+    },
+    {
+        "id": "4736",
+        "name": "Пан Деріл «Кривавий Крикун» | Професіонали",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_professional_varf4_png.png",
+        "model": "tm_professional\/tm_professional_varf4",
+        "team": 0,
+        "id_rarity": "rarity_ancient_character",
+        "rarity": "Експертний"
+    },
+    {
+        "id": "4749",
+        "name": "Молодший лейтенант-медик | Національна жандармерія",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_gendarmerie_varianta_png.png",
+        "model": "ctm_gendarmerie\/ctm_gendarmerie_varianta",
+        "team": 1,
+        "id_rarity": "rarity_mythical_character",
+        "rarity": "Винятковий"
+    },
+    {
+        "id": "4750",
+        "name": "Капітан із хімічних загроз | Національна жандармерія",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_gendarmerie_variantb_png.png",
+        "model": "ctm_gendarmerie\/ctm_gendarmerie_variantb",
+        "team": 1,
+        "id_rarity": "rarity_legendary_character",
+        "rarity": "Старший"
+    },
+    {
+        "id": "4751",
+        "name": "Голова ескадрону Рушар | Національна жандармерія",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_gendarmerie_variantc_png.png",
+        "model": "ctm_gendarmerie\/ctm_gendarmerie_variantc",
+        "team": 1,
+        "id_rarity": "rarity_ancient_character",
+        "rarity": "Експертний"
+    },
+    {
+        "id": "4752",
+        "name": "Аспірант | Національна жандармерія",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_gendarmerie_variantd_png.png",
+        "model": "ctm_gendarmerie\/ctm_gendarmerie_variantd",
+        "team": 1,
+        "id_rarity": "rarity_rare_character",
+        "rarity": "Видатний"
+    },
+    {
+        "id": "4753",
+        "name": "Офіцер Жак Бельтрам | Національна жандармерія",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_gendarmerie_variante_png.png",
+        "model": "ctm_gendarmerie\/ctm_gendarmerie_variante",
+        "team": 1,
+        "id_rarity": "rarity_mythical_character",
+        "rarity": "Винятковий"
+    },
+    {
+        "id": "4756",
+        "name": "Лейтенант «Екологія» Фарлоу | Тактичний спецзагін",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_swat_variantk_png.png",
+        "model": "ctm_swat\/ctm_swat_variantk",
+        "team": 1,
+        "id_rarity": "rarity_mythical_character",
+        "rarity": "Винятковий"
+    },
+    {
+        "id": "4757",
+        "name": "Командер Давіда «Окуляри» Фернандез | Морські котики-водолази",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_diver_varianta_png.png",
+        "model": "ctm_diver\/ctm_diver_varianta",
+        "team": 1,
+        "id_rarity": "rarity_ancient_character",
+        "rarity": "Експертний"
+    },
+    {
+        "id": "4771",
+        "name": "Командер Френк «Мокра Шкарпетка» Баруд | Морські котики-водолази",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_diver_variantb_png.png",
+        "model": "ctm_diver\/ctm_diver_variantb",
+        "team": 1,
+        "id_rarity": "rarity_ancient_character",
+        "rarity": "Експертний"
+    },
+    {
+        "id": "4772",
+        "name": "Лейтенант Рекс Крікі | Морські котики-водолази",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_diver_variantc_png.png",
+        "model": "ctm_diver\/ctm_diver_variantc",
+        "team": 1,
+        "id_rarity": "rarity_legendary_character",
+        "rarity": "Старший"
+    },
+    {
+        "id": "4773",
+        "name": "Елітний мисливець Солмен | Партизани",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_jungle_raider_varianta_png.png",
+        "model": "tm_jungle_raider\/tm_jungle_raider_varianta",
+        "team": 0,
+        "id_rarity": "rarity_legendary_character",
+        "rarity": "Старший"
+    },
+    {
+        "id": "4774",
+        "name": "Кресвотер Забутий | Партизани",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_jungle_raider_variantb_png.png",
+        "model": "tm_jungle_raider\/tm_jungle_raider_variantb",
+        "team": 0,
+        "id_rarity": "rarity_ancient_character",
+        "rarity": "Експертний"
+    },
+    {
+        "id": "4775",
+        "name": "Арно Переросток | Партизани",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_jungle_raider_variantc_png.png",
+        "model": "tm_jungle_raider\/tm_jungle_raider_variantc",
+        "team": 0,
+        "id_rarity": "rarity_legendary_character",
+        "rarity": "Старший"
+    },
+    {
+        "id": "4776",
+        "name": "Полковник Манґос Дабісі | Партизани",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_jungle_raider_variantd_png.png",
+        "model": "tm_jungle_raider\/tm_jungle_raider_variantd",
+        "team": 0,
+        "id_rarity": "rarity_mythical_character",
+        "rarity": "Винятковий"
+    },
+    {
+        "id": "4777",
+        "name": "Вайпа, сестра Революції | Партизани",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_jungle_raider_variante_png.png",
+        "model": "tm_jungle_raider\/tm_jungle_raider_variante",
+        "team": 0,
+        "id_rarity": "rarity_ancient_character",
+        "rarity": "Експертний"
+    },
+    {
+        "id": "4778",
+        "name": "Агресивний мисливець | Партизани",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_jungle_raider_variantf_png.png",
+        "model": "tm_jungle_raider\/tm_jungle_raider_variantf",
+        "team": 0,
+        "id_rarity": "rarity_rare_character",
+        "rarity": "Видатний"
+    },
+    {
+        "id": "4780",
+        "name": "«Середньопросмажений» Кресвотер | Партизани",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_jungle_raider_variantb2_png.png",
+        "model": "tm_jungle_raider\/tm_jungle_raider_variantb2",
+        "team": 0,
+        "id_rarity": "rarity_ancient_character",
+        "rarity": "Експертний"
+    },
+    {
+        "id": "4781",
+        "name": "Мисливець | Партизани",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_jungle_raider_variantf2_png.png",
+        "model": "tm_jungle_raider\/tm_jungle_raider_variantf2",
+        "team": 0,
+        "id_rarity": "rarity_mythical_character",
+        "rarity": "Винятковий"
+    },
+    {
+        "id": "5105",
+        "name": "Ґрунтовний повстанець | Елітна команда",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_leet_variantg_png.png",
+        "model": "tm_leet\/tm_leet_variantg",
+        "team": 0,
+        "id_rarity": "rarity_rare_character",
+        "rarity": "Видатний"
+    },
+    {
+        "id": "5106",
+        "name": "Осіріс | Елітна команда",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_leet_varianth_png.png",
+        "model": "tm_leet\/tm_leet_varianth",
+        "team": 0,
+        "id_rarity": "rarity_mythical_character",
+        "rarity": "Винятковий"
+    },
+    {
+        "id": "5107",
+        "name": "Професор Шахмет | Елітна команда",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_leet_varianti_png.png",
+        "model": "tm_leet\/tm_leet_varianti",
+        "team": 0,
+        "id_rarity": "rarity_legendary_character",
+        "rarity": "Старший"
+    },
+    {
+        "id": "5108",
+        "name": "Елітний містер Махлик | Елітна команда",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_leet_variantf_png.png",
+        "model": "tm_leet\/tm_leet_variantf",
+        "team": 0,
+        "id_rarity": "rarity_ancient_character",
+        "rarity": "Експертний"
+    },
+    {
+        "id": "5109",
+        "name": "Повстанець із джунглів | Елітна команда",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_leet_variantj_png.png",
+        "model": "tm_leet\/tm_leet_variantj",
+        "team": 0,
+        "id_rarity": "rarity_rare_character",
+        "rarity": "Видатний"
+    },
+    {
+        "id": "5205",
+        "name": "Солдат | Фенікс",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_phoenix_varianth_png.png",
+        "model": "tm_phoenix\/tm_phoenix_varianth",
+        "team": 0,
+        "id_rarity": "rarity_rare_character",
+        "rarity": "Видатний"
+    },
+    {
+        "id": "5206",
+        "name": "Убивця | Фенікс",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_phoenix_variantf_png.png",
+        "model": "tm_phoenix\/tm_phoenix_variantf",
+        "team": 0,
+        "id_rarity": "rarity_rare_character",
+        "rarity": "Видатний"
+    },
+    {
+        "id": "5207",
+        "name": "Різник | Фенікс",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_phoenix_variantg_png.png",
+        "model": "tm_phoenix\/tm_phoenix_variantg",
+        "team": 0,
+        "id_rarity": "rarity_mythical_character",
+        "rarity": "Винятковий"
+    },
+    {
+        "id": "5208",
+        "name": "Вуличний боєць | Фенікс",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_phoenix_varianti_png.png",
+        "model": "tm_phoenix\/tm_phoenix_varianti",
+        "team": 0,
+        "id_rarity": "rarity_rare_character",
+        "rarity": "Видатний"
+    },
+    {
+        "id": "5305",
+        "name": "Оперативник | Тактичний спецзагін ФБР",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_fbi_variantf_png.png",
+        "model": "ctm_fbi\/ctm_fbi_variantf",
+        "team": 1,
+        "id_rarity": "rarity_rare_character",
+        "rarity": "Видатний"
+    },
+    {
+        "id": "5306",
+        "name": "Маркус Делроу | Команда ФБР із порятунку заручників",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_fbi_variantg_png.png",
+        "model": "ctm_fbi\/ctm_fbi_variantg",
+        "team": 1,
+        "id_rarity": "rarity_mythical_character",
+        "rarity": "Винятковий"
+    },
+    {
+        "id": "5307",
+        "name": "Майкл Сайферс | Снайпер ФБР",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_fbi_varianth_png.png",
+        "model": "ctm_fbi\/ctm_fbi_varianth",
+        "team": 1,
+        "id_rarity": "rarity_legendary_character",
+        "rarity": "Старший"
+    },
+    {
+        "id": "5308",
+        "name": "Спецагент Ава | ФБР",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_fbi_variantb_png.png",
+        "model": "ctm_fbi\/ctm_fbi_variantb",
+        "team": 1,
+        "id_rarity": "rarity_ancient_character",
+        "rarity": "Експертний"
+    },
+    {
+        "id": "5400",
+        "name": "Командо з третьої роти | ССО Німеччини",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_st6_variantk_png.png",
+        "model": "ctm_st6\/ctm_st6_variantk",
+        "team": 1,
+        "id_rarity": "rarity_rare_character",
+        "rarity": "Видатний"
+    },
+    {
+        "id": "5401",
+        "name": "Морський котик із 6-ї команди | Морські котики",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_st6_variante_png.png",
+        "model": "ctm_st6\/ctm_st6_variante",
+        "team": 1,
+        "id_rarity": "rarity_rare_character",
+        "rarity": "Видатний"
+    },
+    {
+        "id": "5402",
+        "name": "Бекшот | Морські котики",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_st6_variantg_png.png",
+        "model": "ctm_st6\/ctm_st6_variantg",
+        "team": 1,
+        "id_rarity": "rarity_mythical_character",
+        "rarity": "Винятковий"
+    },
+    {
+        "id": "5403",
+        "name": "«Подвійний» Макой | Повітряний контроль ВПС США",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_st6_variantm_png.png",
+        "model": "ctm_st6\/ctm_st6_variantm",
+        "team": 1,
+        "id_rarity": "rarity_legendary_character",
+        "rarity": "Старший"
+    },
+    {
+        "id": "5404",
+        "name": "Лейтенант-командер Ріксоу | Морські котики",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_st6_varianti_png.png",
+        "model": "ctm_st6\/ctm_st6_varianti",
+        "team": 1,
+        "id_rarity": "rarity_ancient_character",
+        "rarity": "Експертний"
+    },
+    {
+        "id": "5405",
+        "name": "Старший лейтенант | Бразильський 1-й батальйон",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_st6_variantn_png.png",
+        "model": "ctm_st6\/ctm_st6_variantn",
+        "team": 1,
+        "id_rarity": "rarity_rare_character",
+        "rarity": "Видатний"
+    },
+    {
+        "id": "5500",
+        "name": "Драґомир | Шабля",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_balkan_variantf_png.png",
+        "model": "tm_balkan\/tm_balkan_variantf",
+        "team": 0,
+        "id_rarity": "rarity_mythical_character",
+        "rarity": "Винятковий"
+    },
+    {
+        "id": "5501",
+        "name": "Максимус | Шабля",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_balkan_varianti_png.png",
+        "model": "tm_balkan\/tm_balkan_varianti",
+        "team": 0,
+        "id_rarity": "rarity_mythical_character",
+        "rarity": "Винятковий"
+    },
+    {
+        "id": "5502",
+        "name": "Резан «Готовий» | Шабля",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_balkan_variantg_png.png",
+        "model": "tm_balkan\/tm_balkan_variantg",
+        "team": 0,
+        "id_rarity": "rarity_legendary_character",
+        "rarity": "Старший"
+    },
+    {
+        "id": "5503",
+        "name": "Чорний Вовк | Шабля",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_balkan_variantj_png.png",
+        "model": "tm_balkan\/tm_balkan_variantj",
+        "team": 0,
+        "id_rarity": "rarity_legendary_character",
+        "rarity": "Старший"
+    },
+    {
+        "id": "5504",
+        "name": "«Доктор» Романов | Шабля",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_balkan_varianth_png.png",
+        "model": "tm_balkan\/tm_balkan_varianth",
+        "team": 0,
+        "id_rarity": "rarity_ancient_character",
+        "rarity": "Експертний"
+    },
+    {
+        "id": "5505",
+        "name": "Драґомир | Піхота «Шаблі»",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_balkan_variantl_png.png",
+        "model": "tm_balkan\/tm_balkan_variantl",
+        "team": 0,
+        "id_rarity": "rarity_rare_character",
+        "rarity": "Видатний"
+    },
+    {
+        "id": "5601",
+        "name": "Офіцер ескадрону Б | СПС",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_sas_variantf_png.png",
+        "model": "ctm_sas\/ctm_sas_variantf",
+        "team": 1,
+        "id_rarity": "rarity_rare_character",
+        "rarity": "Видатний"
+    },
+    {
+        "id": "5602",
+        "name": "Офіцер ескадрону Д | СПС Нової Зеландії",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_sas_variantg_png.png",
+        "model": "ctm_sas\/ctm_sas_variantg",
+        "team": 1,
+        "id_rarity": "rarity_rare_character",
+        "rarity": "Видатний"
+    }
+]

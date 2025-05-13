@@ -1,0 +1,60 @@
+.statistics_container {
+    display: flex;
+    background: var(--navbar);
+    border-radius: 16px;
+    padding: 5px 20px;
+    flex-direction: column;
+    color: var(--text-custom);
+    position: relative;
+    overflow: hidden;
+    justify-content: center;
+    border: 1px solid var(--bottom-line-table);
+}
+
+.statistics_number {
+    font-family: "Unbounded";
+    font-size: 20px;
+    font-weight: 700;
+    color: var(--text-custom);
+}
+
+.statistics_icon {
+    position: absolute;
+    right: 10px;
+    bottom: 12px;
+}
+
+.statistics_icon svg {
+    width: 40px;
+    height: auto;
+    fill: #989eca;
+}
+
+.statistics_name {
+    color: var(--text-custom);
+}
+
+.statistics_container::before,
+.statistics_container2::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: 12px;
+}
+
+.statistics_container::before {
+}
+
+.statistics_container2::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}

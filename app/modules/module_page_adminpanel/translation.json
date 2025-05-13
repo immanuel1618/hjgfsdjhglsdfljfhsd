@@ -1,0 +1,1270 @@
+{
+  "_Count_admins": {
+    "EN": "Total Admins",
+    "BR": "Total de Administradores",
+    "RU": "Всего админ-ов.",
+    "UA": "Всього адмін-ов.",
+    "LT": "Iš viso administratorių.",
+    "CH": "管理员总数",
+    "CRO": "Ukupno Admina",
+    "RS": "Ukupno Admina",
+    "BA": "Ukupno Admina"
+  },
+  "_Module_loading": {
+    "EN": "Modules loading order",
+    "BR": "Ordem de carregamento dos módulos",
+    "RU": "Порядок загрузки модулей",
+    "UA": "Порядок завантаження модулів",
+    "LT": "Module loading order",
+    "CH": "模块加载命令",
+    "CRO": "Redoslijed očitavanja modula",
+    "RS": "Redosled očitavanja modula",
+    "BA": "Redoslijed očitavanja modula"
+  },
+  "_Page": {
+    "EN": "Page",
+    "BR": "Página",
+    "RU": "Страница",
+    "UA": "Сторінка",
+    "LT": "Page",
+    "CH": "页面",
+    "CRO": "Stranica",
+    "RS": "Stranica",
+    "BA": "Stranica"
+  },
+  "_Options": {
+    "EN": "Options",
+    "BR": "Opções",
+    "RU": "Опции",
+    "UA": "Опції",
+    "LT": "Options",
+    "CH": "选项",
+    "CRO": "Opcije",
+    "RS": "Podešavanja",
+    "BA": "Opcije"
+  },
+  "_Refresh_cache_modules": {
+    "EN": "To refresh the cache modules",
+    "BR": "Atualizar cache de módulos",
+    "RU": "Обновить кэш модулей",
+    "UA": "Оновити кеш модулів",
+    "LT": "To refresh the cache modules",
+    "CH": "刷新模块缓存",
+    "CRO": "Refrešuj module",
+    "RS": "Osveži module",
+    "BA": "Refrešuj module"
+  },
+  "_Refresh_cache_translations": {
+    "EN": "To refresh the cache of translations",
+    "BR": "Atualizar cache de traduções",
+    "RU": "Обновить кэш переводов",
+    "UA": "Оновити кеш перекладів",
+    "LT": "To refresh the cache of translations",
+    "CH": "刷新翻译缓存",
+    "CRO": "Refrešuj prevode",
+    "RS": "Osveži prevode",
+    "BA": "Refrešuj prevode"
+  },
+  "_Update_list_modules": {
+    "EN": "To update the list of modules",
+    "BR": "Atualizar lista de módulos",
+    "RU": "Обновить список модулей",
+    "UA": "Оновити список модулів",
+    "LT": "To update the list of modules",
+    "CH": "更新列表中的模块",
+    "CRO": "Obnovi spisak modula",
+    "RS": "Osveži spisak modula",
+    "BA": "Obnovi spisak modula"
+  },
+  "_Chief_admin": {
+    "EN": "Chief Administrator",
+    "BR": "Administrador Chefe",
+    "RU": "Гл. Администратор",
+    "UA": "Головний Адміністратор",
+    "LT": "Chief Administrator",
+    "CH": "最高管理员",
+    "CRO": "Glavni Administrator",
+    "RS": "Glavni Administrator",
+    "BA": "Glavni Administrator"
+  },
+  "_General_settings": {
+    "EN": "General",
+	"UA": "Основні",
+    "RU": "Основные"
+  },
+  "_Template_settings": {
+    "EN": "Template",
+	"UA": "Шаблон",
+    "RU": "Шаблон"
+  },
+  "_Template_rangs": {
+    "EN": "What type of ranks to use?",
+	"UA": "Який тип рангів використати?",
+    "RU": "Какой тип рангов использовать?"
+  },
+  "_Configuring_modules": {
+    "EN": "Modules",
+	"UA": "Модулі",
+    "RU": "Модули"
+  },
+  "_Server_setting": {
+    "EN": "Servers",
+	"UA": "Сервери",
+    "RU": "Серверы"
+  },
+  "_Server_setting_list": {
+    "EN": "Servers list",
+	"UA": "Список серверів",
+    "RU": "Список серверов"
+  },
+  "_Hide_filter_Servers": {
+    "EN": "Hide server filter",
+	"UA": "Приховувати фільтр серверів",
+    "RU": "Скрывать фильтр серверов"
+  },
+  "_Stretch_filter_buttons": {
+    "EN": "Stretch filter buttons to full width",
+	"UA": "Розтягувати кнопки фільтра на всю ширину",
+    "RU": "Растягивать кнопки фильтра во всю ширину"
+  },
+  "_Settings": {
+    "EN": "Settings",
+	"UA": "Налаштування",
+    "RU": "Настройки"
+  },
+  "_Database_settings": {
+    "EN": "Database",
+	"UA": "Бази даних",
+    "RU": "Базы данных"
+  },
+  "_Site_logs": {
+    "EN": "Logs",
+	"UA": "Логи",
+    "RU": "Логи"
+  },
+  "_Site_stats": {
+    "EN": "Stats",
+	"UA": "Статистика",
+    "RU": "Статистика"
+  },
+  "_Translation_settings": {
+    "EN": "Translation Settings",
+    "BR": "Configurações de Tradução",
+    "RU": "Настройка переводов",
+    "UA": "Налаштування перекладів",
+    "LT": "Translation settings",
+    "CH": "翻译设置",
+    "CRO": "Postavke prevoda",
+    "RS": "Podešavanja prevoda",
+    "BA": "Podešavanja prevoda"
+  },
+  "_Extra_settingss": {
+    "EN": "Extra Settings",
+    "BR": "Configurações Extras",
+    "RU": "Дополнительные настройки",
+    "UA": "Додаткові налаштування",
+    "LT": "Extra Settings",
+    "CH": "额外设置",
+    "CRO": "Extra postavke",
+    "RS": "Extra podešavanja",
+    "BA": "Extra podešavanja"
+  },
+  "_Full_name": {
+    "EN": "Full Name",
+    "BR": "Nome Completo",
+    "RU": "Полное название",
+    "UA": "Полное название",
+    "LT": "Full name",
+    "CH": "网站全名",
+    "CRO": "Puno ime",
+    "RS": "Puno ime",
+    "BA": "Puno ime"
+  },
+  "_Short_name": {
+    "EN": "Short Name",
+    "BR": "Nome Curto",
+    "RU": "Короткое название",
+    "UA": "Коротка назва",
+    "LT": "Short name",
+    "CH": "网站略称",
+    "CRO": "Kratko ime",
+    "RS": "Kratko ime",
+    "BA": "Kratko ime"
+  },
+  "_Basic_information": {
+    "EN": "Basic Information",
+    "BR": "Informação Básica",
+    "RU": "Общая информация",
+    "UA": "Загальна інформація",
+    "LT": "Basic information",
+    "CH": "基本信息",
+    "CRO": "Osnovne informacije",
+    "RS": "Osnovne informacije",
+    "BA": "Osnovne informacije"
+  },
+  "_Language": {
+    "EN": "Language",
+    "BR": "Idioma",
+    "RU": "Язык",
+    "UA": "Мова",
+    "LT": "Language",
+    "CH": "默认语言",
+    "CRO": "Jezik",
+    "RS": "Jezik",
+    "BA": "Jezik"
+  },
+  "_Chief_administrator_Steam": {
+    "EN": "Chief Administrator (Steam Authorization)",
+    "BR": "Administrador Chefe (Autorização Steam)",
+    "RU": "Глав. администратор (Steam авторизация)",
+    "UA": "Головний адміністратор (Steam авторизація)",
+    "LT": "Chief administrator (Steam authorization)",
+    "CH": "最高管理员 (Steam 验证)",
+    "CRO": "Glavni Administrator (Stim autorizacija)",
+    "RS": "Glavni Administrator (Stim autorizacija)",
+    "BA": "Glavni Administrator (Stim autorizacija)"
+  },
+  "_Use_Steam_ID": {
+    "EN": "Use Steam ID 64",
+    "BR": "Use Steam ID 64",
+    "RU": "Использовать Steam ID 64",
+    "UA": "Використовувати Steam ID 64",
+    "LT": "Use Steam ID 64",
+    "CH": "使用Steam 64位ID",
+    "CRO": "Koristi STEAM ID 64",
+    "RS": "Koristi STEAM ID 64",
+    "BA": "Koristi STEAM ID 64"
+  },
+  "_Import_admin_list": {
+    "EN": "Import Admin List from SB/MA (Steam)",
+    "BR": "Importar Lista de Admin do SB/MA (Steam)",
+    "RU": "Импорт админ листа из SB/MA (Steam)",
+    "UA": "Імпорт Адмін листа з SB/MA (Steam)",
+    "LT": "Import admin list from SB/MA (Steam)",
+    "CH": "从SB/MA (Steam)导入管理员",
+    "CRO": "Importuj admin listu sa SB/MA",
+    "RS": "Importuj admin listu sa SB/MA",
+    "BA": "Importuj admin listu sa SB/MA"
+  },
+  "_Save": {
+    "EN": "Save",
+    "BR": "Salvar",
+    "RU": "Сохранить",
+    "UA": "Зберегти",
+    "LT": "Save",
+    "CH": "保存",
+    "CRO": "Snimi",
+    "RS": "Snimi",
+    "BA": "Snimi"
+  },
+  "_Save_change": {
+    "EN": "Save changes",
+    "UA": "Зберегти зміни",
+    "RU": "Сохранить изменения"
+  },
+  "_Dark_mode_default": {
+    "EN": "Dark Mode - Default",
+    "BR": "Modo Escuro - Padrão",
+    "RU": "Тёмный режим - По умолчанию",
+    "UA": "Темний режим - За замовчуванням",
+    "LT": "Dark mode - default",
+    "CH": "黑夜模式",
+    "CRO": "Tamni mod - podrazumjevano",
+    "RS": "Tamni mod - podrazumevano",
+    "BA": "Tamni mod - podrazumjevano"
+  },
+  "_Animation_default": {
+    "EN": "Animation",
+    "BR": "Animação",
+    "RU": "Анимации",
+    "UA": "Анімації",
+    "LT": "Animation",
+    "CH": "动画",
+    "CRO": "Animacije",
+    "RS": "Animacije",
+    "BA": "Animacije"
+  },
+  "_Show_avatars": {
+    "EN": "Show Avatars",
+    "BR": "Mostrar Avatares",
+    "RU": "Показывать ли аватарки",
+    "UA": "Чи показувати аватарки",
+    "LT": "Show avatars",
+    "CH": "显示头像",
+    "CRO": "Prikaži slike",
+    "RS": "Prikaži avatare",
+    "BA": "Prikaži avatare"
+  },
+  "_Timecache_avatars": {
+    "EN": "Avatar Retention Time(Sec.)",
+	"UA": "Час збереження аватарів(Сек.)",
+    "RU": "Время сохранения аватаров(Сек.)"
+  },
+  "_Steam_web_api": {
+    "EN": "Steam WEB KEY",
+	"UA": "Steam WEB KEY",
+    "RU": "Steam WEB KEY"
+  },
+  "_Sidebar_default": {
+    "EN": "Open Sidebar - Default",
+    "BR": "Abrir Sidebar - Padrão",
+    "RU": "Открытый сайтбар - По умолчанию",
+    "UA": "Відкритий сайдбар - За замовчуванням",
+    "LT": "Open sidebar - default",
+    "CH": "侧边栏 ( 默认 )",
+    "CRO": "Otvori bočni meni - podrazumjevano",
+    "RS": "Otvori sidebar - podrazumevano",
+    "BA": "Otvori sidebar - podrazumjevano"
+  },
+  "_Round_shapes": {
+    "EN": "Do round shapes",
+    "BR": "Faça formas redondas",
+    "RU": "Закруглять ли углы у форм",
+    "UA": "Чи закругляти кути у форми",
+    "LT": "Do round shapes",
+    "CH": "圆边",
+    "CRO": "Bočne linije zaobljene",
+    "RS": "Bočne linije zaobljene",
+    "BA": "Bočne linije zaobljene"
+  },
+  "_All_access_rights": {
+    "EN": "All access rights",
+    "BR": "Todos os direitos de acesso",
+    "RU": "Полные права доступа",
+    "UA": "Повні права доступу",
+    "LT": "All access rights",
+    "CH": "所有访问权限",
+    "CRO": "Svi pristupi",
+    "RS": "Svi pristupi",
+    "BA": "Svi pristupi"
+  },
+  "_Steam_access_authorization": {
+    "EN": "Steam Access Authorization",
+    "BR": "Autorização Acesso Steam",
+    "RU": "Доступ к Steam авторизации",
+    "UA": "Доступ до Steam авторизації",
+    "CH": "Steam 权限认证",
+    "CRO": "Steam autorizacija",
+    "RS": "Stim autorizacija",
+    "BA": "Stim autorizacija"
+  },
+  "_Steam_only_authorization": {
+    "EN": "Steam Authorization Only",
+    "BR": "Apenas Autorização Steam",
+    "RU": "Авторизация только по Steam",
+    "UA": "Авторизація тільки по Steam",
+    "CH": "仅使用Steam登录认证",
+    "CRO": "Samo Steam autorizacija",
+    "RS": "Samo Stim autorizacija",
+    "BA": "Samo Steam autorizacija"
+  },
+  "_Design": {
+    "EN": "Design",
+    "BR": "Design",
+    "RU": "Дизайн",
+    "UA": "Дизайн",
+    "CH": "网页样式",
+    "CRO": "Dizajn",
+    "RS": "Dizajn",
+    "BA": "Dizajn"
+  },
+  "_Enable_css_cache": {
+    "EN": "Enable Cache - CSS",
+    "BR": "Habilitar Cache - CSS",
+    "RU": "Включить кэш - CSS",
+    "UA": "Включити кеш - CSS",
+    "CRO": "Omogući CSS keš",
+    "RS": "Omogući CSS keš",
+    "BA": "Omogući CSS keš"
+  },
+  "_Enable_js_cache": {
+    "EN": "Enable Cache - JS",
+    "BR": "Habilitar Cache - JS",
+    "RU": "Включить кэш - JS",
+    "UA": "Включити кеш - JS",
+    "CRO": "Omogući JS keš",
+    "RS": "Omogući JS keš",
+    "BA": "Omogući JS keš"
+  },
+  "_Optimization": {
+    "EN": "Optimization",
+    "BR": "Otimização",
+    "RU": "Оптимизация",
+    "UA": "Оптимізація",
+    "CRO": "Optimizacija",
+    "RS": "Optimizacija",
+    "BA": "Optimizacija"
+  },
+  "_White_color_palettes": {
+    "EN": "White Сolor Palettes",
+    "RU": "Белая палитра сайта",
+    "UA": "Біла палітра сайту",
+    "CRO": "Svijetla tema",
+    "RS": "Svetla tema",
+    "BA": "Svijetla tema"
+  },
+  "_Dark_color_palettes": {
+    "EN": "Dark Сolor Palettes",
+    "RU": "Тёмная палитра сайта",
+    "UA": "Темна палітра сайту",
+    "CRO": "Tamna tema",
+    "RS": "Tamna tema",
+    "BA": "Tamna tema"
+  },
+  "_Background_image": {
+    "EN": "Background Image",
+    "BR": "Imagem de Fundo",
+    "RU": "Фоновое изображение",
+    "UA": "Фонове зображення",
+    "CRO": "Pozadinska slika",
+    "RS": "Pozadinska slika",
+    "BA": "Pozadinska slika"
+  },
+  "_No_image": {
+    "EN": "No image",
+    "BR": "Sem imagem",
+    "RU": "Без изображения",
+    "UA": "Без зображення",
+    "CRO": "Bez slike",
+    "RS": "Bez slike",
+    "BA": "Bez slike"
+  },
+  "_Session_check": {
+    "EN": "Check PHP Sessions",
+    "RU": "Проверка PHP сессий",
+    "UA": "Перевірка PHP сесій",
+    "CRO": "Provjeri PHP sesiju",
+    "RS": "Proveri PHP sesiju",
+    "BA": "Provjeri PHP sesiju"
+  },
+  "_Primary_graphics_container": {
+    "EN": "Primary Graphics Container",
+    "RU": "Основной графический контейнер",
+    "UA": "Основний графічний контейнер",
+    "CRO": "Primarna veličina",
+    "RS": "Primarna veličina",
+    "BA": "Primarna veličina"
+  },
+  "_Stretch": {
+    "EN": "Stretch/Fluid",
+    "BR": "Stretch/Fluid",
+    "RU": "Растягивать по ширине экрана",
+    "UA": "Розтягувати по ширині екрану",
+    "CRO": "Razvučeno/Fluid",
+    "RS": "Razvučeno/Fluid",
+    "BA": "Razvučeno/Fluid"
+  },
+  "_Static": {
+    "EN": "Static - Max 1400px",
+    "RU": "Статика - Макс 1400px",
+    "UA": "Статика - Макс 1400px",
+    "CRO": "Statična - Max 1400px",
+    "RS": "Statična - Max 1400px",
+    "BA": "Statična - Max 1400px"
+  },
+  "_Disable_sidebar_change": {
+    "EN": "Disable Sidebar Change",
+    "RU": "Запретить изменение вида боковой панели",
+    "UA": "Заборонити зміну виду бічній панелі",
+    "CRO": "Onemogući pomjeranje bočnog menija",
+    "RS": "Onemogući pomeranje sidebara",
+    "BA": "Onemogući pomjeranje sidebara"
+  },
+  "_Disable_palettes_change": {
+    "EN": "Disable Palettes Change",
+    "RU": "Запретить изменение палитры сайта",
+    "UA": "Заборонити зміну палітри сайту",
+    "CRO": "Onemogući menjanje teme",
+    "RS": "Onemogući menjanje teme",
+    "BA": "Onemogući menjanje teme"
+  },
+  "_Sidebar_blur": {
+    "EN": "Enable Sidebar Blur",
+    "RU": "Включить размытие у боковой панели",
+    "UA": "Включити розмиття в бічній панелі"
+  },
+  "_Blocks_blur": {
+    "EN": "Enable Blocks Blur",
+    "RU": "Включить размытие у блоков",
+    "UA": "Включити розмиття у блоків"
+  },
+  "_Add_Server": {
+    "EN": "Add Server",
+    "BR": "Add Servidor",
+	"UA": "Додати сервер",
+    "RU": "Добавить сервер"
+  },
+  "_Server_name": {
+    "EN": "Server Name",
+	"UA": "Назва сервера",
+    "RU": "Название сервера"
+  },
+  "_TechnoName": {
+    "EN": "Technical Name",
+	  "UA": "Технічна назва",
+    "RU": "Техническое название"
+  },
+  "_BageName": {
+    "EN": "Server Badge",
+	  "UA": "Бейдж сервера",
+    "RU": "Бейдж сервера"
+  },
+  "_Ip_Port_Server": {
+    "EN": "IP:PORT Server",
+	"UA": "",
+    "RU": "IP:PORT Сервера"
+  },
+  "_Ip_Port_View": {
+    "EN": "IP:PORT Output",
+	"UA": "IP:PORT Сервера",
+    "RU": "IP:PORT Выводимый"
+  },
+  "_Rcon": {
+    "EN": "RCON",
+	"UA": "RCON",
+    "RU": "RCON"
+  },
+  "_Stat_Table": {
+    "EN": "Statistics Table",
+	"UA": "Статистика Таблиця",
+    "RU": "Статистика Таблица"
+  },
+  "_Vip_Table": {
+    "EN": "VIP CORE Table",
+	"UA": "VIP CORE Таблиця",
+    "RU": "VIP CORE Таблица"
+  },
+  "_Vip_Sid": {
+    "EN": "Server ID (vipc_core.cfg)",
+	"UA": "ID Сервера (vip_core.cfg)",
+    "BR": "Server ID (vipc_core.cfg)",
+    "RU": "ID Сервера (vip_core.cfg)"
+  },
+  "_Sb_Table": {
+    "EN": "IksAdmin/AdminSystem Table",
+    "BR": "IksAdmin/AdminSystem Tabela",
+	"UA": "IksAdmin/AdminSystem Таблиця",
+    "RU": "IksAdmin/AdminSystem Таблица"
+  },
+  "_Shop_Table": {
+    "EN": "Shop Table",
+    "BR": "Shop Tabela",
+    "UA": "Таблиця Магазину",
+    "RU": "Shop Таблица"
+  },
+  "_WarnSystem_Table": {
+    "EN": "WarnSystem Table",
+    "BR": "WarnSystem Tabela",
+    "UA": "Таблиця WarnSystem",
+    "RU": "WarnSystem Таблица"
+  },
+  "_Lk_Table": {
+    "EN": "LK Table",
+    "BR": "LK Tabela",
+    "UA": "Таблиця LK",
+    "RU": "LK Таблица"
+  },
+  "_Server_Name": {
+    "EN": "Title",
+    "UA": "Назва",
+    "RU": "Название"
+  },
+  "_View": {
+    "EN": "Visual",
+    "UA": "Візуальний",
+    "RU": "Визуальный"
+  },
+  "_Server": {
+    "EN": "Server",
+    "UA": "Сервер",
+    "RU": "Сервер"
+  },
+  "_Add_con": {
+    "EN": "Add Connection",
+    "UA": "Додати з'єднання",
+    "RU": "Добавить подключение"
+  },
+  "_Edit_con": {
+    "EN": "Edit Connection",
+    "UA": "Редагувати з'єднання",
+    "RU": "Редактировать подключение"
+  },
+  "_type_con": {
+    "EN": "Type of new connection:",
+    "UA": "Тип нового з'єднання:",
+    "RU": "Тип нового подключения:"
+  },
+  "_table_con": {
+    "EN": "Table",
+    "UA": "Таблиця",
+    "RU": "Таблица"
+  },
+  "_db_con": {
+    "EN": "Database",
+    "UA": "База даних",
+    "RU": "База данных"
+  },
+  "_take_db_con": {
+    "EN": "Choose Database",
+    "UA": "Виберіть базу даних",
+    "RU": "Выбери базу данных"
+  },
+  "_non_take_con": {
+    "EN": "Not chosen",
+    "UA": "Не вибрано",
+    "RU": "Не выбрано"
+  },
+  "_host": {
+    "EN": "Host",
+    "UA": "Хост",
+    "RU": "Хост"
+  },
+  "_name_db": {
+    "EN": "Database Name:",
+    "UA": "Назва бази даних:",
+    "RU": "Имя базы данных:"
+  },
+  "_username": {
+    "EN": "DB Username:",
+    "UA": "Ім'я користувача БД:",
+    "RU": "Имя пользователя БД:"
+  },
+  "_password": {
+    "EN": "User Password DB:",
+    "UA": "Пароль користувача БД:",
+    "RU": "Пароль пользователя БД:"
+  },
+  "_port": {
+    "EN": "Port:",
+    "UA": "Порт:",
+    "RU": "Порт:"
+  },
+  "_table_name": {
+    "EN": "Table Name:",
+    "UA": "Назва таблиці:",
+    "RU": "Название таблицы:"
+  },
+  "_rank_pack": {
+    "EN": "Grade Pack:",
+    "UA": "Пакет рангів:",
+    "RU": "Пакет рангов:"
+  },
+  "_add": {
+    "EN": "Add",
+    "UA": "Додати",
+    "RU": "Добавить"
+  },
+  "_mod_list": {
+    "EN": "Mods List",
+    "UA": "Список модів",
+    "RU": "Список модов"
+  },
+  "_mod": {
+    "EN": "Mod",
+    "UA": "Мод",
+    "RU": "Мод"
+  },
+  "_configure": {
+    "EN": "Configurator",
+    "UA": "Конфігуратор",
+    "RU": "Конфигуратор"
+  },
+  "_take_mod": {
+    "EN": "Choose Mod",
+    "UA": "Виберіть мод",
+    "RU": "Выберите мод"
+  },
+  "_custom_mode": {
+    "EN": "Own Mod",
+    "UA": "Власний мод",
+    "RU": "Свой мод"
+  },
+  "_enter_mode_name": {
+    "EN": "Enter the name of the mod:",
+    "UA": "Введіть назву мода:",
+    "RU": "Введите название мода:"
+  },
+  "_list_con": {
+    "EN": "General",
+    "UA": "Загальний",
+    "RU": "Общий"
+  },
+  "_user": {
+    "EN": "User",
+    "UA": "Користувач",
+    "RU": "Пользователь"
+  },
+  "_table_prefix": {
+    "EN": "Table | Prefix",
+    "UA": "Таблиця | Префікс",
+    "RU": "Таблица | Префикс"
+  },
+  "_error": {
+    "EN": "Error!",
+    "UA": "Помилка!",
+    "RU": "Ошибка!"
+  },
+  "_error_host": {
+    "EN": "Enter host!",
+    "UA": "Введіть хост!",
+    "RU": "Введите хост!"
+  },
+  "_error_db": {
+    "EN": "Enter a database name!",
+    "UA": "Введіть назву бази даних!",
+    "RU": "Введите название базы данных!"
+  },
+  "_error_password": {
+    "EN": "Enter user password DB!",
+    "UA": "Введіть пароль користувача БД!",
+    "RU": "Введите пароль пользователя БД!"
+  },
+  "_error_username": {
+    "EN": "Enter DB username!",
+    "UA": "Введіть ім'я користувача БД!",
+    "RU": "Введите имя пользователя БД!"
+  },
+  "_error_port": {
+    "EN": "Enter port!",
+    "UA": "Введіть порт!",
+    "RU": "Введите порт!"
+  },
+  "_error_name_table": {
+    "EN": "Enter a table name!",
+    "UA": "Введіть назву таблиці!",
+    "RU": "Введите название таблицы!"
+  },
+  "_error_rank_pack": {
+    "EN": "Enter Rank Pack!",
+    "UA": "Введіть пакет рангів!",
+    "RU": "Введите пакет рангов!"
+  },
+  "_success_db_created": {
+    "EN": "New database added!",
+    "UA": "Нова база даних додана!",
+    "RU": "Новая база данных добавлена!"
+  },
+  "_error_create_db": {
+    "EN": "First create a database!",
+    "UA": "Спочатку створіть базу даних!",
+    "RU": "Сначала создайте базу данных!"
+  },
+  "_error_enter_db": {
+    "EN": "Choose a database!",
+    "UA": "Виберіть базу даних!",
+    "RU": "Выберите базу данных!"
+  },
+  "_success_table_created": {
+    "EN": "New table added!",
+    "UA": "Нова таблиця додана!",
+    "RU": "Новая таблица добавлена!"
+  },
+  "_error_db_not_found": {
+    "EN": "The specified database was not found!",
+    "UA": "Вказана база даних не знайдена!",
+    "RU": "Указанная база данных не найдена!"
+  },
+  "_error_not_found": {
+    "EN": "Unknown error!",
+    "UA": "Невідома помилка!",
+    "RU": "Неизвестная ошибка!"
+  },
+  "_success_mod_created": {
+    "EN": "New mod created!",
+    "UA": "Новий мод створено!",
+    "RU": "Новый мод создан!"
+  },
+  "_error_con_db": {
+    "EN": "Error connecting to database!",
+    "UA": "Помилка підключення до бази даних!",
+    "RU": "Ошибка подключения к базе данных!"
+  },
+  "_Admin_stats": {
+    "EN": "Statistics",
+    "BR": "Estatisticas",
+    "RU": "Статистика",
+    "UA": "Статистика",
+    "LT": "Statistika",
+    "TR": "İstatistik"
+  },
+  "_Visits": {
+    "EN": "Visits",
+    "BR": "Visitas",
+    "UA": "Відвідування",
+    "RU": "Посещения"
+  },
+  "_Online": {
+    "EN": "Online:",
+    "BR": "Online:",
+    "UA": "Онлайн:",
+    "RU": "На сайте:"
+  },
+  "_Total": {
+    "EN": "Total:",
+    "UA": "Всього переходів:",
+    "RU": "Всего переходов:"
+  },
+  "_For": {
+    "EN": "For",
+    "UA": "За",
+    "RU": "За"
+  },
+  "_Jan": {
+    "EN": "January",
+    "BR": "Janeiro",
+    "UA": "січень",
+    "RU": "январь"
+  },
+  "_Feb": {
+    "EN": "February",
+    "BR": "Fevereiro",
+    "UA": "лютий",
+    "RU": "февраль"
+  },
+  "_Mar": {
+    "EN": "March",
+    "BR": "Março",
+    "UA": "березень",
+    "RU": "март"
+  },
+  "_Apr": {
+    "EN": "April",
+    "BR": "Abril",
+    "UA": "квітень",
+    "RU": "апрель"
+  },
+  "_May": {
+    "EN": "May",
+    "BR": "Maio",
+    "UA": "травень",
+    "RU": "май"
+  },
+  "_Jun": {
+    "EN": "June",
+    "BR": "Junho",
+    "UA": "червень",
+    "RU": "июнь"
+  },
+  "_Jul": {
+    "EN": "July",
+    "BR": "Julho",
+    "UA": "липень",
+    "RU": "июль"
+  },
+  "_Aug": {
+    "EN": "August",
+    "BR": "Agosto",
+    "UA": "серпень",
+    "RU": "август"
+  },
+  "_Sep": {
+    "EN": "September",
+    "BR": "Setembro",
+    "UA": "вересень",
+    "RU": "сентябрь"
+  },
+  "_Oct": {
+    "EN": "October",
+    "BR": "Outubro",
+    "UA": "жовтень",
+    "RU": "октябрь"
+  },
+  "_Nov": {
+    "EN": "November",
+    "BR": "Novembro",
+    "UA": "листопад",
+    "RU": "ноябрь"
+  },
+  "_Dec": {
+    "EN": "December",
+    "BR": "Dezembro",
+    "UA": "грудень",
+    "RU": "декабрь"
+  },
+  "_Mset": {
+    "EN": "Module Settings:",
+    "UA": "Налаштування модуля:",
+    "RU": "Настройки модуля:"
+  },
+  "_MAuth": {
+    "EN": "Author:",
+    "BR": "Autor:",
+    "UA": "Автор:",
+    "RU": "Автор:"
+  },
+  "_MKer": {
+    "EN": "Min Kernel Version:",
+    "UA": "Мін. версія ядра:",
+    "RU": "Мин. версия ядра:"
+  },
+  "_MVer": {
+    "EN": "Module Version:",
+    "UA": "Версія модуля:",
+    "RU": "Версия модуля:"
+  },
+  "_MPHP": {
+    "EN": "Min PHP Version:",
+    "UA": "Мін. версія PHP:",
+    "RU": "Мин. версия PHP:"
+  },
+  "_MDesc": {
+    "EN": "Description:",
+    "UA": "Опис:",
+    "RU": "Описание:"
+  },
+  "_MActive": {
+    "EN": "Active Page:",
+    "UA": "Активна сторінка:",
+    "RU": "Активная страница:"
+  },
+  "_MOnoff": {
+    "EN": "Module On/Off",
+    "UA": "Модуль вкл/викл",
+    "RU": "Модуль вкл/выкл"
+  },
+  "_MMode": {
+    "EN": "Module Mode:",
+    "UA": "Режим модуля:",
+    "RU": "Режим модуля:"
+  },
+  "_MInterface": {
+    "EN": "The Graphical Part:",
+    "UA": "Графічна частина:",
+    "RU": "Графическая часть:"
+  },
+  "_MI": {
+    "EN": "Pre-Initialization:",
+    "UA": "Пре-ініціалізація:",
+    "RU": "Пре-инициализация:"
+  },
+  "_MAP": {
+    "EN": "Additional pre-initialization associated with the main thread:",
+    "UA": "Додаткова пре-ініціалізація, пов'язана з основним потоком:",
+    "RU": "Дополнительная пре-инициализацию, связанная с основным потоком:"
+  },
+  "_MCache": {
+    "EN": "Cache Usage:",
+    "UA": "Використання кешу:",
+    "RU": "Использование кэша:"
+  },
+  "_MCT": {
+    "EN": "Cache Time (Sec):",
+    "UA": "Час кешування (сек.):",
+    "RU": "Время кэширования (сек.):"
+  },
+  "_MTR": {
+    "EN": "Own translation file:",
+    "UA": "Власний файл перекладу:",
+    "RU": "Собственный файл перевода:"
+  },
+  "_MCSS": {
+    "EN": "Native CSS Style:",
+    "UA": "Власний CSS стиль:",
+    "RU": "Собственный CSS стиль:"
+  },
+  "_MJS": {
+    "EN": "Own JS Library:",
+    "UA": "Власна JS бібліотека:",
+    "RU": "Собственная JS библиотека:"
+  },
+  "_Cockie": {
+    "EN": "Storing data in cookies",
+    "UA": "Збереження даних у кукі",
+    "RU": "Сохранение данных в куки"
+  },
+  "_Template": {
+    "EN": "Choose Template",
+    "UA": "Обрати шаблон",
+    "RU": "Выберете шаблон"
+  },
+  "_Css_off_cache": {
+    "EN": "Disable CSS/JS Browser Cache",
+    "UA": "Вимкнути кеш браузера CSS/JS",
+    "RU": "Отключение браузерного кеша CSS/JS"
+  },
+  "_Info_social": {
+    "EN": "Social and other links",
+    "UA": "Соціальні мережі та інші посилання",
+    "RU": "Социальные сети и ссылки"
+  },
+  "_Nav_footer_text": {
+    "EN": "Navbar and footer text",
+    "UA": "Текст у навбарі та футері",
+    "RU": "Текст в навбаре и футере"
+  },
+  "_Link_vk": {
+    "EN": "Vk",
+    "UA": "Вк",
+    "RU": "Вк"
+  },
+  "_Link_tg": {
+    "EN": "Telegram",
+    "UA": "Telegram",
+    "RU": "Telegram"
+  },
+  "_Link_ds": {
+    "EN": "Discord",
+    "UA": "Discord",
+    "RU": "Discord"
+  },
+  "_Link_steam": {
+    "EN": "Steam",
+    "UA": "Steam",
+    "RU": "Steam"
+  },
+  "_Link_yt": {
+    "EN": "Youtube",
+    "UA": "Youtube",
+    "RU": "Youtube"
+  },
+  "_Link_tt": {
+    "EN": "Tiktok",
+    "UA": "Tiktok",
+    "RU": "Tiktok"
+  },
+  "_Link_tech": {
+    "EN": "Support",
+    "UA": "Підтримка",
+    "RU": "Поддержка"
+  },
+  "_Link_placeholder": {
+    "EN": "If you don't need to, leave the field blank",
+    "UA": "Якщо не потрібно, залиште поле порожнім",
+    "RU": "Если не нужно, оставьте поле пустым"
+  },
+  "_Nav_editor": {
+    "EN": "Menu Editor",
+    "UA": "Редактор меню",
+    "RU": "Редактор меню"
+  },
+  "_Nav_piont": {
+    "EN": "Item name",
+    "UA": "Назва пункту",
+    "RU": "Название пункта"
+  },
+  "_Nav_link": {
+    "EN": "Link",
+    "UA": "Посилання",
+    "RU": "Ссылка"
+  },
+  "_Nav_icon": {
+    "EN": "SVG icon",
+    "UA": "SVG іконка",
+    "RU": "SVG иконка"
+  },
+  "_Nav_sort": {
+    "EN": "Sort number",
+    "UA": "Порядковий номер",
+    "RU": "Порядковый номер"
+  },
+  "_Nav_list": {
+    "EN": "List of menu items",
+    "UA": "Список пунктів меню",
+    "RU": "Список пунктов меню"
+  },
+  "_Nav_delete": {
+    "EN": "Delete",
+    "UA": "Видалити",
+    "RU": "Удалить"
+  },
+  "_Nav_delete_tooltip": {
+    "EN": "Delete item",
+    "UA": "Видалити пункт",
+    "RU": "Удалить пункт"
+  },
+  "_Nav_link_place": {
+    "EN": "/shop,/admins,/skinchanger,/vips,/request and etc",
+    "UA": "/shop,/admins,/skinchanger,/vips,/request і т.д.",
+    "RU": "/shop,/admins,/skinchanger,/vips,/request и т.п."
+  },
+  "_Nav_name_place": {
+    "EN": "For example, skinchanger",
+    "UA": "Наприклад, скинчейнджер",
+    "RU": "Например, скинчейнджер"
+  },
+  "_Nav_sort_place": {
+    "EN": "1,2,3 and etc",
+    "UA": "1,2,3 і т.д.",
+    "RU": "1,2,3 и т.д."
+  },
+  "_Nav_change_menu": {
+    "EN": "Edit",
+    "UA": "Змінити",
+    "RU": "Изменить"
+  },
+  "_Nav_change_menu_tooltip": {
+    "EN": "Edit item",
+    "UA": "Редагувати пункт",
+    "RU": "Редактировать пункт"
+  },
+  "_Game_mod": {
+    "EN": "Game mod",
+    "UA": "Ігровий мод",
+    "RU": "Игровой мод"
+  },
+  "_Recreate_db_Servers": {
+    "EN": "Rebuild server base",
+    "UA": "Пересоздати базу серверів",
+    "RU": "Пересоздать базу серверов"
+  },
+  "_On_Off_checkbox": {
+    "EN": "On/off",
+    "UA": "Вкл/викл",
+    "RU": "Вкл/Выкл"
+  },
+  "_Country_server": {
+    "EN": "Country",
+    "UA": "Країна",
+    "RU": "Страна"
+  },
+  "_City_server": {
+    "EN": "City",
+    "UA": "Місто",
+    "RU": "Город"
+  },
+  "_Id_server": {
+    "EN": "ID",
+    "UA": "ID",
+    "RU": "ID"
+  },
+  "_IpPort_server": {
+    "EN": "IP:PORT",
+    "UA": "IP:PORT",
+    "RU": "IP:PORT"
+  },
+  "_Icons_here": {
+    "EN": "(You can get icons here)",
+    "UA": "(Іконки можна взяти тут)",
+    "RU": "(Брать иконки можно здесь)"
+  },
+  "_Stats_total_players": {
+    "EN": "Total players",
+    "UA": "Всього гравців",
+    "RU": "Всего игроков"
+  },
+  "_Stats_24h_players": {
+    "EN": "Players in 24 hours",
+    "UA": "Гравців за 24 години",
+    "RU": "Игроков за 24 часа"
+  },
+  "_Stats_total_earned": {
+    "EN": "Total earned",
+    "UA": "Всього зароблено",
+    "RU": "Всего заработано"
+  },
+  "_Stats_total_earned_month": {
+    "EN": "Earned for",
+    "UA": "Зароблено за",
+    "RU": "Заработано за"
+  },
+  "_Stats_admins": {
+    "EN": "Admins",
+    "UA": "Адмінів",
+    "RU": "Админов"
+  },
+  "_Stats_vips": {
+    "EN": "Vips",
+    "UA": "Віпів",
+    "RU": "Випов"
+  },
+  "_Stats_bans": {
+    "EN": "Bans",
+    "UA": "Бани",
+    "RU": "Баны"
+  },
+  "_Stats_comms": {
+    "EN": "Comms",
+    "UA": "М'юти",
+    "RU": "Муты"
+  },
+  "_Stats_visit_30d": {
+    "EN": "The site was visited for the month",
+    "UA": "Сайт відвідали за місяць",
+    "RU": "Сайт посетили за месяц"
+  },
+  "_Stats_visit_humans": {
+    "EN": "humans",
+    "UA": "людина",
+    "RU": "человек"
+  },
+  "_Stats_visit_online": {
+    "EN": "Online now:",
+    "UA": "Зараз на сайті:",
+    "RU": "Сейчас на сайте:"
+  },
+  "_Stats_visit_last_activity": {
+    "EN": "Last activity: in",
+    "UA": "Остання активність: в",
+    "RU": "Последняя активность: в"
+  },
+  "_Stats_purchases": {
+    "EN": "Last purchases",
+    "UA": "Останні покупки",
+    "RU": "Последние покупки"
+  },
+  "_Stats_transactions": {
+    "EN": "Last transactions",
+    "UA": "Останні транзакції",
+    "RU": "Последние транзакции"
+  },
+  "_Logs_copylog": {
+    "EN": "Copy log",
+    "UA": "Скопіювати лог",
+    "RU": "Скопировать лог"
+  },
+  "_Logs_shop": {
+    "EN": "Shop logs",
+    "UA": "Логи магазину",
+    "RU": "Логи магазина"
+  },
+  "_Logs_pay": {
+    "EN": "Pay logs",
+    "UA": "Логи поповнень",
+    "RU": "Логи пополнений"
+  },
+  "_Logs_engine": {
+    "EN": "Engine logs",
+    "UA": "Логи движка",
+    "RU": "Логи движка"
+  },
+  "_Edit_Server": {
+    "EN": "Edit server",
+    "UA": "Змінити сервер",
+    "RU": "Изменить сервер"
+  },
+  "_Logo": {
+    "EN": "SVG logo",
+    "UA": "SVG логотип",
+    "RU": "SVG логотип"
+  },
+  "_Email": {
+    "EN": "Email address",
+    "UA": "Електронна пошта",
+    "RU": "Электронная почта"
+  },
+  "_ClearallCache": {
+    "EN": "Clear all cache",
+    "UA": "Очистити весь кеш",
+    "RU": "Очистить весь кэш"
+  },
+  "_TemplateVersion": {
+    "EN": "Template version",
+    "UA": "Версія шаблону",
+    "RU": "Версия шаблона"
+  },
+  "_EnabletechWork": {
+    "EN": "Enable engineering works",
+    "UA": "Увімкнути тех. роботи",
+    "RU": "Включить тех. работы"
+  },
+  "_Hide_the_city_in_monitoring": {
+    "EN": "Hide the city in monitoring",
+    "UA": "Приховувати місто у моніторингу",
+    "RU": "Скрывать город в мониторинге"
+  },
+  "_Hide_country_in_monitoring": {
+    "EN": "Hide country in monitoring",
+    "UA": "Приховувати країну у моніторингу",
+    "RU": "Скрывать страну в мониторинге"
+  }
+}

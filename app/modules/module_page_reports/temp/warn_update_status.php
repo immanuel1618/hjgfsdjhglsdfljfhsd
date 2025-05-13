@@ -1,0 +1,1 @@
+<?php return array('last_update'=>0,'update_needed'=>false);

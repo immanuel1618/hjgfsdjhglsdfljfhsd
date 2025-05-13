@@ -1,0 +1,32 @@
+{
+  "_Count_players": {
+    "EN": "Рlayers",
+    "RU": "Игроков",
+    "UA": "Гравців"
+  },
+  "_Count_admins": {
+    "EN": "Аdmins",
+    "RU": "Админов",
+    "UA": "Адмінів"
+  },
+  "_Count_bans": {
+    "EN": "Bans",
+    "RU": "Банов",
+    "UA": "Банів"
+  },
+  "_Count_mutes": {
+    "EN": "Мutes",
+    "RU": "Мутов",
+    "UA": "Мутів"
+  },
+  "_Count_vips": {
+    "EN": "VIP players",
+    "RU": "VIP игроков",
+    "UA": "VIP гравців"
+  },
+  "_Count_players24h": {
+    "EN": "In 24 hours",
+    "RU": "За 24 часа",
+    "UA": "За 24 години"
+  }
+}

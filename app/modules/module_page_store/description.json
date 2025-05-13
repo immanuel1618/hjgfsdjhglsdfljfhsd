@@ -1,0 +1,26 @@
+{
+    "title":"LR WEB - shop - Магазин",
+    "info":"Страница покупки привилегий",
+    "author":"WizZzarD | Fork by Revolution & Designed by SLAME",
+    "page":"store",
+    "version":"1337",
+    "required":
+    {
+        "core":"0.2",
+        "php":"7"
+    },
+    "setting":{
+        "status":1,
+        "type":1,
+        "available_types":"1;2",
+        "interface":1,
+        "interface_adjacent":"afternavbar",
+        "translation":1,
+        "data":1,
+        "data_always":0,
+        "css":1,
+        "js":1,
+        "cache_enable":0,
+        "cache_time":86400
+    }
+}

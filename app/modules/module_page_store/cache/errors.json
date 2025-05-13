@@ -1,0 +1,314 @@
+[
+    {
+        "steam": "76561198832341550",
+        "text_exception": "Не удалось обновить сервер с ID: 1 NAME:Все сервера",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/ServerService.php",
+        "line": 103,
+        "date": "2025-04-24 19:56:59"
+    },
+    {
+        "steam": "76561198832341550",
+        "text_exception": "Не удалось обновить настройки магазина",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/ShopOptionService.php",
+        "line": 30,
+        "date": "2025-04-24 19:57:38"
+    },
+    {
+        "steam": "76561198832341550",
+        "text_exception": "Не удалось обновить настройки магазина",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/ShopOptionService.php",
+        "line": 30,
+        "date": "2025-04-24 19:57:54"
+    },
+    {
+        "steam": "76561199157487368",
+        "text_exception": "Не удалось обновить баланс!",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Order.php",
+        "line": 655,
+        "date": "2025-04-24 20:00:49"
+    },
+    {
+        "steam": "76561199157487368",
+        "text_exception": "Не найдена скидка по переданному ID продукта. PRODUCT_ID: 10",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/DiscountService.php",
+        "line": 36,
+        "date": "2025-04-25 17:07:31"
+    },
+    {
+        "steam": "76561198832341550",
+        "text_exception": "Не найдена скидка по переданному ID продукта. PRODUCT_ID: 11",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/DiscountService.php",
+        "line": 36,
+        "date": "2025-04-26 03:53:48"
+    },
+    {
+        "steam": "76561198832341550",
+        "text_exception": "Не найдена скидка по переданному ID продукта. PRODUCT_ID: 12",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/DiscountService.php",
+        "line": 36,
+        "date": "2025-04-26 03:55:49"
+    },
+    {
+        "steam": "76561198832341550",
+        "text_exception": "Не найдена скидка по переданному ID продукта. PRODUCT_ID: 13",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/DiscountService.php",
+        "line": 36,
+        "date": "2025-04-26 03:56:11"
+    },
+    {
+        "steam": "76561198832341550",
+        "text_exception": "Не найдена скидка по переданному ID продукта. PRODUCT_ID: 14",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/DiscountService.php",
+        "line": 36,
+        "date": "2025-04-26 03:56:30"
+    },
+    {
+        "steam": "76561198832341550",
+        "text_exception": "Не найдена скидка по переданному ID продукта. PRODUCT_ID: 15",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/DiscountService.php",
+        "line": 36,
+        "date": "2025-04-26 03:56:46"
+    },
+    {
+        "steam": "76561198832341550",
+        "text_exception": "Не найдена скидка по переданному ID продукта. PRODUCT_ID: 16",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/DiscountService.php",
+        "line": 36,
+        "date": "2025-04-26 03:58:26"
+    },
+    {
+        "steam": "76561198832341550",
+        "text_exception": "Не найдена скидка по переданному ID продукта. PRODUCT_ID: 17",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/DiscountService.php",
+        "line": 36,
+        "date": "2025-04-26 03:58:43"
+    },
+    {
+        "steam": "76561198832341550",
+        "text_exception": "Не найдена скидка по переданному ID продукта. PRODUCT_ID: 18",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/DiscountService.php",
+        "line": 36,
+        "date": "2025-04-26 03:59:14"
+    },
+    {
+        "steam": "76561198832341550",
+        "text_exception": "Не найдена скидка по переданному ID продукта. PRODUCT_ID: 19",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/DiscountService.php",
+        "line": 36,
+        "date": "2025-04-26 03:59:34"
+    },
+    {
+        "steam": "76561198832341550",
+        "text_exception": "Не найдена скидка по переданному ID продукта. PRODUCT_ID: 20",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/DiscountService.php",
+        "line": 36,
+        "date": "2025-04-26 03:59:53"
+    },
+    {
+        "steam": "76561198832341550",
+        "text_exception": "Не найдена скидка по переданному ID продукта. PRODUCT_ID: 21",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/DiscountService.php",
+        "line": 36,
+        "date": "2025-04-26 04:00:23"
+    },
+    {
+        "steam": "76561198832341550",
+        "text_exception": "Не найдена скидка по переданному ID продукта. PRODUCT_ID: 22",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/DiscountService.php",
+        "line": 36,
+        "date": "2025-04-26 04:00:50"
+    },
+    {
+        "steam": "76561198832341550",
+        "text_exception": "Не найдена скидка по переданному ID продукта. PRODUCT_ID: 23",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/DiscountService.php",
+        "line": 36,
+        "date": "2025-04-26 04:02:46"
+    },
+    {
+        "steam": "76561198832341550",
+        "text_exception": "Не найдена скидка по переданному ID продукта. PRODUCT_ID: 24",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/DiscountService.php",
+        "line": 36,
+        "date": "2025-04-26 04:03:03"
+    },
+    {
+        "steam": "76561198832341550",
+        "text_exception": "Не найдена скидка по переданному ID продукта. PRODUCT_ID: 25",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/DiscountService.php",
+        "line": 36,
+        "date": "2025-04-26 04:03:25"
+    },
+    {
+        "steam": "76561198832341550",
+        "text_exception": "Не найдена скидка по переданному ID продукта. PRODUCT_ID: 26",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/DiscountService.php",
+        "line": 36,
+        "date": "2025-04-26 04:03:41"
+    },
+    {
+        "steam": "76561198832341550",
+        "text_exception": "Не удалось найти настройки цены по переданному ID: 0",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/OptionPriceService.php",
+        "line": 34,
+        "date": "2025-04-26 05:30:44"
+    },
+    {
+        "steam": "76561198832341550",
+        "text_exception": "Не найдена скидка по переданному ID продукта. PRODUCT_ID: 27",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/DiscountService.php",
+        "line": 36,
+        "date": "2025-04-28 09:50:10"
+    },
+    {
+        "steam": "76561198832341550",
+        "text_exception": "Не найдена скидка по переданному ID продукта. PRODUCT_ID: 28",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/DiscountService.php",
+        "line": 36,
+        "date": "2025-04-28 09:50:28"
+    },
+    {
+        "steam": "76561198832341550",
+        "text_exception": "Не найдена скидка по переданному ID продукта. PRODUCT_ID: 29",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/DiscountService.php",
+        "line": 36,
+        "date": "2025-04-28 09:51:14"
+    },
+    {
+        "steam": "76561198832341550",
+        "text_exception": "Не найдена скидка по переданному ID продукта. PRODUCT_ID: 30",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/DiscountService.php",
+        "line": 36,
+        "date": "2025-04-28 09:51:32"
+    },
+    {
+        "steam": "76561198832341550",
+        "text_exception": "Не найдена скидка по переданному ID продукта. PRODUCT_ID: 31",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/DiscountService.php",
+        "line": 36,
+        "date": "2025-04-28 09:51:35"
+    },
+    {
+        "steam": "76561198832341550",
+        "text_exception": "Не найдена скидка по переданному ID продукта. PRODUCT_ID: 32",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/DiscountService.php",
+        "line": 36,
+        "date": "2025-04-28 09:52:22"
+    },
+    {
+        "steam": "76561198832341550",
+        "text_exception": "Не найдена скидка по переданному ID продукта. PRODUCT_ID: 33",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/DiscountService.php",
+        "line": 36,
+        "date": "2025-04-28 09:52:41"
+    },
+    {
+        "steam": "76561198832341550",
+        "text_exception": "Не найдена скидка по переданному ID продукта. PRODUCT_ID: 34",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/DiscountService.php",
+        "line": 36,
+        "date": "2025-04-28 09:52:55"
+    },
+    {
+        "steam": "76561198832341550",
+        "text_exception": "Не найдена скидка по переданному ID продукта. PRODUCT_ID: 35",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/DiscountService.php",
+        "line": 36,
+        "date": "2025-04-28 09:53:16"
+    },
+    {
+        "steam": "76561198832341550",
+        "text_exception": "Не найдена скидка по переданному ID продукта. PRODUCT_ID: 36",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/DiscountService.php",
+        "line": 36,
+        "date": "2025-04-28 09:53:38"
+    },
+    {
+        "steam": "76561199229171619",
+        "text_exception": "Не удалось найти настройки цены по переданному ID: 0",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/OptionPriceService.php",
+        "line": 34,
+        "date": "2025-04-28 19:48:06"
+    },
+    {
+        "steam": "76561199229171619",
+        "text_exception": "Не удалось найти настройки цены по переданному ID: 0",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/OptionPriceService.php",
+        "line": 34,
+        "date": "2025-04-28 19:48:06"
+    },
+    {
+        "steam": "76561199229171619",
+        "text_exception": "Не удалось найти настройки цены по переданному ID: 0",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/OptionPriceService.php",
+        "line": 34,
+        "date": "2025-04-28 19:48:12"
+    },
+    {
+        "steam": "76561198843808117",
+        "text_exception": "Не удалось найти настройки цены по переданному ID: 0",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/OptionPriceService.php",
+        "line": 34,
+        "date": "2025-04-28 19:48:34"
+    },
+    {
+        "steam": "76561198843808117",
+        "text_exception": "Не удалось найти настройки цены по переданному ID: 0",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/OptionPriceService.php",
+        "line": 34,
+        "date": "2025-04-28 19:48:35"
+    },
+    {
+        "steam": "76561198843808117",
+        "text_exception": "Не удалось найти настройки цены по переданному ID: 0",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/OptionPriceService.php",
+        "line": 34,
+        "date": "2025-04-28 19:48:37"
+    },
+    {
+        "steam": "76561198843808117",
+        "text_exception": "Не удалось найти настройки цены по переданному ID: 0",
+        "code": 0,
+        "file": "\/var\/www\/gw_user440\/data\/www\/astralzone.space\/app\/modules\/module_page_store\/ext\/Services\/OptionPriceService.php",
+        "line": 34,
+        "date": "2025-04-28 19:48:38"
+    }
+]

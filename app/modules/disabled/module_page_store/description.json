@@ -1,0 +1,22 @@
+{
+    "title":"LR WEB - Магазин",
+    "info":"Страница покупки привилегий",
+    "author":"",
+    "page":"store",
+    "version":"1.2",
+    "required":
+    {
+        "core":"0.2",
+        "php":"7"
+    },
+    "setting":{
+        "status":1,
+        "type":1,
+        "interface":1,
+        "interface_adjacent":"afternavbar",
+        "translation":1,
+        "data":1,
+        "css":1,
+        "js":1
+    }
+}

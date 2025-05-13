@@ -1,0 +1,599 @@
+{
+    "_requestsList": {
+        "EN": "Requests list",
+        "RU": "Список заявок"
+    },
+    "_MyApplications": {
+        "EN": "My Applications",
+        "RU": "Мои заявки"
+    },
+    "_Applications": {
+        "EN": "Applications",
+        "RU": "Лист заявок"
+    },
+    "_Applications1": {
+        "EN": "Application",
+        "RU": "Заявка"
+    },
+    "_NOApplications": {
+        "EN": "There is no application",
+        "RU": "Заявка отсутствует"
+    },
+
+    "_YourDs": {
+        "EN": "Your nickname in Discord",
+        "RU": "Ваш никнейм в Discord"
+    },
+    "_NicknameDS": {
+        "EN": "Nickname#0000",
+        "RU": "Никнейм#0000"
+    },
+    "_YourTg": {
+        "EN": "Your nickname in Telegram",
+        "RU": "Ваш никнейм в Telegram"
+    },
+    "_NicknameTg": {
+        "EN": "Username",
+        "RU": "Имя пользователя"
+    },
+    "_VKID": {
+        "EN": "Your VK ID",
+        "RU": "Ваш ID в VK"
+    },
+    "_Age": {
+        "EN": "age",
+        "RU": "Возраст"
+    },
+    "_YourAge": {
+        "EN": "How old are you full",
+        "RU": "Сколько Вам полных лет"
+    },
+    "_realAge": {
+        "EN": "Specify the real age!",
+        "RU": "Укажите реальный возраст!"
+    },
+    "_GameServer": {
+        "EN": "Game server",
+        "RU": "Игровой сервер"
+    },
+    "_FamiliarServerRules": {
+        "EN": "Are you familiar with the server rules",
+        "RU": "Ознакомлены ли Вы с правилами сервера"
+    },
+    "_NotFamiliar": {
+        "EN": "Not familiar with",
+        "RU": "Не ознакомлен"
+    },
+    "_Familiar": {
+        "EN": "Familiar with",
+        "RU": "Ознакомлен"
+    },
+    "_FamiliarCriteria": {
+        "EN": "Are you familiar with the criteria",
+        "RU": "Ознакомлены ли Вы с критериями"
+    },
+    "_ChangedMyMind": {
+        "EN": "I've changed my mind",
+        "RU": "Я передумал"
+    },
+    "_Auth": {
+        "EN": "Log in",
+        "RU": "Авторизоваться"
+    },
+    "_SendRequest": {
+        "EN": "Send a request",
+        "RU": "Отправить заявку"
+    },
+    "_Info": {
+        "EN": "Information",
+        "RU": "Информация"
+    },
+    "_Php": {
+        "EN": "Your version of PHP:",
+        "RU": "Ваша версия PHP:"
+    },
+    "_PhpRecomendation": {
+        "EN": "Recommended: 7.4 - Possible galactic-scale problems :O",
+        "RU": "Рекомендуется: 7.4 - Возможны проблемы галактического масштаба :O"
+    },
+    "_DBCheckConnect": {
+        "EN": "There is no connection to the database!",
+        "RU": "Подключение к базе данных отсутствует!"
+    },
+    "_DBCheckConnectSucc": {
+        "EN": "Database with table connected successfully!",
+        "RU": "База данных с таблицей успешно подключена!"
+    },
+    "_NOInfo": {
+        "EN": "No information available",
+        "RU": "Информация отсутствует"
+    },
+    "_DBCheckBTN": {
+        "EN": "Check",
+        "RU": "Проверить"
+    },
+    "_NextBTN": {
+        "EN": "Next",
+        "RU": "Далее"
+    },
+    "_Recommendations": {
+        "EN": "Recomendations",
+        "RU": "Рекомендации"
+    },
+    "_Discord_notifications": {
+        "EN": "Discord notifications",
+        "RU": "Discord уведомления"
+    },
+    "_OffOn": {
+        "EN": "on / off",
+        "RU": "вкл. / выкл."
+    },
+    "_Save": {
+        "EN": "Save",
+        "RU": "Сохранить"
+    },
+    "_Savea": {
+        "EN": "Saved!",
+        "RU": "Сохранено!"
+    },
+    "_ListOfApplications": {
+        "EN": "List of applications",
+        "RU": "Список заявок"
+    },
+    "_NewApplication": {
+        "EN": "New application",
+        "RU": "Новая заявка"
+    },
+    "_Applications_sort": {
+        "EN": "Applications",
+        "RU": "Заявки"
+    },
+    "_Applications_send": {
+        "EN": "Applications",
+        "RU": "Выдача доступа к заявкам"
+    },
+    "_SettingsBD": {
+        "EN": "Database setup",
+        "RU": "Настройка базы данных"
+    },
+    "_Sorting": {
+        "EN": "Sorting",
+        "RU": "Сортировка"
+    },
+    "_Status": {
+        "EN": "Status",
+        "RU": "Статус"
+    },
+    "_ToChange": {
+        "EN": "To change",
+        "RU": "Изменить"
+    },
+    "_AddQuestions": {
+        "EN": "Add questions",
+        "RU": "Добавить вопросы"
+    },
+    "_WelcomeInstallTitle": {
+        "EN": "Welcome to the Request Installation Wizard!",
+        "RU": "Добро пожаловать в мастер установки Request!"
+    },
+    "_InstallTitle": {
+        "EN": "Installing the Request module",
+        "RU": "Установка модуля Request"
+    },
+    "_Host": {
+        "EN": "Host:",
+        "RU": "Хост:"
+    },
+    "_User": {
+        "EN": "User:",
+        "RU": "Пользователь:"
+    },
+    "_Pass": {
+        "EN": "Pass:",
+        "RU": "Пароль:"
+    },
+    "_DB": {
+        "EN": "DB:",
+        "RU": "База Данных:"
+    },
+    "_ListApplications": {
+        "EN": "List of recent applications",
+        "RU": "Список последних заявок"
+    },
+    "_Data": {
+        "EN": "Data",
+        "RU": "Дата"
+    },
+    "_TotalTime": {
+        "EN": "Total time",
+        "RU": "Общее время"
+    },
+    "_Time": {
+        "EN": "Time",
+        "RU": "Время"
+    },
+    "_ApplicationName": {
+        "EN": "Application name",
+        "RU": "Имя заявки"
+    },
+    "_Hours": {
+        "EN": "hours",
+        "RU": "часов"
+    },
+    "_ListMyApplications": {
+        "EN": "List of my applications",
+        "RU": "Список моих заявок"
+    },
+    "_ApplicationNumber": {
+        "EN": "Application number",
+        "RU": "Номер заявки"
+    },
+    "_ApplicationText": {
+        "EN": "Application text",
+        "RU": "Текст заявки"
+    },
+    "_RequestUser": {
+        "EN": "Request from the user",
+        "RU": "Заявка от пользователя"
+    },
+    "_RequestUser1": {
+        "EN": "From the user ",
+        "RU": "От пользователя "
+    },
+    "_ResponseToRequest": {
+        "EN": "Response to the request",
+        "RU": "Ответ на заявку"
+    },
+    "_ToAnswer": {
+        "EN": "To answer",
+        "RU": "Ответить"
+    },
+    "_ResponsesToApplication": {
+        "EN": "Responses to the application",
+        "RU": "Ответы на заявку"
+    },
+    "_ListAdmins": {
+        "EN": "List of admins",
+        "RU": "Список админов"
+    },
+    "_NewAdmin": {
+        "EN": "New admin",
+        "RU": "Новый админ"
+    },
+    "_Add": {
+        "EN": "Add",
+        "RU": "Добавить"
+    },
+    "_AccessApplications": {
+        "EN": "Access to applications",
+        "RU": "Рассмотрение заявок"
+    },
+    "_AddingAdmin": {
+        "EN": "Adding an admin",
+        "RU": "Добавление админа"
+    },
+    "_ChangingAdmin": {
+        "EN": "Changing the admin",
+        "RU": "Редактирование администратора"
+    },
+    "_Del": {
+        "EN": "Remove",
+        "RU": "Удалить"
+    },
+    "_Settings": {
+        "EN": "Settings",
+        "RU": "Настройки"
+    },
+    "_SettingAccess": {
+        "EN": "Access Settings",
+        "RU": "Настройки доступа"
+    },
+    "_NoApplications": {
+        "EN": "There are no applications",
+        "RU": "Заявки отсутствуют"
+    },
+    "_Question": {
+        "EN": "Question",
+        "RU": "Вопрос"
+    },
+    "_Description": {
+        "EN": "Description",
+        "RU": "Описание"
+    },
+    "_Hint": {
+        "EN": "Hint",
+        "RU": "Подсказка"
+    },
+    "_ApplicationQuestions": {
+        "EN": "Application questions",
+        "RU": "Вопросы заявки"
+    },
+    "_AddingQuestion": {
+        "EN": "Adding a question",
+        "RU": "Добавление вопроса"
+    },
+    "_ChangingQuestion": {
+        "EN": "Changing the question",
+        "RU": "Изменение вопроса"
+    },
+    "_ToConsider": {
+        "EN": "To consider",
+        "RU": "Рассмотреть"
+    },
+    "_UnderСonsideration": {
+        "EN": "Under consideration",
+        "RU": "На рассмотрении"
+    },
+    "_Reviewed": {
+        "EN": "Reviewed",
+        "RU": "Рассмотрено"
+    },
+    "_Revieweda": {
+        "EN": "Reviewed",
+        "RU": "Рассмотренa"
+    },
+    "_Rejected": {
+        "EN": "Rejected",
+        "RU": "Отклонено"
+    },
+    "_Rejecteda": {
+        "EN": "Rejected",
+        "RU": "Отклонена"
+    },
+    "_CloseApplication": {
+        "EN": "Close the application",
+        "RU": "Закрыть заявку"
+    },
+    "_AwaitingReview": {
+        "EN": "Awaiting review",
+        "RU": "Ожидает рассмотрения"
+    },
+    "_Closed": {
+        "EN": "Closed",
+        "RU": "Закрыта"
+    },
+    "_EnterWebhook": {
+        "EN": "Enter the webhook!",
+        "RU": "Введите веб-хук!"
+    },
+    "_notspecified": {
+        "EN": "not specified",
+        "RU": "не указан"
+    },
+    "_Notspecified": {
+        "EN": "Not specified",
+        "RU": "Не указан"
+    },
+    "_AdminAdded": {
+        "EN": "AdminAdded!",
+        "RU": "Админ добавлен!"
+    },
+    "_AdminNotFound": {
+        "EN": "Admin not found",
+        "RU": "Админ не найден"
+    },
+    "_AdminChanged": {
+        "EN": "Admin changed!",
+        "RU": "Админ изменен!"
+    },
+    "_AdminRemoved": {
+        "EN": "Admin removed!",
+        "RU": "Админ удален!"
+    },
+    "_ApplicationClosed": {
+        "EN": "The application is closed!",
+        "RU": "Заявка закрыта!"
+    },
+    "_AnswerEmpty": {
+        "EN": "The answer cannot be empty!",
+        "RU": "Ответ не может быть пустым!"
+    },
+    "_ResponseAdded": {
+        "EN": "Response added!",
+        "RU": "Ответ добавлен!"
+    },
+    "_ChangedTheStatus": {
+        "EN": "Changed the status of the application to ",
+        "RU": "Изменил статус заявки на "
+    },
+    "_StatusChangedTo": {
+        "EN": "The status of the application has been changed to ",
+        "RU": "Статус заявки изменен на "
+    },
+    "_EnterTheApplication": {
+        "EN": "Enter the name of the application!",
+        "RU": "Введите имя заявки!"
+    },
+    "_EnterSortValue": {
+        "EN": "Enter the sort value!",
+        "RU": "Введите значение сортировки!"
+    },
+    "_TheServerIgnoredList": {
+        "EN": "The default server is in the ignored list",
+        "RU": "Сервер по умолчанию в списке игнорируемых"
+    },
+    "_ServerPY": {
+        "EN": "The server selected by default",
+        "RU": "Сервер выбранный по умолчанию"
+    },
+    "_TheServerNotSelected": {
+        "EN": "The default server is not selected",
+        "RU": "Не выбран сервер по умолчанию"
+    },
+    "_ApplicationAdded": {
+        "EN": "Application added",
+        "RU": "Заявка добавлена"
+    },
+    "_ApplicationNotFound": {
+        "EN": "Application not found!",
+        "RU": "Заявка не найдена!"
+    },
+    "_ApplicationChanged": {
+        "EN": "Application changed",
+        "RU": "Заявка изменена"
+    },
+    "_ApplicationDeleted": {
+        "EN": "The application has been deleted",
+        "RU": "Заявка удалена"
+    },
+    "_QuestionAdded": {
+        "EN": "Question added!",
+        "RU": "Вопрос добавлен!"
+    },
+    "_QuestionChanged": {
+        "EN": "Question changed!",
+        "RU": "Вопрос изменен!"
+    },
+    "_QuestionNotFound": {
+        "EN": "The question was not found",
+        "RU": "Вопрос не найден"
+    },
+    "_QuestionDeleted": {
+        "EN": "The question has been deleted!",
+        "RU": "Вопрос удален!"
+    },
+    "_AgeSpecifiedIncorrectly": {
+        "EN": "Age is not specified or specified incorrectly",
+        "RU": "Возраст не указан или указан некоректно"
+    },
+    "_YourAgeYoung": {
+        "EN": "Your age is too young",
+        "RU": "Ваш возраст слишком мал"
+    },
+    "_TooFewHours": {
+        "EN": "Too few hours",
+        "RU": "Слишком мало часов"
+    },
+    "_NextApplication": {
+        "EN": "Next application ",
+        "RU": "Следующая заявка "
+    },
+    "_ApplicationsNotAccepted": {
+        "EN": "Applications are temporarily not accepted",
+        "RU": "Заявки временно не принимаются"
+    },
+    "_ApplicationSent": {
+        "EN": "The application has been sent",
+        "RU": "Заявка отправлена"
+    },
+    "_Rules": {
+        "EN": "Rules",
+        "RU": "Правила"
+    },
+    "_Criteria": {
+        "EN": "Criteria",
+        "RU": "Критерии"
+    },
+    "_AddingApplications": {
+        "EN": "Adding applications",
+        "RU": "Добавление заявок"
+    },
+    "_TimeNextApplication": {
+        "EN": "Time until the next application",
+        "RU": "Время до следующей заявки"
+    },
+    "_MinimumAge": {
+        "EN": "Minimum age",
+        "RU": "Минимальный возраст"
+    },
+    "_LimitHours": {
+        "EN": "Limit on the played hours",
+        "RU": "Ограничение по наигранным часам"
+    },
+    "_MinimumHours": {
+        "EN": "Minimum hours",
+        "RU": "Минимум часов"
+    },
+    "_IgnoreSelectedServers": {
+        "EN": "Ignore selected servers",
+        "RU": "Игнорировать выбранные сервера"
+    },
+    "_PlayToApply": {
+        "EN": "Changing the application",
+        "RU": "Сколько игрок должен наиграть для подачи заявки?"
+    },
+    "_SpecifySeconds": {
+        "EN": "(Specify the time in seconds)",
+        "RU": "(Укажите время в секундах)"
+    },
+    "_SpecifyTheMinimumAge": {
+        "EN": "(Specify the minimum age, if necessary)",
+        "RU": "(Укажите минимальный возраст, если необходимо)"
+    },
+    "_ToCreate": {
+        "EN": "To create",
+        "RU": "Создать"
+    },
+    "_InstallTable": {
+        "EN": "Installation of tables in the database",
+        "RU": "Установка таблиц в базу данных"
+    },
+    "_ForWork": {
+        "EN": "For the module to work, the missing tables will be installed:",
+        "RU": "Для работы модуля будут установлены недостающие таблицы:"
+    },
+    "_InstallBTN": {
+        "EN": "Install",
+        "RU": "Установить"
+    },
+    "_ChangingApplication": {
+        "EN": "Changing the application",
+        "RU": "Изменение заявки"
+    },
+    "_Open": {
+        "EN": "Open",
+        "RU": "Открыть"
+    },
+    "_NewApplicationWebsite": {
+        "EN": "A new application has been submitted on the website!",
+        "RU": "На сайте была подана новая заявка!"
+    },
+    "_GoToReview": {
+        "EN": "Go to review",
+        "RU": "Перейти к рассмотрению"
+    },
+    "_DelApplication": {
+        "EN": "Remove the application",
+        "RU": "Удалить заявку"
+    },
+    "_OnRequest": {
+        "EN": "Enabled",
+        "RU": "Включена"
+    },
+    "_OffRequest": {
+        "EN": "Disabled",
+        "RU": "Выключена"
+    },
+    "_NewAnswer": {
+        "EN": "Новый ответ в вашей заявке. <br>%name% пишет: \"%text%\"",
+        "RU": "Новый ответ в вашей заявке. <br>%name% пишет: \"%text%\""
+    },
+    "_NewAnswer1": {
+        "EN": "Открыта новая заявка #%number% от %name%",
+        "RU": "Открыта новая заявка #%number% от %name%"
+    },
+    "_NewStatus": {
+        "EN": "Статус вашей заявки изменен на \"%status%\"",
+        "RU": "Статус вашей заявки изменен на \"%status%\""
+    },
+    "_DelMsg": {
+        "EN": "Delete",
+        "RU": "Удалить"
+    },
+    "_MsgNotFound": {
+        "EN": "This message does not exist",
+        "RU": "Это сообщение не существует"
+    },
+    "_DelMessage": {
+        "EN": "Message deleted",
+        "RU": "Сообщение удалено"
+    },
+    "_own_message": {
+        "EN": "You can only delete your own message",
+        "RU": "Вы можете удалить только свое сообщение"
+    },
+    "_invalid_steam": {
+        "EN": "Invalid SteamID format",
+        "RU": "Неверный формат SteamID"
+    }
+}

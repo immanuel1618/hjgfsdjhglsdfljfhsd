@@ -1,0 +1,3 @@
+<?php $settingsReports = require MODULES . 'module_page_reports/assets/cache/settings.php'; ?>
+<script>let AutoUpdateAdmin = <?= $settingsReports['auto_update_admin'] ?>; let AutoCheckReport = <?= $settingsReports['auto_check_report'] ?>; let AutoUpdateInfo = <?= $settingsReports['auto_update_info'] ?>; let UpdateTimeJS = <?= $settingsReports['update_time_js'] ?>; let AutoUpdateStatus = <?= $settingsReports['auto_update_status'] ?>; let AutoUpdateWarn = <?= $settingsReports['auto_update_warn'] ?>;</script>
+<script src="/app/modules/module_page_reports/assets/js/1_always.js<?php $General->arr_general['css_off_cache'] == 1 && print "?" . time() ?>" defer></script>

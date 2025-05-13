@@ -1,0 +1,188 @@
+.promo_admin {
+  padding: 1rem;
+  background-color: var(--card);
+}
+
+.promo_flex {
+  display: flex;
+  flex: 1 0 85%;
+  gap: 1rem;
+  justify-content: space-between;
+}
+
+.promo_settings {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+}
+
+.player_promo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background: var(--transparent);
+  padding: 15px;
+  border-radius: 12px;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+}
+
+.player_promo a {
+  font-size: 14px;
+}
+
+.player_promo span {
+  color: var(--text-custom);
+  font-size: 15px;
+}
+
+.avatar_frame {
+  position: absolute !important;
+  transform: scale(1.18);
+  border-radius: 0 !important;
+  z-index: 2;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+.avatar_frame_small {
+  width: 36px !important;
+  height: 36px !important;
+  position: absolute !important;
+  transform: scale(1.18);
+  border-radius: 0 !important;
+  z-index: 2;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+.avatar {
+  width: 36px !important;
+  height: 36px !important;
+  border-radius: 4px;
+  outline: 2px solid var(--transparent);
+  position: relative;
+}
+
+.block-flex {
+  display: inline-grid;
+  grid-template-columns: 50% 50%;
+  width: 100%;
+  gap: 1rem;
+}
+
+.card-width {
+
+}
+
+
+/* custom table edit player balance */
+
+@media (min-width: 769px) {
+  .mt_header_2 li {
+    display: grid;
+    grid-template-columns: 0.3fr 0.3fr 0.3fr 0.2fr 0.2fr 0.2fr;
+    padding: 15px;
+    justify-items: start;
+  }
+}
+
+@media (max-width: 768.9px) {
+  .mt_header_2 li {
+    padding: 10px 20px;
+    display: grid;
+    grid-template-columns: 1fr 0.4fr 0.3fr;
+    justify-items: start;
+    justify-content: space-between;
+  }
+}
+
+.mt_content_2 {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  max-height: 215px;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+@media (min-width: 769px) {
+  .mt_content_2 li {
+    display: grid;
+    grid-template-columns: 0.3fr 0.3fr 0.3fr 0.2fr 0.2fr 0.2fr;
+    padding: 15px;
+    background: var(--grey);
+    border-radius: 8px;
+    justify-items: start;
+  }
+}
+
+@media (max-width: 768.9px) {
+  .mt_content_2 li {
+    display: grid;
+    grid-template-columns: 1fr 0.4fr 0.3fr;
+    padding: 20px;
+    background: var(--grey);
+    border-radius: 16px;
+    justify-items: start;
+    justify-content: space-between;
+  }
+}
+
+.mt_header_2 li span {
+  font-size: 12px;
+  color: var(--text-custom);
+  opacity: 0.5;
+}
+
+.mt_content_2 li span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-custom);
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.mt_content_2 li span img {
+  height: auto;
+  width: 100px;
+}
+
+.module_block {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.close_settings {
+  position: absolute;
+  right: 30px;
+  color: var(--span) !important;
+  font-weight: 400 !important;
+  cursor: pointer;
+}
+
+.no-scrollbar {
+  gap: 0.3rem;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+}
+
+.input_text_flex {
+  color: var(--text-custom);
+  font-size: 14px;
+  text-align: left;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.m10 {
+  margin-top: 10px;
+}
+
+input[type="datetime-local"]::-webkit-calendar-picker-indicator {
+  filter: invert(100%);
+}

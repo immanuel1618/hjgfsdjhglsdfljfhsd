@@ -1,0 +1,15 @@
+23-04-2025 18:56:45 - NEW ERROR [1] 
+ FILE - /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php 
+ MESSAGE - Uncaught PDOException: invalid data source name in /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php:282
+Stack trace:
+#0 /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php(282): PDO->__construct('', NULL, NULL, Array)
+#1 /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php(306): app\ext\Db->get_new_connect('Vips', 1, 0)
+#2 /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php(340): app\ext\Db->inquiry('Vips', 1, 0, 'SELECT `vip_use...', Array)
+#3 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_profiles/ext/Player.php(680): app\ext\Db->query('Vips', 1, 0, 'SELECT `vip_use...')
+#4 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_profiles/forward/data.php(59): app\modules\module_page_profiles\ext\Player->get_db_Vips()
+#5 /var/www/gw_user440/data/www/astralzone.space/app/ext/Graphics.php(93): require('/var/www/gw_use...')
+#6 /var/www/gw_user440/data/www/astralzone.space/index.php(179): app\ext\Graphics->__construct(Object(app\ext\Translate), Object(app\ext\General), Object(app\ext\Modules), Object(app\ext\Db), Object(app\ext\Auth), Object(app\ext\Notifications), Object(app\ext\AltoRouter))
+#7 {main}
+  thrown 
+ LINE - 282 
+ 

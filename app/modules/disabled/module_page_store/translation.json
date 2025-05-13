@@ -1,0 +1,1175 @@
+{
+    "_SHOP": {
+        "RU": "Магазин привилегий",
+        "EN": "Privilege shop", 
+        "CH": "特權商店",
+        "UA": "Магазин",
+        "LT": "Parduotuvė"
+    },
+    "_shopName":{
+        "RU": "Магазин",
+        "EN": "Shop", 
+        "CH": "鋪",
+        "UA": "Привилеге Сторе",
+        "LT": "Top Donatori"
+    },
+    "_shopInfo":{
+        "RU": "Информация",
+        "EN": "Information", 
+        "CH": "資訊中心",
+        "UA": "інформація",
+        "LT": "Informacija"
+    },
+    "_shopBuy":{
+        "RU": "Купить",
+        "EN": "Buy", 
+        "CH": "買",
+        "UA": "Купити",
+        "LT": "Norėdami nusipirkti"
+    },
+    "_buyLogs":{
+        "RU": "Статистика покупок",
+        "EN": "Purchase statistics", 
+        "CH": "可能性",
+        "UA": "Можливості",
+        "LT": "Galimybės"
+    },
+    "_shopTime": {
+        "RU": "Выберите период привилегии",
+        "EN": "Choose a privilege period", 
+        "CH": "選擇優惠期",
+        "UA": "Оберіть період привілеї",
+        "LT": "Pasirinkite privilegijų periodą"
+    },
+    "_shopDelay": {
+        "RU": "Возможна задержка при выдаче привилегии!",
+        "EN": "There may be a delay in issuing privileges!", 
+        "CH": "發行特權可能會延遲！",
+        "UA": "Можлива затримка при видачі привілеї!",
+        "LT": "Gali būti atidėtas privilegijų išdavimas!"
+    },
+    "_mainAdmin": {
+        "RU" : "Главный администратор",
+        "EN" : "Main administrator"
+    },
+    "_fullRights": {
+        "RU" : "Полные права доступа",
+        "EN" : "Full Permissions"
+    },
+    "_manageServer": {
+        "RU" : "Управление серверами",
+        "EN" : "Server management"
+    },
+    "_takeShopType": {
+        "RU" : "Выберите тип покупки:",
+        "EN" : "Choose type of purchase:"
+    },
+    "_manageCategory": {
+        "RU" : "Управление категориями",
+        "EN" : "Category Management"
+    },
+    "_managePrivilege": {
+        "RU" : "Управление привилегиями",
+        "EN" : "Privilege Management"
+    },
+    "_addCategory": {
+        "RU" : "Добавление категории",
+        "EN" : "Adding a Category"
+    },
+    "_writeCategoryName": {
+        "RU" : "Введите название категории",
+        "EN" : "Adding a Category"
+    },
+    "_placeholderCategoryName": {
+        "RU" : "Привилегии, SHOP кредиты...",
+        "EN" : "Adding a Category"
+    },
+    "_addingCategoryName": {
+        "RU" : "Добавить категорию",
+        "EN" : "Add category"
+    },
+    "_errorCategory": {
+        "RU" : "Категория не может быть пустой",
+        "EN" : "Category cannot be empty"
+    },
+    "_addServer": {
+        "RU" : "Добавление сервера",
+        "EN" : "Adding a server",
+        "DE" : "Hinzufügen eines Servers",
+        "UA" : "Додавання сервера"
+    },
+    "_takeServer":{
+        "RU" : "Выберите сервер LR из списка:",
+        "EN" : "Select an LR server from the list:"
+    },
+    "_takeShopServer":{
+        "RU" : "Выберите сервер",
+        "EN" : "Choose a server",
+        "DE" : "Server auswählen",
+        "UA" : "Виберіть сервер"
+    },
+    "_takeShopPeriod":{
+        "RU" : "Выберите цену:",
+        "EN" : "Choose a price:"
+    },
+    "_takeShopPrivilage":{
+        "RU" : "Выберите предмет покупки:",
+        "EN" : "Select item to purchase:"
+    },
+    "_takeServerSB":{
+        "RU" : "Выберите сервер SB/MA из списка:",
+        "EN" : "Select an SB / MA server from the list:",
+        "DE" : "Wählen Sie den SB/MA-Server aus der Liste aus:",
+        "UA" : "Виберіть сервер SB/MA зі списку:"
+    },
+    "_nonUse":{
+        "RU" : "Не использую",
+        "EN" : "Not using",
+        "DE" : "Nicht verwenden",
+        "UA" : "Не використовую"
+    },
+    "_addingServer":{
+        "RU" : "Добавить сервер",
+        "EN" : "Add Server",
+        "DE" : "Server hinzufügen",
+        "UA" : "Додати сервер"
+    },
+    "_deletingServer":{
+        "RU" : "Удаление сервера",
+        "EN" : "Server removal"
+    },
+    "_takeServerDef":{
+        "RU" : "Выберите сервер из списка:",
+        "EN" : "Select a server from the list:"
+    },
+    "_noServer":{
+        "RU" : "Серверов нет",
+        "EN" : "No servers"
+    },
+    "_deleteServer":{
+        "RU" : "Удалить сервер",
+        "EN" : "Delete server",
+        "UA" : "Видалити сервер",
+        "DE" : "Server löschen"
+    },
+    "_addPrivilege":{
+        "RU" : "Добавление привилегии",
+        "EN" : "Adding a privilege"
+    },
+    "_addingPrivilage":{
+        "RU" : "Добавить привилегию",
+        "EN" : "Add privilege"
+    },
+    "_deletingPrivilage":{
+        "RU" : "Удаление привилегии",
+        "EN" : "Deleting a Privilege"
+    },
+    "_takePrivilageDef":{
+        "RU" : "Выберите привилегию из списка",
+        "EN" : "Select a privilege from the list."
+    },
+    "_noPrivilage":{
+        "RU" : "Привилегий нет",
+        "EN" : "No privileges"
+    },
+    "_changingPrivilage":{
+        "RU" : "Изменение привилегии",
+        "EN" : "Privilege change"
+    },
+    "_changeNameWant":{
+        "RU" : "Измените имя, если хотите",
+        "EN" : "Change the name if you want"
+    },
+    "_changePrivilage":{
+        "RU" : "Изменить привилегию",
+        "EN" : "Change privilege"
+    },
+    "_mainSettings":{
+        "RU" : "Основные настройки",
+        "EN" : "Basic settings"
+    },
+    "_nameGroup":{
+        "RU" : "Название группы в конфигах",
+        "EN" : "Group name in configs"
+    },
+    "_nameGroupCard":{
+        "RU" : "Название предмета (отображается в магазине):",
+        "EN" : "Item name (displayed in the store):"
+    },
+    "_amount":{
+        "RU" : "Количество",
+        "EN" : "Amount"
+    },
+    "_amountCI":{
+        "RU" : "Единицы измерения",
+        "EN" : "Units"
+    },
+    "_typePrivilage":{
+        "RU" : "Выберите тип привилегии из списка:",
+        "EN" : "Select a privilege type from the list:"
+    },
+    "_takeWebGroup":{
+        "RU" : "Выберите WEB группу:",
+        "EN" : "Select a WEB group:",
+        "DE" : "WEB-Gruppe auswählen:",
+        "UA" : "Виберіть WEB групу:"
+    },
+    "_placeholderAmountCI":{
+        "RU" : "кредитов, очков опыта...",
+        "EN" : "credits, experience points..."
+    },
+    "_noGroup":{
+        "RU" : "Без группы",
+        "EN" : "No group",
+        "DE" : "Ohne Gruppe",
+        "UA" : "Без групи"
+    },
+    "_deletePrivilage":{
+        "RU" : "Удалить привилегию",
+        "EN" : "Remove privilege"
+    },
+    "_colorStart":{
+        "RU" : "Цвет начала градиента:",
+        "EN" : "Gradient start color:"
+    },
+    "_createPrivilage":{
+        "RU" : "Создать привилегию",
+        "EN" : "Create privilege"
+    },
+    "_changeMainSetting":{
+        "RU" : "Изменить основные настройки",
+        "EN" : "Change basic settings"
+    },
+    "_successChangedPrivilage":{
+        "RU" : "Вы успешно изменили данные товара!",
+        "EN" : "Change basic settings"
+    },
+    "_addingBonus":{
+        "RU" : "Добавление бонусов в карточку",
+        "EN" : "Adding bonuses to the card"
+    },
+    "_addBonus":{
+        "RU" : "Добавить бонус в карточку",
+        "EN" : "Add bonus to the card"
+    },
+    "_sendTextBonus":{
+        "RU" : "Введите текст бонуса",
+        "EN" : "Enter bonus text"
+    },
+    "_doStringNoActive":{
+        "RU" : "Сделать строку неактивной(серый фон, замок слева)",
+        "EN" : "Make the line inactive (gray background, lock on the left)"
+    },
+    "_deletingBonus":{
+        "RU" : "Удаление бонусов из карточки",
+        "EN" : "Removing bonuses from a card"
+    },
+    "_deleteBonus":{
+        "RU" : "Удалить бонус из карточки",
+        "EN" : "Remove bonus from card"
+    },
+    "_colorFinish":{
+        "RU" : "Цвет конца градиента:",
+        "EN" : "Gradient color end:"
+    },
+    "_takeBonusCard":{
+        "RU" : "Выберите бонус карточки из списка:",
+        "EN" : "Select a bonus card from the list:"
+    },
+    "_noBonusCard":{
+        "RU" : "Бонусов для карточки нет",
+        "EN" : "There are no bonuses for the card"
+    },
+    "_addingBonusTable":{
+        "RU" : "Добавление бонуса в таблицу",
+        "EN" : "Adding a bonus to a table"
+    },
+    "_addBonusTable":{
+        "RU" : "Добавить бонус в таблицу",
+        "EN" : "Add bonus to table"
+    },
+    "_funcDescr":{
+        "RU" : "Опишите функции бонуса",
+        "EN" : "Describe bonus features"
+    },
+    "_examplePlaceholder":{
+        "RU" : "5000$ каждый раунд",
+        "EN" : "$ 5000 each round"
+    },
+    "_textBonusTable":{
+        "RU" : "Текст бонуса (1 - иконка галочки, 2 - иконка крестика)",
+        "EN" : "Bonus text (Enter 1 to put a checkmark icon)"
+    },
+    "_deletingBonusTable":{
+        "RU" : "Удаление бонусов из таблицы",
+        "EN" : "Removing bonuses from the table"
+    },
+    "_deleteBonusTable":{
+        "RU" : "Удалить бонусы из таблицы",
+        "EN" : "Remove bonuses from the table"
+    },
+    "_takeBonusTable":{
+        "RU" : "Выберите бонус таблицы из списка",
+        "EN" : "Select a bonus table from the list."
+    },
+    "_noBonusTable":{
+        "RU" : "Бонусов для таблицы нет",
+        "EN" : "There are no bonuses for the table"
+    },
+    "_addingPriceTime":{
+        "RU" : "Добавление цены и периода привилегии:",
+        "EN" : "Adding price and privilege period:"
+    },
+    "_addPrice":{
+        "RU" : "Добавить цену",
+        "EN" : "Add price"
+    },
+    "_price":{
+        "RU" : "Цена(целое число в указанной валюте)",
+        "EN" : "Price (integer in the specified currency)"
+    },
+    "_time":{
+        "RU" : "Время(целое число в днях, 0 - навсегда)",
+        "EN" : "Time (integer in days, 0 - forever)"
+    },
+    "_value":{
+        "RU" : "Валюта",
+        "EN" : "Currency"
+    },
+    "_examplePlaceholderValue":{
+        "RU" : "Пример: рублей",
+        "EN" : "Example: rubles"
+    },
+    "_deletePriceTime":{
+        "RU" : "Удаление цены и периода:",
+        "EN" : "Removing price and period:"
+    },
+    "_takePriceTime":{
+        "RU" : "Выберите цену и период",
+        "EN" : "Choose price and period"
+    },
+    "_promo_deleted":{
+        "RU" : "Промокод успешно удален!",
+        "EN" : "Promo code successfully deleted!"
+    },
+    "_discount_installed":{
+        "RU" : "Скидка установлена!",
+        "EN" : "Discount set!"
+    },
+    "_noPriceTime":{
+        "RU" : "Цен нет",
+        "EN" : "No price"
+    },
+    "_deletingPriceTime":{
+        "RU" : "Удалить цену и период",
+        "EN" : "Delete price and period"
+    },
+    "_auth":{
+        "RU" : "Авторизуйтесь для выполнения операции!",
+        "EN" : "Log in to complete the operation!"
+    },
+    "_errorPeriod":{
+        "RU" : "Вы не выбрали период!",
+        "EN" : "You have not chosen a period!"
+    },
+    "_errorServer":{
+        "RU" : "Произошла ошибка, мы не можем определить сервер!",
+        "EN" : "An error has occurred, we cannot determine the server!"
+    },
+    "_errorPrivilage":{
+        "RU" : "Произошла ошибка, мы не можем определить привилегию!",
+        "EN" : "An error has occurred, we cannot determine the privilege!"
+    },
+    "_errorName":{
+        "RU" : "Произошла ошибка, отсутствует имя пользователя!",
+        "EN" : "An error has occurred, username is missing!"
+    },
+    "_noBalance1":{
+        "RU" : "Недостаточно денег! Ваш баланс: ",
+        "EN" : "Not enough money! Your balance:"
+    },
+    "_noBalance2":{
+        "RU" : " Перенаправление...",
+        "EN" : " Redirecting ..."
+    },
+    "_errorGroup":{
+        "RU" : "Администратор не указал название группы!",
+        "EN" : "The administrator did not indicate the name of the group!"
+    },
+    "_haveGroup":{
+        "RU" : "У вас уже есть VIP группа, свяжитесь с администратором!",
+        "EN" : "You already have a VIP group, contact the administrator!"
+    },
+    "_errorIdVip":{
+        "RU" : "Администратор не указал id сервера для VIP игроков!",
+        "EN" : "The administrator did not specify the server id for VIP players!"
+    },
+    "_success":{
+        "RU" : "Вам выдана группа ",
+        "EN" : "You were given a group "
+    },
+    "_errorBuyAmount":{
+        "RU" : "На данный момент невозможно выполнить покупку!",
+        "EN" : "It is not possible to complete the purchase at this time!"
+    },
+    "_successShopCred":{
+        "RU" : "Вы успешно купили ",
+        "EN" : "You have successfully bought"
+    },
+    "_successB":{
+        "RU" : "Успех!",
+        "EN" : "Success!"
+    },
+    "_Player":{
+        "RU" : "Игрок",
+        "EN" : "Player"
+    },
+    "_title":{
+        "RU" : "Товар",
+        "EN" : "Product"
+    },
+    "_count":{
+        "RU" : "Кол-во:",
+        "EN" : "Qty:",
+        "DE" : "Menge:",
+        "UA" : "Кількість:"
+    },
+    "_priceL":{
+        "RU" : "Цена",
+        "EN" : "Price"
+    },
+    "_promo":{
+        "RU" : "Промокод",
+        "EN" : "Promo code"
+    },
+    "_successChangedPromo":{
+        "RU" : "Промокод успешно изменен!",
+        "EN" : "The promo code has been successfully changed!"
+    },
+    "_promo_added":{
+        "RU" : "Промокод добавлен!",
+        "EN" : "Promo code added!"
+    },
+    "_promo_shop":{
+        "RU" : "Промокоды",
+        "EN" : "Promo codes",
+        "DE" : "Promo-Codes",
+        "UA" : "Промокоди"
+    },
+    "_discount_shop":{
+        "RU" : "Скидка",
+        "EN" : "Discount",
+        "DE" : "Rabatt",
+        "UA" : "Знижка"
+    },
+    "_promo_exist":{
+        "RU" : "Промокод уже существует",
+        "EN" : "Promo code already exist"
+    },
+    "_options_shop":{
+        "RU" : "Настройки магазина",
+        "EN" : "Store settings",
+        "DE" : "Einstellungen speichern",
+        "UA" : "Налаштування магазину"
+    },
+    "_date":{
+        "RU" : "Дата",
+        "EN" : "Date"
+    },
+    "_status":{
+        "RU" : "Статус",
+        "EN" : "Status"
+    },
+    "_errorB":{
+        "RU" : "Неудача!",
+        "EN" : "Failure!"
+    },
+    "_credits_name":{
+        "RU" : "кредитов(-а)",
+        "EN" : "credits"
+    },
+    "_no_promo":{
+        "RU" : "Такого промокода не существует!",
+        "EN" : "There is no such promo code!"
+    },
+    "_Logs_Shop":{
+        "RU" : "Лог покупок",
+        "EN" : "Purchase log"
+    },
+    "_successNot":{
+        "RU" : "Успешно!<br>Вам выдана группа %group%",
+        "EN" : "Successfully! <br> You were given a group %group%"
+    },
+    "_haveAdmin":{
+        "RU" : "У вас уже есть Admin группа, свяжитесь с администратором!",
+        "EN" : "You already have an Admin group, contact the administrator!"
+    },
+    "_errorIdAdmin":{
+        "RU" : "Администратор не указал id сервера для Admin игроков!",
+        "EN" : "Admin has not specified server id for admin players!"
+    },
+    "_errorNoneType":{
+        "RU" : "Неизвестный тип системы управления игроками!",
+        "EN" : "Unknown type of player management system!"
+    },
+    "_errorServerIsCreated":{
+        "RU" : "Сервер уже создан",
+        "EN" : "Server already created"
+    },
+    "_successServerCreate":{
+        "RU" : "Сервер создан!",
+        "EN" : "Server created!"
+    },
+    "_errorAll":{
+        "RU" : "Произошла ошибка!",
+        "EN" : "An error has occurred!"
+    },
+    "_successDeletedServer":{
+        "RU" : "Вы успешно удалили сервер!",
+        "EN" : "You have successfully uninstalled the server!"
+    },
+    "_errorGroupName":{
+        "RU" : "Укажите название группы",
+        "EN" : "Enter group name"
+    },
+    "_errorGroupNameCustom":{
+        "RU" : "Укажите отображаемое название группы",
+        "EN" : "Indicate the display name of the group"
+    },
+    "_errorStartGradient":{
+        "RU" : "Укажите цвет начала градиента",
+        "EN" : "Specify the color of the beginning of the gradient"
+    },
+    "_errorFinishGradient":{
+        "RU" : "Укажите цвет конца градиента",
+        "EN" : "Specify the color of the end of the gradient"
+    },
+    "_successCreatedPrivilage":{
+        "RU" : "Вы успешно добавили товар!",
+        "EN" : "You have successfully added a product!"
+    },
+    "_takeCategoryDef":{
+        "RU" : "Выберите категорию из списка:",
+        "EN" : "Select a category from the list:"
+    },
+    "_deleteBtnCategory":{
+        "RU" : "Удалить категорию",
+        "EN" : "Delete category"
+    },
+    "_successDeletedCategory":{
+        "RU" : "Категория удалена!",
+        "EN" : "Category deleted!"
+    },
+    "_deleteCategory":{
+        "RU" : "Удаление категории",
+        "EN" : "Delete category"
+    },
+    "_successCreatedCategory":{
+        "RU" : "Категория добавлена!",
+        "EN" : "Category added!"
+    },
+    "_noCategory":{
+        "RU" : "Категорий нет",
+        "EN" : "No categories"
+    },
+    "_successDeletedPrivilage":{
+        "RU" : "Вы успешно удалили товар!",
+        "EN" : "You have successfully deleted the product!"
+    },
+    "_successAddBonusCard":{
+        "RU" : "Вы успешно добавили бонус в карточку!",
+        "EN" : "You have successfully added a bonus to the card!"
+    },
+    "_successDeleteBonusCard":{
+        "RU" : "Вы успешно удалили бонус из карточки!",
+        "EN" : "You have successfully removed the bonus from the card!"
+    },
+    "_errorEmptyField":{
+        "RU" : "Поле не заполнено",
+        "EN" : "The field is not filled"
+    },
+    "_successAddBonusTable":{
+        "RU" : "Вы успешно добавили бонус в таблицу!",
+        "EN" : "You have successfully added a bonus to the table!"
+    },
+    "_successDeleteBonusTable":{
+        "RU" : "Вы успешно удалили бонус из таблицы!",
+        "EN" : "You have successfully removed the bonus from the table!"
+    },
+    "_successAddPrice":{
+        "RU" : "Вы успешно добавили цену на привилегию!",
+        "EN" : "You have successfully added a privilege price!"
+    },
+    "_successDeletePrice":{
+        "RU" : "Вы успешно удалили цену!",
+        "EN" : "You have successfully deleted the price!"
+    },
+    "_successChangeSettingsPrivilage":{
+        "RU" : "Вы успешно обновили настройки!",
+        "EN" : "You have successfully updated the settings!"
+    },
+    "_errorNoVips":{
+        "RU" : "Не установлена база данных Vips в LR! Обратитесь к администратору",
+        "EN" : "Not installed mod Vips! Contact administrator"
+    },
+    "_errorNoSb":{
+        "RU" : "Не установлен мод Sourcebans/MaterialAdmin! Обратитесь к администратору",
+        "EN" : "Not installed mod Sourcebans/MaterialAdmin! Contact administrator"
+    },
+    "_errorIdSb":{
+        "RU" : "Не установлен мод Sourcebans/MaterialAdmin! Обратитесь к администратору",
+        "EN" : "Not installed mod Sourcebans/MaterialAdmin! Contact administrator"
+    },
+    "_forever":{
+        "RU" : "навсегда",
+        "EN" : "forever"
+    },
+    "_for":{
+        "RU" : "за ",
+        "EN" : "for "
+    },
+    "_addColor":{
+        "RU" : "Изменение цвета",
+        "EN" : "Change color"
+    },
+    "_colorChanged":{
+        "RU" : "Цвет успешно изменен!",
+        "EN" : "Color successfully changed!"
+    },
+    "_updatingColor":{
+        "RU" : "Изменить цвет",
+        "EN" : "Change color"
+    },
+    "_addColorBg":{
+        "RU" : "Введите цвет для фона выпадающего меню:",
+        "EN" : "Enter a color for the background of the drop-down menu:"
+    },
+    "_successCred":{
+        "RU" : "Вы успешно купили %group% кредит(ов)",
+        "EN" : "You have successfully bought %group% credits"
+    },
+    "_errorNoUserInLr":{
+        "RU" : "Вы должны хотя бы раз зайти на сервер, чтобы купить опыт!",
+        "EN" : "You must log into the server at least once to buy experience!"
+    },
+    "_successExpBuy":{
+        "RU" : "Вы успешно приобрели опыт!",
+        "EN" : "You have successfully gained experience!"
+    },
+    "_successExp":{
+        "RU" : "Вы успешно купили %group% опыт(а)",
+        "EN" : "You have successfully bought %group% exp"
+    },
+    "_successCommand":{
+        "RU" : "Покупка успешно совершена!",
+        "EN" : "Purchase completed successfully!"
+    },
+    "_rconCommandNow":{
+        "RU" : "Текущая RCON команда:",
+        "EN" : "Current RCON command:"
+    },
+    "_errorCommand":{
+        "RU" : "Соединение с серверов отсутствует. Попробуйте позже!",
+        "EN" : "There is no connection from the servers. Try later!"
+    },
+    "_rconCommand":{
+        "RU" : "Введите RCON комманду:" ,
+        "EN" : "Enter RCON command:",
+        "DE" : "Geben Sie den RCON-Befehl ein:",
+        "UA" : "Введіть команду RCON:"
+    },
+    "_week":{
+        "RU" : "на неделю",
+        "EN" : "for 1 week"
+    },
+    "_2week":{
+        "RU" : "на 2 недели",
+        "EN" : "for 2 weeks"
+    },
+    "_3week":{
+        "RU" : "на 3 недели",
+        "EN" : "for 3 weeks"
+    },
+    "_month":{
+        "RU" : "на месяц",
+        "EN" : "for a month"
+    },
+    "_2month":{
+        "RU" : "на 2 месяца",
+        "EN" : "for 2 months"
+    },
+    "_3month":{
+        "RU" : "на 3 месяца",
+        "EN" : "for 3 months"
+    },
+    "_4month":{
+        "RU" : "на 4 месяца",
+        "EN" : "for 4 months"
+    },
+    "_5month":{
+        "RU" : "на 5 месяцев",
+        "EN" : "for 5 months"
+    },
+    "_6month":{
+        "RU" : "на 6 месяцев",
+        "EN" : "for 6 months"
+    },
+    "_7month":{
+        "RU" : "на 7 месяцев",
+        "EN" : "for 7 months"
+    },
+    "_8month":{
+        "RU" : "на 8 месяцев",
+        "EN" : "for 8 months"
+    },
+    "_9month":{
+        "RU" : "на 9 месяцев",
+        "EN" : "for 9 months"
+    },
+    "_10month":{
+        "RU" : "на 10 месяцев",
+        "EN" : "for 10 months"
+    },
+    "_11month":{
+        "RU" : "на 11 месяцев",
+        "EN" : "for 11 months"
+    },
+    "_year":{
+        "RU" : "на год",
+        "EN" : "for a year"
+    },
+    "_2year":{
+        "RU" : "на 2 года",
+        "EN" : "for 2 years"
+    },
+    "_3year":{
+        "RU" : "на 3 года",
+        "EN" : "for 3 years"
+    },
+    "_days":{
+        "RU" : "дней",
+        "EN" : "days"
+    },
+    "_day":{
+        "RU" : "день",
+        "EN" : "days"
+    },
+    "_on":{
+        "RU" : "на",
+        "EN" : "for"
+    },
+    "_ofTheDay":{
+        "RU" : "дня",
+        "EN" : "days"
+    },
+    "_updateServer":{
+        "RU" : "Обновление данных сервера",
+        "EN" : "Server data update"
+    },
+    "_updatingServer":{
+        "RU" : "Обновить данные сервера",
+        "EN" : "Update server data"
+    },
+    "_successUpdateServer":{
+        "RU" : "Данные сервера обновлены!",
+        "EN" : "Server data updated!"
+    },
+    "_buy":{
+        "RU" : "Купить",
+        "EN" : "Buy"
+    },
+    "_func":{
+        "RU" : "Функции",
+        "EN" : "Function"
+    },
+    "_successWithOutRcon":{
+        "RU" : "Привилегия выдана, однако возможна задержка при получении!",
+        "EN" : "Privilege granted, but there may be a delay in receipt!"
+    },
+    "_successWcsLvlExp":{
+        "RU" : "Поздравляем, вы успешно приобрели уровни!",
+        "EN" : "Congratulations, you have successfully gained levels!"
+    },
+    "_successWcsLvlGold":{
+        "RU" : "Поздравляем, вы успешно приобрели золото!",
+        "EN" : "Congratulations, you have successfully gained gold!"
+    },
+    "_successWcsRace":{
+        "RU" : "Поздравляем, вы успешно приобрели расу!",
+        "EN" : "Congratulations, you have successfully acquired a race!"
+    },
+    "_successWcsVip":{
+        "RU" : "Поздравляем, вы успешно приобрели VIP группу!",
+        "EN" : "Congratulations, you have successfully purchased a VIP group!"
+    },
+    "_allServers":{
+        "RU" : "Все сервера",
+        "EN" : "All servers"
+    },
+    "_addedCartNow":{
+        "RU" : "Товар уже добавлен в корзину!",
+        "EN" : "The product has already been added to the cart!"
+    },
+    "_addProductInCart":{
+        "RU" : "Товар добавлен в корзину!",
+        "EN" : "The item has been added to the cart!"
+    },
+    "_error_promo_not_found":{
+        "RU" : "Промокод не найден!",
+        "EN" : "Promo code not found!"
+    },
+    "_error_cart_is_empty":{
+        "RU" : "Корзина пуста",
+        "EN" : "Cart is empty",
+        "DE" : "Einkaufswagen ist leer",
+        "UA" : "Кошик порожній"
+    },
+    "_GoodPurs": {
+        "RU" : "Удачных покупок!",
+        "EN" : "Enjoy the shopping!",
+        "DE" : "Genießen Sie das Einkaufen!",
+        "UA" : "Вдалих покупок!"
+    },
+    "_shopTheCost": {
+        "RU" : "Цена",
+        "EN" : "Price"
+    },
+    "_shopAddToBasket": {
+        "RU" : "Добавить в корзину",
+        "EN" : "Add to Basket",
+        "DE" : "Zum Warenkorb hinzufügen",
+        "UA" : "Додати до кошику"
+    },
+    "_shoptheCart": {
+        "RU" : "Корзина",
+        "EN" : "Cart",
+        "DE" : "Korb",
+        "UA" : "Кошик"
+    },
+    "_shopinCart": {
+        "RU" : "Товаров в корзине",
+        "EN" : "Items in the cart",
+        "DE" : "Artikel im Warenkorb",
+        "UA" : "Товарів у кошику"
+    },
+    "_shopGoBuy": {
+        "RU" : "Перейти к покупке",
+        "EN" : "Go to purchase",
+        "DE" : "Gehen Sie zum Einkaufen",
+        "UA" : "Перейти до покупки"
+    },
+    "_shopAddTheEmpty": {
+        "RU" : "Выберите товар из каталога, добавьте его в корзину, и нажмите на кнопку КУПИТЬ",
+        "EN" : "Select a product from the catalog, add it to the cart, and click on the BUY button",
+        "DE" : "Wählen Sie ein Produkt aus dem Katalog aus, legen Sie es in den Warenkorb und klicken Sie auf die Schaltfläche KAUFEN",
+        "UA" : "Виберіть товар із каталогу, додайте його до кошика, та натисніть на кнопку КУПИТИ"
+    },
+    "_shopAddThePromo": {
+        "RU" : "Введите промокод (необязательно)",
+        "EN" : "Enter promo code (optional)",
+        "DE" : "Aktionscode eingeben (optional)",
+        "UA" : "Введіть промокод (необов'язково)"
+    },
+    "_shopTotalPrice": {
+        "RU" : "Итого",
+        "EN" : "Total",
+        "DE" : "Gesamt",
+        "UA" : "Разом"
+    },
+    "_shopCheckout": {
+        "RU" : "Купить",
+        "EN" : "Buy",
+        "DE" : "Kaufen",
+        "UA" : "Придбати"
+    },
+    "_shopConfirmation": {
+        "RU" : "Подтверждение",
+        "EN" : "Confirmation",
+        "DE" : "Bestätigung",
+        "UA" : "Підтвердження"
+    },
+    "_shopHavePriv": {
+        "RU" : "У вас уже имеется привилегия на сервере!",
+        "EN" : "You already have privilege on the server!",
+        "DE" : "Sie haben bereits Privilegien auf dem Server!",
+        "UA" : "У вас вже є привілей на сервері!"
+    },
+    "_shopChngPriv": {
+        "RU" : "Подтвеждаете смену привилегии?",
+        "EN" : "Are you confirming the privilege change?",
+        "DE" : "Bestätigen Sie die Berechtigungsänderung?",
+        "UA" : "Чи підтверджуєте зміну привілею?"
+    },
+    "_shopCncl": {
+        "RU" : "Отмена",
+        "EN" : "Cancel",
+        "DE" : "Absagen",
+        "UA" : "Скасування"
+    },
+    "_shopCnclYes": {
+        "RU" : "Да",
+        "EN" : "Yes",
+        "DE" : "Ja",
+        "UA" : "Так"
+    },
+    "_shopSrvNm": {
+        "RU" : "Отображаемое название сервера:",
+        "EN" : "Server display name:",
+        "DE" : "Anzeigename des Servers:",
+        "UA" : "Назва сервера, що відображається:"
+    },
+    "_shopAddPrvlgs": {
+        "RU" : "Добавление товара",
+        "EN" : "Adding a product",
+        "DE" : "Hinzufügen eines Produkts",
+        "UA" : "Додавання товару"
+    },
+    "_shopChsType": {
+        "RU" : "Выберите тип товара:",
+        "EN" : "Select product type:",
+        "DE" : "Produktart auswählen:",
+        "UA" : "Виберіть тип товару:"
+    },
+    "_shopProdNmCart": {
+        "RU" : "Название товара в карточке:",
+        "EN" : "Product name on the card:",
+        "DE" : "Produktname auf der Karte:",
+        "UA" : "Назва товару у картці:"
+    },
+    "_shopProdDscCart": {
+        "RU" : "Описание товара в карточке:",
+        "EN" : "Product description in the card:",
+        "DE" : "Produktbeschreibung in der Karte:",
+        "UA" : "Опис товару у картці:"
+    },
+    "_shopProdPrcCart": {
+        "RU" : "Цена товара в карточке:",
+        "EN" : "The price of the goods in the card:",
+        "DE" : "Der Preis der Waren in der Karte:",
+        "UA" : "Ціна товару у картці:"
+    },
+    "_shopExmplPrice": {
+        "RU" : "Пример:",
+        "EN" : "Example:",
+        "DE" : "Beispiel:",
+        "UA" : "Приклад:"
+    },
+    "_shopCourceXd": {
+        "RU" : "Валюта товара в карточке:",
+        "EN" : "Currency of goods in the card:",
+        "DE" : "Warenwährung auf der Karte:",
+        "UA" : "Валюта товару у картці:"
+    },
+    "_shopExmplCource": {
+        "RU" : "Пример: руб.",
+        "EN" : "Example: rub.",
+        "DE" : "Beispiel: reiben.",
+        "UA" : "приклад: гр."
+    },
+    "_shopGrpName": {
+        "RU" : "Название группы:",
+        "EN" : "Group name:",
+        "DE" : "Gruppenname:",
+        "UA" : "Назва групи:"
+    },
+    "_shopGrpNameDesc": {
+        "RU" : "Укажите название группы/Укажите ID группы для IksAdmin",
+        "EN" : "Specify the group name/Specify the group ID for IksAdmin",
+        "DE" : "Den Gruppennamen finden Sie in der Konfigurationsdatei",
+        "UA" : "Назва групи можна знайти у файлі конфігу"
+    },
+    "_shopPrvgTime": {
+        "RU" : "Время действия привилегии:",
+        "EN" : "Privilege duration:",
+        "DE" : "Dauer des Privilegs:",
+        "UA" : "Час дії привілею:"
+    },
+    "_shopPrvgTimeDesc": {
+        "RU" : "Введите 0 для бесконечного действия",
+        "EN" : "Enter 0 for infinite action",
+        "DE" : "Geben Sie 0 für unendliche Aktion ein",
+        "UA" : "Введіть 0 для нескінченної дії"
+    },
+    "_shopImage": {
+        "RU" : "Введите название картинки:",
+        "EN" : "Enter image title:",
+        "DE" : "Bildnamen eingeben:",
+        "UA" : "Введіть назву картинки:"
+    },
+    "_shopImageDesc": {
+        "RU" : "(Путь: module_page_store/assets/img)",
+        "EN" : "(Path: module_page_store/assets/img)",
+        "DE" : "(Pfad: module_page_store/assets/img)",
+        "UA" : "(Шлях: module_page_store/assets/img)"
+    },
+    "_shopEntrCount": {
+        "RU" : "Введите количество:",
+        "EN" : "Enter Quantity:",
+        "DE" : "Menge eingeben:",
+        "UA" : "Введіть кількість:"
+    },
+    "_shopDbvtProd": {
+        "RU" : "Добавить товар",
+        "EN" : "Add item",
+        "DE" : "Artikel hinzufügen",
+        "UA" : "Додати товар"
+    },
+    "_shopChaangeProd": {
+        "RU" : "Изменение товара",
+        "EN" : "Product change",
+        "DE" : "Produktwechsel",
+        "UA" : "Зміна товару"
+    },
+    "_shopChaangeProdYes": {
+        "RU" : "Измененить товар",
+        "EN" : "Change product",
+        "DE" : "Artikel ändern",
+        "UA" : "Змінити товар"
+    },
+    "_shopAddPrmcd": {
+        "RU" : "Добавить промокод",
+        "EN" : "Add promo code",
+        "DE" : "Promo-Code hinzufügen",
+        "UA" : "Додати промокод"
+    },
+    "_shopNmPrmcd": {
+        "RU" : "Название:",
+        "EN" : "Name:",
+        "DE" : "Name:",
+        "UA" : "Назва:"
+    },
+    "_shopSalePrmcd": {
+        "RU" : "Скидка:",
+        "EN" : "Discount:",
+        "DE" : "Rabatt:",
+        "UA" : "Знижка:"
+    },
+    "_shopChooseSale": {
+        "RU" : "Установите процент скидки на все товары:",
+        "EN" : "Set the discount percentage for all products:",
+        "DE" : "Legen Sie den Rabattprozentsatz für alle Produkte fest:",
+        "UA" : "Встановіть відсоток знижки на всі товари:"
+    },
+    "_shopSetSale": {
+        "RU" : "Установить скидку",
+        "EN" : "Set discount",
+        "DE" : "Rabatt festlegen",
+        "UA" : "Встановити знижку"
+    },
+    "_shopAddingPrmcd": {
+        "RU" : "Добавление промокода",
+        "EN" : "Adding a promo code",
+        "DE" : "Hinzufügen eines Promo-Codes",
+        "UA" : "Додавання промокоду"
+    },
+    "_shopAddingNamePrmcd": {
+        "RU" : "Введите название промокода:",
+        "EN" : "Enter the name of the promo code:",
+        "DE" : "Geben Sie den Namen des Aktionscodes ein:",
+        "UA" : "Введіть назву промокоду:"
+    },
+    "_SteamErrorSosi": {
+        "RU" : "Неверный формат STEAM ID!",
+        "EN" : "Invalid STEAM ID format!",
+        "DE" : "Invalid STEAM ID format!",
+        "UA" : "Неправильний формат STEAM ID!"
+    },
+    "_shopSetNameSale": {
+        "RU" : "Введите процент скидки:",
+        "EN" : "Enter discount percentage:",
+        "DE" : "Rabattprozentsatz eingeben:",
+        "UA" : "Введіть відсоток знижки:"
+    },
+    "_shopSetCountUsing": {
+        "RU" : "Введите кол-во использований:",
+        "EN" : "Enter number of uses:",
+        "DE" : "Geben Sie die Anzahl der Verwendungen ein:",
+        "UA" : "Введіть кількість використання:"
+    },
+    "_shopChngPrmcd": {
+        "RU" : "Изменение промокода",
+        "EN" : "Change promo code",
+        "DE" : "Aktionscode ändern",
+        "UA" : "Зміна промокоду"
+    },
+    "_shopChngPrmcdYes": {
+        "RU" : "Измененить промокод",
+        "EN" : "Change promo code",
+        "DE" : "Aktionscode ändern",
+        "UA" : "Змінити промокод"
+    },
+    "_shopDeleteCart": {
+        "RU" : "Удалить",
+        "EN" : "Delete",
+        "DE" : "Löschen",
+        "UA" : "Видалити"
+    },
+    "_shopDeleteCartWarn": {
+        "RU" : "Удалить без возврата!",
+        "EN" : "Delete without return!",
+        "DE" : "Löschen ohne Rückgabe!",
+        "UA" : "Видалити без повернення!"
+    },
+    "_shopHideCart": {
+        "RU" : "Скрыть",
+        "EN" : "Hide",
+        "DE" : "Verstecken",
+        "UA" : "Приховати"
+    },
+    "_shopNotChoosen": {
+        "RU" : "Не выбрано",
+        "EN" : "Not choosen"
+    },
+    "_shopVariant": {
+        "RU" : "Вариант покупки",
+        "EN" : "Purchase option"
+    },
+    "_shopForMyself": {
+        "RU" : "Для себя",
+        "EN" : "For myself"
+    },
+    "_shopForGift": {
+        "RU" : "В подарок",
+        "EN" : "As a gift."
+    },
+    "_shopCheckText": {
+        "RU" : "Проверка данных",
+        "EN" : "Data validation"
+    },
+    "_shopCheckWarning": {
+        "RU" : "ВНИМАНИЕ!",
+        "EN" : "WARNING!"
+    },
+    "_shopCheckCorrect": {
+        "RU" : "<div>Пожалуйста, во избежании пороблем <span class='check_text'>проверьте выбранный сервер еще раз</span>, убедитесь, что вы приобретаете привилегию на нужный сервер.</div>",
+        "EN" : "Please check the selected server again to avoid problems, make sure that you purchase the privilege for the correct server."
+    },
+    "_shopCheckYouBuy": {
+        "RU" : "Вы приобретаете:",
+        "EN" : "You're buying:"
+    },
+    "_shopCheckServer": {
+        "RU" : "На сервер:",
+        "EN" : "On the server:"
+    },
+    "_shopCheckPrice": {
+        "RU" : "С баланса спишется",
+        "EN" : "The balance will be deducted"
+    },
+    "_shopCheckVariant": {
+        "RU" : "Вариант покупки:",
+        "EN" : "Purchasing Option:"
+    },
+    "_shopCheckIfelse": {
+        "RU" : "Продолжайте покупку, если всё верно.",
+        "EN" : "Continue shopping if all is correct."
+    },
+    "_shopCheckNo": {
+        "RU" : "Нет, изменить данные",
+        "EN" : "No, change the data"
+    },
+    "_shopSteamIDGift": {
+        "RU" : "Введите STEAM ID игрока",
+        "EN" : "Enter the player's STEAM ID"
+    }
+}

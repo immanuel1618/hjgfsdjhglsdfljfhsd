@@ -1,0 +1,50 @@
+{   
+    "_SHOP": {
+        "RU": "Магазин привилегий",
+        "EN": "Privilege shop", 
+        "UA": "Магазин"
+    },
+    "_shopName": {
+        "RU": "Магазин",
+        "EN": "Shop", 
+        "UA": "Привилеге Сторе"
+    }, 
+    "_Top3": {
+        "RU": "TOP 3",
+        "EN": "TOP 3"
+    },
+    "_Best_player": {
+        "RU": "Лучших игроков",
+        "EN": "Best players"
+    },
+    "_StatsTop": {
+        "RU": "Статистика",
+        "EN": "Statistics", 
+        "UA": "Статистика",
+        "DE": "Statistiken"
+    },
+    "_Experience": {
+        "RU": "Опыт",
+        "EN": "Experience", 
+        "UA": "Досвід",
+        "DE": "Erfahrung"
+    },
+    "_Played": {
+        "RU": "Наиграл",
+        "EN": "Played", 
+        "UA": "Награв",
+        "DE": "Genug"
+    },
+    "_KilHead": {
+        "RU": "В голову",
+        "EN": "To the head", 
+        "UA": "В голову",
+        "DE": "Zum Kopf"
+    },
+    "_YourStats": {
+        "RU": "Ваша статистика",
+        "EN": "Your statistics", 
+        "UA": "Ваша статистика",
+        "DE": "Ihre Statistiken"
+    }
+}

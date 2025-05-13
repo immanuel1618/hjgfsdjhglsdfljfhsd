@@ -1,0 +1,227 @@
+.searchmodal {
+    position: fixed;
+    z-index: 102;
+    backdrop-filter: blur(5px);
+    left: 0;
+    top: 70px;
+    width: 100%;
+    height: 250px;
+    border-bottom: 2px solid var(--bottom-line-table);
+    background: var(--bg-modal);
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-30px);
+    transition: visibility 0s linear .25s, opacity .25s 0s, transform .25s
+}
+
+.show-searchmodal {
+    z-index: 102;
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+    transition: visibility 0s linear 0s, opacity .25s 0s, transform .25s
+}
+
+.modal_users_container {
+    opacity: 0;
+    transition: .3s
+}
+
+.modal-searchcontent {
+    display: flex;
+    gap: 15px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.modal_users_container {
+    transform: translate(0, 10px);
+    top: 64px;
+    z-index: 3;
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+    transition: .3s ease-in-out;
+}
+
+.modal_users_header {
+    display: flex;
+    gap: 10px;
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--text-custom);
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.modal_users_header svg {
+    width: 15px;
+    height: 15px;
+    fill: var(--text-custom);
+    opacity: .5;
+}
+
+.modal_users_header b {
+    color: var(--span);
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.users_notfound .modal-searchcontent {
+    transition: .3s;
+    width: 100%;
+}
+
+.users_notfound .modal_users_container {
+    transform: translate(0,0);
+    transition: .3s ease-in-out;
+    opacity: 1;
+    visibility: visible;
+}
+
+.users_notfound .modal_users_header svg {
+    fill: var(--red);
+    opacity: 1
+}
+
+.users_found .modal-searchcontent {
+    transition: .3s
+}
+
+.users_found .modal_users_container {
+    transform: translate(0,0px);
+    transition: .2s;
+    opacity: 1;
+    visibility: visible
+}
+
+.modal_users_container .modal_blocks_content {
+    display: flex;
+    gap: 5px;
+    max-height: 313px;
+    width: 306px;
+    overflow-y: scroll;
+    padding: 5px;
+    border-radius: 16px;
+    border: 1px solid var(--bg-table);
+    background: var(--navbar);
+    backdrop-filter: blur(40px);
+    box-shadow: 0 0 38px 0 rgb(0 0 0/20%);
+    flex-direction: column
+}
+
+.users_notfound .modal_blocks_content {
+    opacity: 1;
+    visibility: visible;
+    z-index: 0
+}
+
+.modal_users_container .modal_blocks_content::-webkit-scrollbar {
+    background: rgb(255 255 255/5%);
+    width: 2px
+}
+
+.modal_users_container .modal_blocks_content::-webkit-scrollbar-thumb {
+    border: none !important;
+    background: var(--span)
+}
+
+.modal_users_container .modal_blocks_content a {
+    display: flex;
+    align-items: center;
+    border-radius: 12px;
+    position: relative;
+    gap: 15px;
+    background-color: var(--transparent);
+    transition: .3s;
+    border: 1px solid var(--transparent);
+    padding: 10px;
+}
+
+.modal_users_container .modal_blocks_content a:hover {
+    transition: .3s;
+}
+
+.modal_users_container .modal_blocks_content a>svg {
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    right: 14px;
+    fill: var(--text-custom);
+    opacity: .2;
+    transition: .3s
+}
+
+.modal_users_container .modal_blocks_content a:hover>svg {
+    opacity: 1;
+    fill: var(--span);
+    transition: .3s;
+    transform: rotate(45deg);
+}
+
+.modal_users_container .modal_blocks_content a img {
+    height: 35px;
+    width: 35px;
+    border-radius: 6px;
+}
+
+.modal_users_container .modal_blocks_content a h3 {
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--text-custom);
+    max-width: 180px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis
+}
+
+.modal_users_container .modal_blocks_content a p {
+    color: var(--text-custom);
+    margin: 0;
+    font-size: 10px;
+    opacity: .5;
+}
+
+form.input-form {
+    width: 100% !important;
+    margin: 0;
+}
+
+.load svg {
+    width: 12px;
+    height: 12px;
+    fill: var(--orange) !important;
+    animation: 1s linear 0s normal none infinite running loading;
+    -webkit-animation: 1s linear 0s normal none infinite running loading
+}
+
+@keyframes loading {
+    0% {
+        transform: rotate(0deg)
+    }
+
+    100% {
+        transform: rotate(360deg)
+    }
+}
+
+@-webkit-keyframes loading {
+    0% {
+        transform: rotate(0deg)
+    }
+
+    100% {
+        transform: rotate(360deg)
+    }
+}
+
+.load {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    justify-content: center;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: var(--text-custom)
+}

@@ -1,0 +1,569 @@
+[
+    {
+        "id": "4613",
+        "name": "Mittelloser grausamer Darryl | Die Profis",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_professional_varf5_png.png",
+        "model": "tm_professional\/tm_professional_varf5",
+        "team": 0,
+        "id_rarity": "rarity_legendary_character",
+        "rarity": "Überlegen"
+    },
+    {
+        "id": "4619",
+        "name": "„Blaubeeren“ Schrotkugel | NSWC SEAL",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_st6_variantj_png.png",
+        "model": "ctm_st6\/ctm_st6_variantj",
+        "team": 1,
+        "id_rarity": "rarity_mythical_character",
+        "rarity": "Außergewöhnlich"
+    },
+    {
+        "id": "4680",
+        "name": "„ZweiMal“ McCoy | TACP-Kavallerie",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_st6_variantl_png.png",
+        "model": "ctm_st6\/ctm_st6_variantl",
+        "team": 1,
+        "id_rarity": "rarity_legendary_character",
+        "rarity": "Überlegen"
+    },
+    {
+        "id": "4711",
+        "name": "Kdr. Mae „Eiskalt“ Jamison | SWAT",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_swat_variante_png.png",
+        "model": "ctm_swat\/ctm_swat_variante",
+        "team": 1,
+        "id_rarity": "rarity_ancient_character",
+        "rarity": "Meister"
+    },
+    {
+        "id": "4712",
+        "name": "Oberleutnantin Farlow | SWAT",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_swat_variantf_png.png",
+        "model": "ctm_swat\/ctm_swat_variantf",
+        "team": 1,
+        "id_rarity": "rarity_legendary_character",
+        "rarity": "Überlegen"
+    },
+    {
+        "id": "4713",
+        "name": "John „Van Healen“ Kask | SWAT",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_swat_variantg_png.png",
+        "model": "ctm_swat\/ctm_swat_variantg",
+        "team": 1,
+        "id_rarity": "rarity_mythical_character",
+        "rarity": "Außergewöhnlich"
+    },
+    {
+        "id": "4714",
+        "name": "Spezialist für biologische Gefahren | SWAT",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_swat_varianth_png.png",
+        "model": "ctm_swat\/ctm_swat_varianth",
+        "team": 1,
+        "id_rarity": "rarity_rare_character",
+        "rarity": "Ausgezeichnet"
+    },
+    {
+        "id": "4715",
+        "name": "Feldwebel Bombson | SWAT",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_swat_varianti_png.png",
+        "model": "ctm_swat\/ctm_swat_varianti",
+        "team": 1,
+        "id_rarity": "rarity_mythical_character",
+        "rarity": "Außergewöhnlich"
+    },
+    {
+        "id": "4716",
+        "name": "Spezialist für chemische Gefahren | SWAT",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_swat_variantj_png.png",
+        "model": "ctm_swat\/ctm_swat_variantj",
+        "team": 1,
+        "id_rarity": "rarity_rare_character",
+        "rarity": "Ausgezeichnet"
+    },
+    {
+        "id": "4718",
+        "name": "Rezan das Rothemd | Sabre",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_balkan_variantk_png.png",
+        "model": "tm_balkan\/tm_balkan_variantk",
+        "team": 0,
+        "id_rarity": "rarity_legendary_character",
+        "rarity": "Überlegen"
+    },
+    {
+        "id": "4726",
+        "name": "Grausamer Miami-Darryl | Die Profis",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_professional_varf_png.png",
+        "model": "tm_professional\/tm_professional_varf",
+        "team": 0,
+        "id_rarity": "rarity_ancient_character",
+        "rarity": "Meister"
+    },
+    {
+        "id": "4727",
+        "name": "Panzerknackerin Voltzmann | Die Profis",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_professional_varg_png.png",
+        "model": "tm_professional\/tm_professional_varg",
+        "team": 0,
+        "id_rarity": "rarity_legendary_character",
+        "rarity": "Überlegen"
+    },
+    {
+        "id": "4728",
+        "name": "Klein Kev | Die Profis",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_professional_varh_png.png",
+        "model": "tm_professional\/tm_professional_varh",
+        "team": 0,
+        "id_rarity": "rarity_mythical_character",
+        "rarity": "Außergewöhnlich"
+    },
+    {
+        "id": "4730",
+        "name": "Schlüpfrige Sally | Die Profis",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_professional_varj_png.png",
+        "model": "tm_professional\/tm_professional_varj",
+        "team": 0,
+        "id_rarity": "rarity_mythical_character",
+        "rarity": "Außergewöhnlich"
+    },
+    {
+        "id": "4732",
+        "name": "Nummer K | Die Profis",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_professional_vari_png.png",
+        "model": "tm_professional\/tm_professional_vari",
+        "team": 0,
+        "id_rarity": "rarity_legendary_character",
+        "rarity": "Überlegen"
+    },
+    {
+        "id": "4733",
+        "name": "Grausamer Stiller Darryl | Die Profis",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_professional_varf1_png.png",
+        "model": "tm_professional\/tm_professional_varf1",
+        "team": 0,
+        "id_rarity": "rarity_ancient_character",
+        "rarity": "Meister"
+    },
+    {
+        "id": "4734",
+        "name": "Grausamer Schädelkopf-Darryl | Die Profis",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_professional_varf2_png.png",
+        "model": "tm_professional\/tm_professional_varf2",
+        "team": 0,
+        "id_rarity": "rarity_ancient_character",
+        "rarity": "Meister"
+    },
+    {
+        "id": "4735",
+        "name": "Grausamer Darryl Royale | Die Profis",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_professional_varf3_png.png",
+        "model": "tm_professional\/tm_professional_varf3",
+        "team": 0,
+        "id_rarity": "rarity_ancient_character",
+        "rarity": "Meister"
+    },
+    {
+        "id": "4736",
+        "name": "Grausamer Schreihals-Darryl | Die Profis",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_professional_varf4_png.png",
+        "model": "tm_professional\/tm_professional_varf4",
+        "team": 0,
+        "id_rarity": "rarity_ancient_character",
+        "rarity": "Meister"
+    },
+    {
+        "id": "4749",
+        "name": "Sous-Lieutenant des militärischen Sanitätsdienstes | Gendarmerie Nationale",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_gendarmerie_varianta_png.png",
+        "model": "ctm_gendarmerie\/ctm_gendarmerie_varianta",
+        "team": 1,
+        "id_rarity": "rarity_mythical_character",
+        "rarity": "Außergewöhnlich"
+    },
+    {
+        "id": "4750",
+        "name": "Capitaine für chemische Gefahren | Gendarmerie Nationale",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_gendarmerie_variantb_png.png",
+        "model": "ctm_gendarmerie\/ctm_gendarmerie_variantb",
+        "team": 1,
+        "id_rarity": "rarity_legendary_character",
+        "rarity": "Überlegen"
+    },
+    {
+        "id": "4751",
+        "name": "Chef d'Escadron Rouchard | Gendarmerie Nationale",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_gendarmerie_variantc_png.png",
+        "model": "ctm_gendarmerie\/ctm_gendarmerie_variantc",
+        "team": 1,
+        "id_rarity": "rarity_ancient_character",
+        "rarity": "Meister"
+    },
+    {
+        "id": "4752",
+        "name": "Anwärter | Gendarmerie Nationale",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_gendarmerie_variantd_png.png",
+        "model": "ctm_gendarmerie\/ctm_gendarmerie_variantd",
+        "team": 1,
+        "id_rarity": "rarity_rare_character",
+        "rarity": "Ausgezeichnet"
+    },
+    {
+        "id": "4753",
+        "name": "Officier Jacques Beltram | Gendarmerie Nationale",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_gendarmerie_variante_png.png",
+        "model": "ctm_gendarmerie\/ctm_gendarmerie_variante",
+        "team": 1,
+        "id_rarity": "rarity_mythical_character",
+        "rarity": "Außergewöhnlich"
+    },
+    {
+        "id": "4756",
+        "name": "Leutnant „Baumkuschler“ Farlow | SWAT",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_swat_variantk_png.png",
+        "model": "ctm_swat\/ctm_swat_variantk",
+        "team": 1,
+        "id_rarity": "rarity_mythical_character",
+        "rarity": "Außergewöhnlich"
+    },
+    {
+        "id": "4757",
+        "name": "Kommandantin Davida „Taucherbrille“ Fernandez | SEAL-Kampfschwimmerin",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_diver_varianta_png.png",
+        "model": "ctm_diver\/ctm_diver_varianta",
+        "team": 1,
+        "id_rarity": "rarity_ancient_character",
+        "rarity": "Meister"
+    },
+    {
+        "id": "4771",
+        "name": "Kommandant Frank „Nasse Socke“ Baroud | SEAL-Kampfschwimmer",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_diver_variantb_png.png",
+        "model": "ctm_diver\/ctm_diver_variantb",
+        "team": 1,
+        "id_rarity": "rarity_ancient_character",
+        "rarity": "Meister"
+    },
+    {
+        "id": "4772",
+        "name": "Leutnant Rex Krikey | SEAL-Kampfschwimmer",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_diver_variantc_png.png",
+        "model": "ctm_diver\/ctm_diver_variantc",
+        "team": 1,
+        "id_rarity": "rarity_legendary_character",
+        "rarity": "Überlegen"
+    },
+    {
+        "id": "4773",
+        "name": "Elitetrapper Solman | Guerilla",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_jungle_raider_varianta_png.png",
+        "model": "tm_jungle_raider\/tm_jungle_raider_varianta",
+        "team": 0,
+        "id_rarity": "rarity_legendary_character",
+        "rarity": "Überlegen"
+    },
+    {
+        "id": "4774",
+        "name": "Krasswasser der Vergessene | Guerilla",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_jungle_raider_variantb_png.png",
+        "model": "tm_jungle_raider\/tm_jungle_raider_variantb",
+        "team": 0,
+        "id_rarity": "rarity_ancient_character",
+        "rarity": "Meister"
+    },
+    {
+        "id": "4775",
+        "name": "Arno der Überwachsene | Guerilla",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_jungle_raider_variantc_png.png",
+        "model": "tm_jungle_raider\/tm_jungle_raider_variantc",
+        "team": 0,
+        "id_rarity": "rarity_legendary_character",
+        "rarity": "Überlegen"
+    },
+    {
+        "id": "4776",
+        "name": "Oberst Mangos Dabisi | Guerilla",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_jungle_raider_variantd_png.png",
+        "model": "tm_jungle_raider\/tm_jungle_raider_variantd",
+        "team": 0,
+        "id_rarity": "rarity_mythical_character",
+        "rarity": "Außergewöhnlich"
+    },
+    {
+        "id": "4777",
+        "name": "Vypa Sista der Revolution | Guerilla",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_jungle_raider_variante_png.png",
+        "model": "tm_jungle_raider\/tm_jungle_raider_variante",
+        "team": 0,
+        "id_rarity": "rarity_ancient_character",
+        "rarity": "Meister"
+    },
+    {
+        "id": "4778",
+        "name": "Trapper-Aggressor | Guerilla",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_jungle_raider_variantf_png.png",
+        "model": "tm_jungle_raider\/tm_jungle_raider_variantf",
+        "team": 0,
+        "id_rarity": "rarity_rare_character",
+        "rarity": "Ausgezeichnet"
+    },
+    {
+        "id": "4780",
+        "name": "„Halb durchgebraten“ Krasswasser | Guerilla",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_jungle_raider_variantb2_png.png",
+        "model": "tm_jungle_raider\/tm_jungle_raider_variantb2",
+        "team": 0,
+        "id_rarity": "rarity_ancient_character",
+        "rarity": "Meister"
+    },
+    {
+        "id": "4781",
+        "name": "Trapper | Guerilla",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_jungle_raider_variantf2_png.png",
+        "model": "tm_jungle_raider\/tm_jungle_raider_variantf2",
+        "team": 0,
+        "id_rarity": "rarity_mythical_character",
+        "rarity": "Außergewöhnlich"
+    },
+    {
+        "id": "5105",
+        "name": "Bodenrebell | Elitetruppe",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_leet_variantg_png.png",
+        "model": "tm_leet\/tm_leet_variantg",
+        "team": 0,
+        "id_rarity": "rarity_rare_character",
+        "rarity": "Ausgezeichnet"
+    },
+    {
+        "id": "5106",
+        "name": "Osiris | Elitetruppe",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_leet_varianth_png.png",
+        "model": "tm_leet\/tm_leet_varianth",
+        "team": 0,
+        "id_rarity": "rarity_mythical_character",
+        "rarity": "Außergewöhnlich"
+    },
+    {
+        "id": "5107",
+        "name": "Prof. Shahmat | Elitetruppe",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_leet_varianti_png.png",
+        "model": "tm_leet\/tm_leet_varianti",
+        "team": 0,
+        "id_rarity": "rarity_legendary_character",
+        "rarity": "Überlegen"
+    },
+    {
+        "id": "5108",
+        "name": "Die Elite Herr Muhlik | Elitetruppe",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_leet_variantf_png.png",
+        "model": "tm_leet\/tm_leet_variantf",
+        "team": 0,
+        "id_rarity": "rarity_ancient_character",
+        "rarity": "Meister"
+    },
+    {
+        "id": "5109",
+        "name": "Dschungelrebell | Elitetruppe",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_leet_variantj_png.png",
+        "model": "tm_leet\/tm_leet_variantj",
+        "team": 0,
+        "id_rarity": "rarity_rare_character",
+        "rarity": "Ausgezeichnet"
+    },
+    {
+        "id": "5205",
+        "name": "Soldat | Phönix",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_phoenix_varianth_png.png",
+        "model": "tm_phoenix\/tm_phoenix_varianth",
+        "team": 0,
+        "id_rarity": "rarity_rare_character",
+        "rarity": "Ausgezeichnet"
+    },
+    {
+        "id": "5206",
+        "name": "Vollstrecker | Phönix",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_phoenix_variantf_png.png",
+        "model": "tm_phoenix\/tm_phoenix_variantf",
+        "team": 0,
+        "id_rarity": "rarity_rare_character",
+        "rarity": "Ausgezeichnet"
+    },
+    {
+        "id": "5207",
+        "name": "Schleuderer | Phönix",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_phoenix_variantg_png.png",
+        "model": "tm_phoenix\/tm_phoenix_variantg",
+        "team": 0,
+        "id_rarity": "rarity_mythical_character",
+        "rarity": "Außergewöhnlich"
+    },
+    {
+        "id": "5208",
+        "name": "Straßensoldat | Phönix",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_phoenix_varianti_png.png",
+        "model": "tm_phoenix\/tm_phoenix_varianti",
+        "team": 0,
+        "id_rarity": "rarity_rare_character",
+        "rarity": "Ausgezeichnet"
+    },
+    {
+        "id": "5305",
+        "name": "Operator | FBI-SWAT",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_fbi_variantf_png.png",
+        "model": "ctm_fbi\/ctm_fbi_variantf",
+        "team": 1,
+        "id_rarity": "rarity_rare_character",
+        "rarity": "Ausgezeichnet"
+    },
+    {
+        "id": "5306",
+        "name": "Markus Delrow | FBI-Geiselrettungsgruppe",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_fbi_variantg_png.png",
+        "model": "ctm_fbi\/ctm_fbi_variantg",
+        "team": 1,
+        "id_rarity": "rarity_mythical_character",
+        "rarity": "Außergewöhnlich"
+    },
+    {
+        "id": "5307",
+        "name": "Michael Syfers  | FBI-Scharfschütze",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_fbi_varianth_png.png",
+        "model": "ctm_fbi\/ctm_fbi_varianth",
+        "team": 1,
+        "id_rarity": "rarity_legendary_character",
+        "rarity": "Überlegen"
+    },
+    {
+        "id": "5308",
+        "name": "Special Agent Ava | FBI",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_fbi_variantb_png.png",
+        "model": "ctm_fbi\/ctm_fbi_variantb",
+        "team": 1,
+        "id_rarity": "rarity_ancient_character",
+        "rarity": "Meister"
+    },
+    {
+        "id": "5400",
+        "name": "3. Kommandokompanie | KSK",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_st6_variantk_png.png",
+        "model": "ctm_st6\/ctm_st6_variantk",
+        "team": 1,
+        "id_rarity": "rarity_rare_character",
+        "rarity": "Ausgezeichnet"
+    },
+    {
+        "id": "5401",
+        "name": "SEAL Team 6 Soldat | NSWC SEAL",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_st6_variante_png.png",
+        "model": "ctm_st6\/ctm_st6_variante",
+        "team": 1,
+        "id_rarity": "rarity_rare_character",
+        "rarity": "Ausgezeichnet"
+    },
+    {
+        "id": "5402",
+        "name": "Schrotkugel | NSWC SEAL",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_st6_variantg_png.png",
+        "model": "ctm_st6\/ctm_st6_variantg",
+        "team": 1,
+        "id_rarity": "rarity_mythical_character",
+        "rarity": "Außergewöhnlich"
+    },
+    {
+        "id": "5403",
+        "name": "„ZweiMal“ McCoy | USAF-TACP",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_st6_variantm_png.png",
+        "model": "ctm_st6\/ctm_st6_variantm",
+        "team": 1,
+        "id_rarity": "rarity_legendary_character",
+        "rarity": "Überlegen"
+    },
+    {
+        "id": "5404",
+        "name": "Lt. Commander Ricksaw | NSWC SEAL",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_st6_varianti_png.png",
+        "model": "ctm_st6\/ctm_st6_varianti",
+        "team": 1,
+        "id_rarity": "rarity_ancient_character",
+        "rarity": "Meister"
+    },
+    {
+        "id": "5405",
+        "name": "Primeiro Tenente | 1. Brasilianisches Bataillon",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_st6_variantn_png.png",
+        "model": "ctm_st6\/ctm_st6_variantn",
+        "team": 1,
+        "id_rarity": "rarity_rare_character",
+        "rarity": "Ausgezeichnet"
+    },
+    {
+        "id": "5500",
+        "name": "Dragomir | Sabre",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_balkan_variantf_png.png",
+        "model": "tm_balkan\/tm_balkan_variantf",
+        "team": 0,
+        "id_rarity": "rarity_mythical_character",
+        "rarity": "Außergewöhnlich"
+    },
+    {
+        "id": "5501",
+        "name": "Maximus | Sabre",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_balkan_varianti_png.png",
+        "model": "tm_balkan\/tm_balkan_varianti",
+        "team": 0,
+        "id_rarity": "rarity_mythical_character",
+        "rarity": "Außergewöhnlich"
+    },
+    {
+        "id": "5502",
+        "name": "Rezan, der Bereite | Sabre",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_balkan_variantg_png.png",
+        "model": "tm_balkan\/tm_balkan_variantg",
+        "team": 0,
+        "id_rarity": "rarity_legendary_character",
+        "rarity": "Überlegen"
+    },
+    {
+        "id": "5503",
+        "name": "Blackwolf | Sabre",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_balkan_variantj_png.png",
+        "model": "tm_balkan\/tm_balkan_variantj",
+        "team": 0,
+        "id_rarity": "rarity_legendary_character",
+        "rarity": "Überlegen"
+    },
+    {
+        "id": "5504",
+        "name": "„Doktor“ Romanov | Sabre",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_balkan_varianth_png.png",
+        "model": "tm_balkan\/tm_balkan_varianth",
+        "team": 0,
+        "id_rarity": "rarity_ancient_character",
+        "rarity": "Meister"
+    },
+    {
+        "id": "5505",
+        "name": "Dragomir | Sabre-Fußsoldat",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_tm_balkan_variantl_png.png",
+        "model": "tm_balkan\/tm_balkan_variantl",
+        "team": 0,
+        "id_rarity": "rarity_rare_character",
+        "rarity": "Ausgezeichnet"
+    },
+    {
+        "id": "5601",
+        "name": "B Squadron Officer | SAS",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_sas_variantf_png.png",
+        "model": "ctm_sas\/ctm_sas_variantf",
+        "team": 1,
+        "id_rarity": "rarity_rare_character",
+        "rarity": "Ausgezeichnet"
+    },
+    {
+        "id": "5602",
+        "name": "Offizier der Staffel D | NZSAS",
+        "image": "https:\/\/raw.githubusercontent.com\/ByMykel\/counter-strike-image-tracker\/main\/static\/panorama\/images\/econ\/characters\/customplayer_ctm_sas_variantg_png.png",
+        "model": "ctm_sas\/ctm_sas_variantg",
+        "team": 1,
+        "id_rarity": "rarity_rare_character",
+        "rarity": "Ausgezeichnet"
+    }
+]

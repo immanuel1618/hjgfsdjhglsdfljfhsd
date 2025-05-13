@@ -1,0 +1,327 @@
+{
+  "_Promo": {
+    "EN": "Promotional Code",
+    "RU": "Промокод",
+    "UA": "Промокод"
+  },
+  "_Sum": {
+    "EN": "Amount",
+    "RU": "Сумма",
+    "UA": "Сума"
+  },
+  "_Limit": {
+    "EN": "Limit",
+    "RU": "Лимит",
+    "UA": "Ліміт"
+  },
+  "_LimitUsePromo": {
+    "EN": "Activation limit",
+    "RU": "Лимит по активациям",
+    "UA": "Ліміт з активацій"
+  },
+  "_Snap": {
+    "EN": "Activation",
+    "RU": "Активаций",
+    "UA": "Активації"
+  },
+  "_Current_Action": {
+    "EN": "Current Action",
+    "RU": "Текущее действие",
+    "UA": "Поточна дія"
+  },
+  "_SettingsPromo": {
+    "EN": "Promo Settings",
+    "RU": "Настройки промокодов",
+    "UA": "Налаштування промокодів"
+  },
+  "_Change": {
+    "EN": "Change",
+    "RU": "Изменить",
+    "UA": "Змінити"
+  },
+  "_Options": {
+    "EN": "Options",
+    "RU": "Опции",
+    "UA": "Опції"
+  },
+  "_AddPromocode": {
+    "EN": "Add Promocode",
+    "RU": "Добавить промокод",
+    "UA": "Додати промокод"
+  },
+  "_EditPromo": {
+    "EN": "Edit Promo",
+    "RU": "Редактировать промокод",
+    "UA": "Редагувати промокод"
+  },
+  "_Close": {
+    "EN": "Close",
+    "RU": "Закрыть",
+    "UA": "Закрити"
+  },
+  "_Name": {
+    "EN": "Name",
+    "RU": "Название",
+    "UA": "Назва"
+  },
+  "_Edit_At": {
+    "EN": "Edit At",
+    "RU": "Дата окончания действия промокода",
+    "UA": "Дата завершення дії промокоду"
+  },
+  "_Save": {
+    "EN": "Save",
+    "RU": "Сохранить",
+    "UA": "Зберегти"
+  },
+  "_Delete_Action": {
+    "EN": "Delete",
+    "RU": "Удалить",
+    "UA": "Видалити"
+  },
+  "_PromoNotUse": {
+    "EN": "Promo Not Used",
+    "RU": "Промокод не использован",
+    "UA": "Промокод не використано"
+  },
+  "_AddPromoName": {
+    "EN": "Promo Name",
+    "RU": "Название промокода",
+    "UA": "Назва промокоду"
+  },
+  "_Created_At": {
+    "EN": "Created At",
+    "RU": "Дата начала действия промокода",
+    "UA": "Дата початку дії промокоду"
+  },
+  "_End_At": {
+    "EN": "End At",
+    "RU": "Дата окончания действия промокода",
+    "UA": "Дата завершення дії промокоду"
+  },
+  "_PromoRequired": {
+    "EN": "Promo code is required",
+    "RU": "Промокод обязателен",
+    "UA": "Промокод обов'язковий"
+  },
+  "_ErrorNamePromo": {
+    "EN": "Invalid promo code name",
+    "RU": "Некорректное название промокода",
+    "UA": "Невірна назва промокоду"
+  },
+  "_LimitPromo": {
+    "EN": "Usage limit is required",
+    "RU": "Лимит использования обязателен",
+    "UA": "Ліміт використання обов'язковий"
+  },
+  "_LimitField": {
+    "EN": "Invalid limit value",
+    "RU": "Некорректное значение лимита",
+    "UA": "Невірне значення ліміту"
+  },
+  "_EnterBonus": {
+    "EN": "Enter bonus amount",
+    "RU": "Введите сумму бонуса",
+    "UA": "Введіть суму бонусу"
+  },
+  "_NotCorBonus": {
+    "EN": "Invalid bonus amount",
+    "RU": "Некорректная сумма бонуса",
+    "UA": "Невірна сума бонусу"
+  },
+  "_Create_At_Sus": {
+    "EN": "Creation date is required",
+    "RU": "Дата создания обязательна",
+    "UA": "Дата створення обов'язкова"
+  },
+  "_Create_At_Field": {
+    "EN": "Invalid creation date format",
+    "RU": "Некорректный формат даты создания",
+    "UA": "Невірний формат дати створення"
+  },
+  "_End_At_Sus": {
+    "EN": "End date is required",
+    "RU": "Дата завершения обязательна",
+    "UA": "Дата завершення обов'язкова"
+  },
+  "_End_At_Field": {
+    "EN": "Invalid end date format",
+    "RU": "Некорректный формат даты завершения",
+    "UA": "Невірний формат дати завершення"
+  },
+  "_ExistPromo": {
+    "EN": "Promo code already exists",
+    "RU": "Промокод уже существует",
+    "UA": "Промокод вже існує"
+  },
+  "_AddedPromo": {
+    "EN": "Promo code added successfully",
+    "RU": "Промокод успешно добавлен",
+    "UA": "Промокод успішно додано"
+  },
+  "_Error": {
+    "EN": "Error",
+    "RU": "Ошибка",
+    "UA": "Помилка"
+  },
+  "_EditPromoName": {
+    "EN": "Enter promo code name",
+    "RU": "Введите название промокода",
+    "UA": "Введіть назву промокоду"
+  },
+  "_EnterSum": {
+    "EN": "Enter amount",
+    "RU": "Введите сумму",
+    "UA": "Введіть суму"
+  },
+  "_NotCorSum": {
+    "EN": "Invalid amount",
+    "RU": "Некорректная сумма",
+    "UA": "Невірна сума"
+  },
+  "_EnterDate": {
+    "EN": "Enter date",
+    "RU": "Введите дату",
+    "UA": "Введіть дату"
+  },
+  "_NotDate": {
+    "EN": "Invalid date format",
+    "RU": "Некорректный формат даты",
+    "UA": "Невірний формат дати"
+  },
+  "_EditedPromo": {
+    "EN": "Promo code edited successfully",
+    "RU": "Промокод успешно изменен",
+    "UA": "Промокод успішно змінено"
+  },
+  "_DeletedPromo": {
+    "EN": "Promo code deleted successfully",
+    "RU": "Промокод успешно удален",
+    "UA": "Промокод успішно видалено"
+  },
+  "_Reward": {
+    "EN": "Reward",
+    "RU": "Награда",
+    "UA": "Нагорода"
+  },
+  "_RewardType": {
+    "EN": "Reward type",
+    "RU": "Тип награды",
+    "UA": "Тип нагороди"
+  },
+  "_RewardValues": {
+    "EN": "Meaning",
+    "RU": "Значение",
+    "UA": "Значення"
+  },
+  "_RewardValue": {
+    "EN": "Amount/Item ID",
+    "RU": "Сумма/Айди предмета",
+    "UA": "Сума/Айді предмета"
+  },
+  "_Cash": {
+    "EN": "Money",
+    "RU": "Деньги",
+    "UA": "Гроші"
+  },
+  "_RevItem": {
+    "EN": "REV item",
+    "RU": "Предмет из кейса Revolution",
+    "UA": "Предмет з кейса Revolution"
+  },
+  "_FlamesItem": {
+    "EN": "Flames item",
+    "RU": "Предмет из кейса Flames",
+    "UA": "Предмет з  Flames"
+  },
+  "_Inventori": {
+    "EN": "Inventori",
+    "RU": "Инвентарь",
+    "UA": "Инвентарь"
+  },
+  "_CreateTables": {
+    "EN": "Create Tables",
+    "RU": "Создать таблицы",
+    "UA": "Створити таблиці"
+  },
+  "_TablesCreatedSuccess": {
+    "EN": "Tables created successfully",
+    "RU": "Таблицы успешно созданы",
+    "UA": "Таблиці успішно створено"
+  },
+  "_TablesCreateError": {
+    "EN": "Error creating tables",
+    "RU": "Ошибка при создании таблиц",
+    "UA": "Помилка при створенні таблиць"
+  },
+  "_InvalidPromoCode": {
+    "EN": "Invalid promo code",
+    "RU": "Неверный промокод",
+    "UA": "Невірний промокод"
+  },
+  "_PromoNotAvailableYet": {
+    "EN": "Promo code is not available yet",
+    "RU": "Промокод еще не доступен",
+    "UA": "Промокод ще не доступний"
+  },
+  "_PromoExpired": {
+    "EN": "Promo code has expired",
+    "RU": "Промокод истек",
+    "UA": "Промокод закінчився"
+  },
+  "_PromoLimitReached": {
+    "EN": "Promo code usage limit reached",
+    "RU": "Достигнут лимит использования промокода",
+    "UA": "Досягнуто ліміт використання промокоду"
+  },
+  "_PromoAlreadyActivated": {
+    "EN": "You have already activated this promo code",
+    "RU": "Вы уже активировали этот промокод",
+    "UA": "Ви вже активували цей промокод"
+  },
+  "_UnknownRewardType": {
+    "EN": "Unknown reward type",
+    "RU": "Неизвестный тип награды",
+    "UA": "Невідомий тип нагороди"
+  },
+  "_PromoActivatedSuccess": {
+    "EN": "Promo code activated successfully",
+    "RU": "Промокод успешно активирован",
+    "UA": "Промокод успішно активовано"
+  },
+  "_ItemNotFound": {
+    "EN": "Item not found",
+    "RU": "Предмет не найден",
+    "UA": "Предмет не знайдено"
+  },
+  "_NotAuthorization": {
+    "EN": "You are not authorized",
+    "RU": "Вы не авторизованы",
+    "UA": "Ви не авторизовані"
+  },
+  "_YouSuccessfullyReceived": {
+    "EN": "You have successfully received",
+    "RU": "Вы успешно получили",
+    "UA": "Ви успішно отримали"
+  },
+  "_YouSuccessfullyReceivedItem": {
+    "EN": "You have successfully received the item into your inventory",
+    "RU": "Вы успешно получили предмет в инвентарь",
+    "UA": "Ви успішно отримали предмет в інвентар"
+  },
+  "_Wallet": {
+    "EN": "руб.",
+    "RU": "руб.",
+    "UA": "руб."
+  },
+  "_ModalNamePromo": {
+    "EN": "Promocode",
+    "RU": "Промокод",
+    "UA": "Промокод"
+  },
+  "_ModalInputNamePromo": {
+    "EN": "Enter promotional code",
+    "RU": "Введите промокод",
+    "UA": "Ведіть промокод"
+  }
+}

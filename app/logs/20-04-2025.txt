@@ -1,0 +1,226 @@
+20-04-2025 06:04:52 - NEW ERROR [1] 
+ FILE - /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/Clans.php 
+ MESSAGE - Uncaught Error: Call to undefined method app\modules\module_page_clans\ext\Clans::success() in /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/Clans.php:44
+Stack trace:
+#0 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/forward/data.php(19): app\modules\module_page_clans\ext\Clans->Install('85.119.149.36', 'astral_main', 'kB8qH4nD8s', 'astral_main', '3306', '\xD0\x92\xD1\x81\xD0\xB5 \xD1\x81\xD0\xB5\xD1\x80\xD0\xB2...')
+#1 /var/www/gw_user440/data/www/astralzone.space/app/ext/Graphics.php(93): require('/var/www/gw_use...')
+#2 /var/www/gw_user440/data/www/astralzone.space/index.php(179): app\ext\Graphics->__construct(Object(app\ext\Translate), Object(app\ext\General), Object(app\ext\Modules), Object(app\ext\Db), Object(app\ext\Auth), Object(app\ext\Notifications), Object(app\ext\AltoRouter))
+#3 {main}
+  thrown 
+ LINE - 44 
+ 20-04-2025 06:05:00 - NEW ERROR [1] 
+ FILE - /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/MyPdo.php 
+ MESSAGE - Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'astral_main.players_table' doesn't exist in /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/MyPdo.php:44
+Stack trace:
+#0 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/MyPdo.php(44): PDO->prepare('SELECT * FROM p...')
+#1 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/Player.php(33): app\modules\module_page_clans\ext\MyPdo->run('SELECT * FROM p...', Array)
+#2 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/includes/general.php(44): app\modules\module_page_clans\ext\Player->getPlayerClan('STEAM_1:0:43603...')
+#3 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/forward/interface.php(18): require('/var/www/gw_use...')
+#4 /var/www/gw_user440/data/www/astralzone.space/app/ext/Graphics.php(130): require('/var/www/gw_use...')
+#5 /var/www/gw_user440/data/www/astralzone.space/index.php(179): app\ext\Graphics->__construct(Object(app\ext\Translate), Object(app\ext\General), Object(app\ext\Modules), Object(app\ext\Db), Object(app\ext\Auth), Object(app\ext\Notifications), Object(app\ext\AltoRouter))
+#6 {main}
+  thrown 
+ LINE - 44 
+ 20-04-2025 06:10:27 - NEW ERROR [1] 
+ FILE - /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/MyPdo.php 
+ MESSAGE - Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'astral_main.players_table' doesn't exist in /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/MyPdo.php:44
+Stack trace:
+#0 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/MyPdo.php(44): PDO->prepare('SELECT * FROM p...')
+#1 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/Player.php(33): app\modules\module_page_clans\ext\MyPdo->run('SELECT * FROM p...', Array)
+#2 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/includes/general.php(44): app\modules\module_page_clans\ext\Player->getPlayerClan('STEAM_1:0:43603...')
+#3 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/forward/interface.php(18): require('/var/www/gw_use...')
+#4 /var/www/gw_user440/data/www/astralzone.space/app/ext/Graphics.php(130): require('/var/www/gw_use...')
+#5 /var/www/gw_user440/data/www/astralzone.space/index.php(179): app\ext\Graphics->__construct(Object(app\ext\Translate), Object(app\ext\General), Object(app\ext\Modules), Object(app\ext\Db), Object(app\ext\Auth), Object(app\ext\Notifications), Object(app\ext\AltoRouter))
+#6 {main}
+  thrown 
+ LINE - 44 
+ 20-04-2025 06:10:29 - NEW ERROR [1] 
+ FILE - /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/MyPdo.php 
+ MESSAGE - Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'astral_main.players_table' doesn't exist in /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/MyPdo.php:44
+Stack trace:
+#0 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/MyPdo.php(44): PDO->prepare('SELECT * FROM p...')
+#1 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/Player.php(33): app\modules\module_page_clans\ext\MyPdo->run('SELECT * FROM p...', Array)
+#2 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/includes/general.php(44): app\modules\module_page_clans\ext\Player->getPlayerClan('STEAM_1:0:43603...')
+#3 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/forward/interface.php(18): require('/var/www/gw_use...')
+#4 /var/www/gw_user440/data/www/astralzone.space/app/ext/Graphics.php(130): require('/var/www/gw_use...')
+#5 /var/www/gw_user440/data/www/astralzone.space/index.php(179): app\ext\Graphics->__construct(Object(app\ext\Translate), Object(app\ext\General), Object(app\ext\Modules), Object(app\ext\Db), Object(app\ext\Auth), Object(app\ext\Notifications), Object(app\ext\AltoRouter))
+#6 {main}
+  thrown 
+ LINE - 44 
+ 20-04-2025 06:10:48 - NEW ERROR [1] 
+ FILE - /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/MyPdo.php 
+ MESSAGE - Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'astral_main.players_table' doesn't exist in /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/MyPdo.php:44
+Stack trace:
+#0 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/MyPdo.php(44): PDO->prepare('SELECT * FROM p...')
+#1 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/Player.php(33): app\modules\module_page_clans\ext\MyPdo->run('SELECT * FROM p...', Array)
+#2 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/includes/general.php(44): app\modules\module_page_clans\ext\Player->getPlayerClan('STEAM_1:0:43603...')
+#3 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/forward/interface.php(18): require('/var/www/gw_use...')
+#4 /var/www/gw_user440/data/www/astralzone.space/app/ext/Graphics.php(130): require('/var/www/gw_use...')
+#5 /var/www/gw_user440/data/www/astralzone.space/index.php(179): app\ext\Graphics->__construct(Object(app\ext\Translate), Object(app\ext\General), Object(app\ext\Modules), Object(app\ext\Db), Object(app\ext\Auth), Object(app\ext\Notifications), Object(app\ext\AltoRouter))
+#6 {main}
+  thrown 
+ LINE - 44 
+ 20-04-2025 06:17:22 - NEW ERROR [1] 
+ FILE - /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/MyPdo.php 
+ MESSAGE - Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'astral_main.players_table' doesn't exist in /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/MyPdo.php:44
+Stack trace:
+#0 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/MyPdo.php(44): PDO->prepare('SELECT * FROM p...')
+#1 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/Player.php(33): app\modules\module_page_clans\ext\MyPdo->run('SELECT * FROM p...', Array)
+#2 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/includes/general.php(44): app\modules\module_page_clans\ext\Player->getPlayerClan('STEAM_1:0:43603...')
+#3 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/forward/interface.php(18): require('/var/www/gw_use...')
+#4 /var/www/gw_user440/data/www/astralzone.space/app/ext/Graphics.php(130): require('/var/www/gw_use...')
+#5 /var/www/gw_user440/data/www/astralzone.space/index.php(179): app\ext\Graphics->__construct(Object(app\ext\Translate), Object(app\ext\General), Object(app\ext\Modules), Object(app\ext\Db), Object(app\ext\Auth), Object(app\ext\Notifications), Object(app\ext\AltoRouter))
+#6 {main}
+  thrown 
+ LINE - 44 
+ 20-04-2025 06:17:25 - NEW ERROR [1] 
+ FILE - /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/MyPdo.php 
+ MESSAGE - Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'astral_main.players_table' doesn't exist in /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/MyPdo.php:44
+Stack trace:
+#0 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/MyPdo.php(44): PDO->prepare('SELECT * FROM p...')
+#1 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/Player.php(33): app\modules\module_page_clans\ext\MyPdo->run('SELECT * FROM p...', Array)
+#2 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/includes/general.php(44): app\modules\module_page_clans\ext\Player->getPlayerClan('STEAM_1:0:43603...')
+#3 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/forward/interface.php(18): require('/var/www/gw_use...')
+#4 /var/www/gw_user440/data/www/astralzone.space/app/ext/Graphics.php(130): require('/var/www/gw_use...')
+#5 /var/www/gw_user440/data/www/astralzone.space/index.php(179): app\ext\Graphics->__construct(Object(app\ext\Translate), Object(app\ext\General), Object(app\ext\Modules), Object(app\ext\Db), Object(app\ext\Auth), Object(app\ext\Notifications), Object(app\ext\AltoRouter))
+#6 {main}
+  thrown 
+ LINE - 44 
+ 20-04-2025 06:19:03 - NEW ERROR [1] 
+ FILE - /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/MyPdo.php 
+ MESSAGE - Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'astral_main.players_table' doesn't exist in /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/MyPdo.php:44
+Stack trace:
+#0 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/MyPdo.php(44): PDO->prepare('SELECT * FROM p...')
+#1 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/Player.php(33): app\modules\module_page_clans\ext\MyPdo->run('SELECT * FROM p...', Array)
+#2 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/includes/general.php(44): app\modules\module_page_clans\ext\Player->getPlayerClan('STEAM_1:0:43603...')
+#3 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/forward/interface.php(18): require('/var/www/gw_use...')
+#4 /var/www/gw_user440/data/www/astralzone.space/app/ext/Graphics.php(130): require('/var/www/gw_use...')
+#5 /var/www/gw_user440/data/www/astralzone.space/index.php(179): app\ext\Graphics->__construct(Object(app\ext\Translate), Object(app\ext\General), Object(app\ext\Modules), Object(app\ext\Db), Object(app\ext\Auth), Object(app\ext\Notifications), Object(app\ext\AltoRouter))
+#6 {main}
+  thrown 
+ LINE - 44 
+ 20-04-2025 06:25:26 - NEW ERROR [1] 
+ FILE - /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/MyPdo.php 
+ MESSAGE - Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'astral_main.players_table' doesn't exist in /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/MyPdo.php:44
+Stack trace:
+#0 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/MyPdo.php(44): PDO->prepare('SELECT * FROM p...')
+#1 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/Player.php(33): app\modules\module_page_clans\ext\MyPdo->run('SELECT * FROM p...', Array)
+#2 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/includes/general.php(44): app\modules\module_page_clans\ext\Player->getPlayerClan('STEAM_1:0:43603...')
+#3 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/forward/interface.php(18): require('/var/www/gw_use...')
+#4 /var/www/gw_user440/data/www/astralzone.space/app/ext/Graphics.php(130): require('/var/www/gw_use...')
+#5 /var/www/gw_user440/data/www/astralzone.space/index.php(179): app\ext\Graphics->__construct(Object(app\ext\Translate), Object(app\ext\General), Object(app\ext\Modules), Object(app\ext\Db), Object(app\ext\Auth), Object(app\ext\Notifications), Object(app\ext\AltoRouter))
+#6 {main}
+  thrown 
+ LINE - 44 
+ 20-04-2025 07:28:52 - NEW ERROR [1] 
+ FILE - /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/MyPdo.php 
+ MESSAGE - Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'astral_main.players_table' doesn't exist in /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/MyPdo.php:44
+Stack trace:
+#0 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/MyPdo.php(44): PDO->prepare('SELECT * FROM p...')
+#1 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/Player.php(33): app\modules\module_page_clans\ext\MyPdo->run('SELECT * FROM p...', Array)
+#2 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/includes/general.php(44): app\modules\module_page_clans\ext\Player->getPlayerClan('STEAM_1:0:43603...')
+#3 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/forward/interface.php(18): require('/var/www/gw_use...')
+#4 /var/www/gw_user440/data/www/astralzone.space/app/ext/Graphics.php(130): require('/var/www/gw_use...')
+#5 /var/www/gw_user440/data/www/astralzone.space/index.php(179): app\ext\Graphics->__construct(Object(app\ext\Translate), Object(app\ext\General), Object(app\ext\Modules), Object(app\ext\Db), Object(app\ext\Auth), Object(app\ext\Notifications), Object(app\ext\AltoRouter))
+#6 {main}
+  thrown 
+ LINE - 44 
+ 20-04-2025 07:34:41 - NEW ERROR [1] 
+ FILE - /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/MyPdo.php 
+ MESSAGE - Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'astral_main.players_table' doesn't exist in /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/MyPdo.php:44
+Stack trace:
+#0 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/MyPdo.php(44): PDO->prepare('SELECT * FROM p...')
+#1 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/Player.php(33): app\modules\module_page_clans\ext\MyPdo->run('SELECT * FROM p...', Array)
+#2 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/includes/general.php(44): app\modules\module_page_clans\ext\Player->getPlayerClan('STEAM_1:0:43603...')
+#3 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/forward/interface.php(18): require('/var/www/gw_use...')
+#4 /var/www/gw_user440/data/www/astralzone.space/app/ext/Graphics.php(130): require('/var/www/gw_use...')
+#5 /var/www/gw_user440/data/www/astralzone.space/index.php(179): app\ext\Graphics->__construct(Object(app\ext\Translate), Object(app\ext\General), Object(app\ext\Modules), Object(app\ext\Db), Object(app\ext\Auth), Object(app\ext\Notifications), Object(app\ext\AltoRouter))
+#6 {main}
+  thrown 
+ LINE - 44 
+ 20-04-2025 07:34:44 - NEW ERROR [1] 
+ FILE - /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/MyPdo.php 
+ MESSAGE - Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'astral_main.players_table' doesn't exist in /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/MyPdo.php:44
+Stack trace:
+#0 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/MyPdo.php(44): PDO->prepare('SELECT * FROM p...')
+#1 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/ext/Player.php(33): app\modules\module_page_clans\ext\MyPdo->run('SELECT * FROM p...', Array)
+#2 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/includes/general.php(44): app\modules\module_page_clans\ext\Player->getPlayerClan('STEAM_1:0:43603...')
+#3 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_clans/forward/interface.php(18): require('/var/www/gw_use...')
+#4 /var/www/gw_user440/data/www/astralzone.space/app/ext/Graphics.php(130): require('/var/www/gw_use...')
+#5 /var/www/gw_user440/data/www/astralzone.space/index.php(179): app\ext\Graphics->__construct(Object(app\ext\Translate), Object(app\ext\General), Object(app\ext\Modules), Object(app\ext\Db), Object(app\ext\Auth), Object(app\ext\Notifications), Object(app\ext\AltoRouter))
+#6 {main}
+  thrown 
+ LINE - 44 
+ 20-04-2025 23:47:56 - NEW ERROR [1] 
+ FILE - /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_profiles/forward/data.php 
+ MESSAGE - Uncaught Error: Call to undefined method app\modules\module_page_profiles\ext\Player::getRoles() in /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_profiles/forward/data.php:64
+Stack trace:
+#0 /var/www/gw_user440/data/www/astralzone.space/app/ext/Graphics.php(93): require()
+#1 /var/www/gw_user440/data/www/astralzone.space/index.php(179): app\ext\Graphics->__construct(Object(app\ext\Translate), Object(app\ext\General), Object(app\ext\Modules), Object(app\ext\Db), Object(app\ext\Auth), Object(app\ext\Notifications), Object(app\ext\AltoRouter))
+#2 {main}
+  thrown 
+ LINE - 64 
+ 20-04-2025 23:53:14 - NEW ERROR [1] 
+ FILE - /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_profiles/forward/data.php 
+ MESSAGE - Uncaught Error: Call to undefined method app\modules\module_page_profiles\ext\Player::getRoles() in /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_profiles/forward/data.php:64
+Stack trace:
+#0 /var/www/gw_user440/data/www/astralzone.space/app/ext/Graphics.php(93): require()
+#1 /var/www/gw_user440/data/www/astralzone.space/index.php(179): app\ext\Graphics->__construct(Object(app\ext\Translate), Object(app\ext\General), Object(app\ext\Modules), Object(app\ext\Db), Object(app\ext\Auth), Object(app\ext\Notifications), Object(app\ext\AltoRouter))
+#2 {main}
+  thrown 
+ LINE - 64 
+ 20-04-2025 23:53:17 - NEW ERROR [1] 
+ FILE - /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_profiles/forward/data.php 
+ MESSAGE - Uncaught Error: Call to undefined method app\modules\module_page_profiles\ext\Player::getRoles() in /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_profiles/forward/data.php:64
+Stack trace:
+#0 /var/www/gw_user440/data/www/astralzone.space/app/ext/Graphics.php(93): require()
+#1 /var/www/gw_user440/data/www/astralzone.space/index.php(179): app\ext\Graphics->__construct(Object(app\ext\Translate), Object(app\ext\General), Object(app\ext\Modules), Object(app\ext\Db), Object(app\ext\Auth), Object(app\ext\Notifications), Object(app\ext\AltoRouter))
+#2 {main}
+  thrown 
+ LINE - 64 
+ 20-04-2025 23:53:22 - NEW ERROR [1] 
+ FILE - /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_profiles/forward/data.php 
+ MESSAGE - Uncaught Error: Call to undefined method app\modules\module_page_profiles\ext\Player::getRoles() in /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_profiles/forward/data.php:64
+Stack trace:
+#0 /var/www/gw_user440/data/www/astralzone.space/app/ext/Graphics.php(93): require()
+#1 /var/www/gw_user440/data/www/astralzone.space/index.php(179): app\ext\Graphics->__construct(Object(app\ext\Translate), Object(app\ext\General), Object(app\ext\Modules), Object(app\ext\Db), Object(app\ext\Auth), Object(app\ext\Notifications), Object(app\ext\AltoRouter))
+#2 {main}
+  thrown 
+ LINE - 64 
+ 20-04-2025 23:53:29 - NEW ERROR [1] 
+ FILE - /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_profiles/forward/data.php 
+ MESSAGE - Uncaught Error: Call to undefined method app\modules\module_page_profiles\ext\Player::getRoles() in /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_profiles/forward/data.php:64
+Stack trace:
+#0 /var/www/gw_user440/data/www/astralzone.space/app/ext/Graphics.php(93): require()
+#1 /var/www/gw_user440/data/www/astralzone.space/index.php(179): app\ext\Graphics->__construct(Object(app\ext\Translate), Object(app\ext\General), Object(app\ext\Modules), Object(app\ext\Db), Object(app\ext\Auth), Object(app\ext\Notifications), Object(app\ext\AltoRouter))
+#2 {main}
+  thrown 
+ LINE - 64 
+ 20-04-2025 23:53:42 - NEW ERROR [1] 
+ FILE - /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_profiles/forward/data.php 
+ MESSAGE - Uncaught Error: Call to undefined method app\modules\module_page_profiles\ext\Player::getRoles() in /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_profiles/forward/data.php:64
+Stack trace:
+#0 /var/www/gw_user440/data/www/astralzone.space/app/ext/Graphics.php(93): require()
+#1 /var/www/gw_user440/data/www/astralzone.space/index.php(179): app\ext\Graphics->__construct(Object(app\ext\Translate), Object(app\ext\General), Object(app\ext\Modules), Object(app\ext\Db), Object(app\ext\Auth), Object(app\ext\Notifications), Object(app\ext\AltoRouter))
+#2 {main}
+  thrown 
+ LINE - 64 
+ 20-04-2025 23:53:52 - NEW ERROR [1] 
+ FILE - /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_profiles/forward/data.php 
+ MESSAGE - Uncaught Error: Call to undefined method app\modules\module_page_profiles\ext\Player::getRoles() in /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_profiles/forward/data.php:64
+Stack trace:
+#0 /var/www/gw_user440/data/www/astralzone.space/app/ext/Graphics.php(93): require()
+#1 /var/www/gw_user440/data/www/astralzone.space/index.php(179): app\ext\Graphics->__construct(Object(app\ext\Translate), Object(app\ext\General), Object(app\ext\Modules), Object(app\ext\Db), Object(app\ext\Auth), Object(app\ext\Notifications), Object(app\ext\AltoRouter))
+#2 {main}
+  thrown 
+ LINE - 64 
+ 20-04-2025 23:53:54 - NEW ERROR [1] 
+ FILE - /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_profiles/forward/data.php 
+ MESSAGE - Uncaught Error: Call to undefined method app\modules\module_page_profiles\ext\Player::getRoles() in /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_profiles/forward/data.php:64
+Stack trace:
+#0 /var/www/gw_user440/data/www/astralzone.space/app/ext/Graphics.php(93): require()
+#1 /var/www/gw_user440/data/www/astralzone.space/index.php(179): app\ext\Graphics->__construct(Object(app\ext\Translate), Object(app\ext\General), Object(app\ext\Modules), Object(app\ext\Db), Object(app\ext\Auth), Object(app\ext\Notifications), Object(app\ext\AltoRouter))
+#2 {main}
+  thrown 
+ LINE - 64 
+ 

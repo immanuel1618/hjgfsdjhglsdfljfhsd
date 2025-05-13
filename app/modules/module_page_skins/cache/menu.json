@@ -1,0 +1,224 @@
+[
+    {
+        "id_name" : "Knife",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/knife.svg",
+        "data_weaponindex" : "knife",
+        "name" : "Добавить нож"
+    },
+    {
+        "id_name" : "Gloves",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/gloves.svg",
+        "data_weaponindex" : "glove",
+        "name" : "Добавить перчатки"
+    },
+    {
+        "id_name" : "weapon_awp",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/awp.svg",
+        "data_weaponindex" : "9",
+        "name" : "Добавить AWP"
+    },
+    {
+        "id_name" : "weapon_m4a1",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/m4a4.svg",
+        "data_weaponindex" : "16",
+        "name" : "Добавить M4A4"
+    },
+    {
+        "id_name" : "weapon_m4a1_silencer",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/m4a1s.svg",
+        "data_weaponindex" : "60",
+        "name" : "Добавить M4A1-S"
+    },
+    {
+        "id_name" : "weapon_ak47",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/ak47.svg",
+        "data_weaponindex" : "7",
+        "name" : "Добавить AK-47"
+    },
+    {
+        "id_name" : "weapon_ssg08",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/ssg.svg",
+        "data_weaponindex" : "40",
+        "name" : "Добавить SSG 08"
+    },
+    {
+        "id_name" : "weapon_deagle",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/deagle.svg",
+        "data_weaponindex" : "1",
+        "name" : "Добавить Desert Eagle"
+    },
+    {
+        "id_name" : "weapon_taser",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/taser.svg",
+        "data_weaponindex" : "31",
+        "name" : "Добавить Zeus x27"
+    },
+    {
+        "id_name" : "weapon_usp_silencer",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/usp.svg",
+        "data_weaponindex" : "61",
+        "name" : "Добавить USP-S"
+    },
+    {
+        "id_name" : "weapon_glock",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/glock.svg",
+        "data_weaponindex" : "4",
+        "name" : "Добавить Glock-18"
+    },
+    {
+        "id_name" : "weapon_hkp2000",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/p2000.svg",
+        "data_weaponindex" : "32",
+        "name" : "Добавить P2000"
+    },
+    {
+        "id_name" : "weapon_p250",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/p250.svg",
+        "data_weaponindex" : "36",
+        "name" : "Добавить P250"
+    },
+    {
+        "id_name" : "weapon_tec9",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/tec9.svg",
+        "data_weaponindex" : "30",
+        "name" : "Добавить Tec-9"
+    },
+    {
+        "id_name" : "weapon_p90",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/p90.svg",
+        "data_weaponindex" : "19",
+        "name" : "Добавить P90"
+    },
+    {
+        "id_name" : "weapon_famas",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/famas.svg",
+        "data_weaponindex" : "10",
+        "name" : "Добавить FAMAS"
+    },
+    {
+        "id_name" : "weapon_ump45",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/ump45.svg",
+        "data_weaponindex" : "24",
+        "name" : "Добавить UMP-45"
+    },
+    {
+        "id_name" : "weapon_mp7",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/mp7.svg",
+        "data_weaponindex" : "33",
+        "name" : "Добавить MP7"
+    },
+    {
+        "id_name" : "weapon_fiveseven",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/fiveseven.svg",
+        "data_weaponindex" : "3",
+        "name" : "Добавить Five-SeveN"
+    },
+    {
+        "id_name" : "weapon_mp5sd",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/mp5sd.svg",
+        "data_weaponindex" : "23",
+        "name" : "Добавить MP5-SD"
+    },
+    {
+        "id_name" : "weapon_mp9",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/mp9.svg",
+        "data_weaponindex" : "34",
+        "name" : "Добавить MP9"
+    },
+    {
+        "id_name" : "weapon_mag7",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/mag7.svg",
+        "data_weaponindex" : "27",
+        "name" : "Добавить MAG-7"
+    },
+    {
+        "id_name" : "weapon_mac10",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/mac10.svg",
+        "data_weaponindex" : "17",
+        "name" : "Добавить MAC-10"
+    },
+    {
+        "id_name" : "weapon_cz75a",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/cz75a.svg",
+        "data_weaponindex" : "63",
+        "name" : "Добавить CZ-75"
+    },
+    {
+        "id_name" : "weapon_bizon",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/bizon.svg",
+        "data_weaponindex" : "26",
+        "name" : "Добавить PP-Bizon"
+    },
+    {
+        "id_name" : "weapon_aug",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/aug.svg",
+        "data_weaponindex" : "8",
+        "name" : "Добавить AUG"
+    },
+    {
+        "id_name" : "weapon_scar20",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/scar20.svg",
+        "data_weaponindex" : "38",
+        "name" : "Добавить SCAR-20"
+    },
+    {
+        "id_name" : "weapon_sg556",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/sg556.svg",
+        "data_weaponindex" : "39",
+        "name" : "Добавить SG 556"
+    },
+    {
+        "id_name" : "weapon_revolver",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/revolver.svg",
+        "data_weaponindex" : "64",
+        "name" : "Добавить Revolver"
+    },
+    {
+        "id_name" : "weapon_g3sg1",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/g3sg1.svg",
+        "data_weaponindex" : "11",
+        "name" : "Добавить G3SG1"
+    },
+    {
+        "id_name" : "weapon_galilar",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/galil.svg",
+        "data_weaponindex" : "13",
+        "name" : "Добавить Galil AR"
+    },
+    {
+        "id_name" : "weapon_sawedoff",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/sawedoff.svg",
+        "data_weaponindex" : "29",
+        "name" : "Добавить Sawed-Off"
+    },
+    {
+        "id_name" : "weapon_elite",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/dualies.svg",
+        "data_weaponindex" : "2",
+        "name" : "Добавить Dual Elites"
+    },
+    {
+        "id_name" : "weapon_nova",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/nova.svg",
+        "data_weaponindex" : "35",
+        "name" : "Добавить Nova"
+    },
+    {
+        "id_name" : "weapon_xm1014",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/xm1014.svg",
+        "data_weaponindex" : "25",
+        "name" : "Добавить XM1014"
+    },
+    {
+        "id_name" : "weapon_negev",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/negev.svg",
+        "data_weaponindex" : "28",
+        "name" : "Добавить Negev"
+    },
+    {
+        "id_name" : "weapon_m249",
+        "image" : "https://cloud.cybershoke.net/img/weapons_new/m249.svg",
+        "data_weaponindex" : "14",
+        "name" : "Добавить M249"
+    }
+]

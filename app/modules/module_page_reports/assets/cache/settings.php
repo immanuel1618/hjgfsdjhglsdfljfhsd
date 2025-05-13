@@ -1,0 +1,15 @@
+<?php return array (
+  'blockdb_apikey' => 'zCzZDShcmiHmBjEhsamxXNWgSoocPAIToJDxCtrSRBaYQdcKmZyLZBfaAJRZJDeg',
+  'auto_update_admin' => '0',
+  'auto_update_status' => '0',
+  'auto_check_report' => '0',
+  'auto_update_info' => '0',
+  'auto_update_warn' => '0',
+  'time_actual' => '86400',
+  'update_time' => '3600',
+  'update_time_status' => '3600',
+  'update_time_warn' => '3600',
+  'update_time_js' => '30',
+  'life_time_warn' => '604800',
+  'max_warn' => '3',
+);

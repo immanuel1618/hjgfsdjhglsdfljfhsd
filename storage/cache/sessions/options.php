@@ -1,0 +1,1 @@
+<?php return array('theme'=>'neo','auth_cock'=>1,'css_off_cache'=>1,'avatars'=>1,'avatars_cache_time'=>259200,'only_steam_64'=>0,'language'=>'RU','web_key'=>'79BD011C9AE842A6554FFBB2FCCC1EE3','short_name'=>'Astral Zone','full_name'=>'Astral Zone','info'=>'','site'=>'//astralzone.space/','thoseworks'=>0,'rank_pack'=>'png');

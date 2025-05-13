@@ -1,0 +1,36 @@
+{
+    "_ReportsTitle": {
+        "EN" : "Reports",
+        "RU" : "Репорты"
+    },
+
+    "_Report": {
+        "EN" : "Report",
+        "RU" : "Репорт"
+    }, 
+
+    "_ReportNotyText": {
+        "EN" : "A new report has arrived #%id%.</br>From the player %sname% from the server %sid%.</br>Per player %iname% with reason: %reason%",
+        "RU" : "Пришел новый репорт #%id%.</br>От игрока %sname% с сервера %sid%.</br>На игрока %iname% c причиной: %reason%"
+    },
+
+    "_ReportNotyText2": {
+        "EN" : "Your report on the player %name% has been reviewed.</br> The verdict on this report is %verdict%.</br> Thank you for helping the project!",
+        "RU" : "Ваш репорт на игрока %name% рассмотрен.</br> Вердикт по данному репорту: %verdict%.</br> Спасибо, что помогаете проекту!"
+    },
+
+    "_ReportNotyText3": {
+        "EN" : "Your report on the player %name% has been reviewed.</br> The verdict on this report is %verdict%.</br> Thank you for helping the project!",
+        "RU" : "Вам выдали предупреждение по причине репорта: %res%"
+    },
+
+    "_Go": {
+        "EN" : "Go over",
+        "RU" : "Перейти"
+    }, 
+
+    "_Desc": {
+        "EN" : "Report review system",
+        "RU" : "Система рассмотрения репортов"
+    }
+}

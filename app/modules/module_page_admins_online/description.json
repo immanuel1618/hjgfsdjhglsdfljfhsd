@@ -1,0 +1,22 @@
+{
+   "title": "LR WEB - Страница онлайна админов",
+   "info": "Учет онлайна админов ft. Iks Reward",
+   "author": "SLAME & Vimer",
+   "page": "admins_online",
+   "version": "1.0",
+   "required": {
+      "core": "0.2",
+      "php": "5.4"
+   },
+   "setting": {
+      "status": 1,
+      "type": 1,
+      "available_types": "1",
+      "interface": 1,
+      "data": 1,
+	   "js": 1,
+      "css": 1,
+      "cache_enable": 1,
+      "translation": 1
+   }
+}

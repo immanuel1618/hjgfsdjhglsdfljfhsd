@@ -1,0 +1,1 @@
+<?php return array('CountPlayers'=>113,'CountAdmins'=>13,'CountBans'=>1,'CountMutes'=>1,'CountVip'=>19,'CountMoney'=>array('cash_summ'=>'1600'),'CountMoneyMonth'=>array('total_earned'=>'1600'),'Time'=>1746014438,0=>array('hash_cache'=>'Ly9hc3RyYWx6b25lLnNwYWNlLw=='));

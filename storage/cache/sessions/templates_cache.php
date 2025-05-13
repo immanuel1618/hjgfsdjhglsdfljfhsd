@@ -1,0 +1,1 @@
+<?php return array('neo'=>array('name'=>'neo - New web template for LR WEB','version'=>'1.16','author'=>'SLAME'));

@@ -1,0 +1,71 @@
+18-04-2025 22:00:28 - NEW ERROR [1] 
+ FILE - /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php 
+ MESSAGE - Uncaught PDOException: invalid data source name in /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php:282
+Stack trace:
+#0 /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php(282): PDO->__construct('', NULL, NULL, Array)
+#1 /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php(306): app\ext\Db->get_new_connect('IksAdmin', 0, 0)
+#2 /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php(379): app\ext\Db->inquiry('IksAdmin', 0, 0, 'SELECT DISTINCT...', Array)
+#3 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_admins_online/ext/Controllers/AdminsController.php(44): app\ext\Db->queryAll('IksAdmin', 0, 0, 'SELECT DISTINCT...', Array)
+#4 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_admins_online/forward/data.php(32): app\modules\module_page_admins_online\ext\Controllers\AdminsController->GetAdmins(NULL, NULL, NULL, NULL, NULL)
+#5 /var/www/gw_user440/data/www/astralzone.space/app/ext/Graphics.php(93): require('/var/www/gw_use...')
+#6 /var/www/gw_user440/data/www/astralzone.space/index.php(179): app\ext\Graphics->__construct(Object(app\ext\Translate), Object(app\ext\General), Object(app\ext\Modules), Object(app\ext\Db), Object(app\ext\Auth), Object(app\ext\Notifications), Object(app\ext\AltoRouter))
+#7 {main}
+  thrown 
+ LINE - 282 
+ 18-04-2025 22:00:32 - NEW ERROR [1] 
+ FILE - /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php 
+ MESSAGE - Uncaught PDOException: invalid data source name in /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php:282
+Stack trace:
+#0 /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php(282): PDO->__construct('', NULL, NULL, Array)
+#1 /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php(306): app\ext\Db->get_new_connect('IksAdmin', 0, 0)
+#2 /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php(379): app\ext\Db->inquiry('IksAdmin', 0, 0, 'SELECT DISTINCT...', Array)
+#3 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_admins_online/ext/Controllers/AdminsController.php(44): app\ext\Db->queryAll('IksAdmin', 0, 0, 'SELECT DISTINCT...', Array)
+#4 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_admins_online/forward/data.php(32): app\modules\module_page_admins_online\ext\Controllers\AdminsController->GetAdmins(NULL, NULL, NULL, NULL, NULL)
+#5 /var/www/gw_user440/data/www/astralzone.space/app/ext/Graphics.php(93): require('/var/www/gw_use...')
+#6 /var/www/gw_user440/data/www/astralzone.space/index.php(179): app\ext\Graphics->__construct(Object(app\ext\Translate), Object(app\ext\General), Object(app\ext\Modules), Object(app\ext\Db), Object(app\ext\Auth), Object(app\ext\Notifications), Object(app\ext\AltoRouter))
+#7 {main}
+  thrown 
+ LINE - 282 
+ 18-04-2025 22:00:34 - NEW ERROR [1] 
+ FILE - /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php 
+ MESSAGE - Uncaught PDOException: invalid data source name in /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php:282
+Stack trace:
+#0 /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php(282): PDO->__construct('', NULL, NULL, Array)
+#1 /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php(306): app\ext\Db->get_new_connect('IksAdmin', 0, 0)
+#2 /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php(379): app\ext\Db->inquiry('IksAdmin', 0, 0, 'SELECT DISTINCT...', Array)
+#3 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_admins_online/ext/Controllers/AdminsController.php(44): app\ext\Db->queryAll('IksAdmin', 0, 0, 'SELECT DISTINCT...', Array)
+#4 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_admins_online/forward/data.php(32): app\modules\module_page_admins_online\ext\Controllers\AdminsController->GetAdmins(NULL, NULL, NULL, NULL, NULL)
+#5 /var/www/gw_user440/data/www/astralzone.space/app/ext/Graphics.php(93): require('/var/www/gw_use...')
+#6 /var/www/gw_user440/data/www/astralzone.space/index.php(179): app\ext\Graphics->__construct(Object(app\ext\Translate), Object(app\ext\General), Object(app\ext\Modules), Object(app\ext\Db), Object(app\ext\Auth), Object(app\ext\Notifications), Object(app\ext\AltoRouter))
+#7 {main}
+  thrown 
+ LINE - 282 
+ 18-04-2025 22:06:51 - NEW ERROR [1] 
+ FILE - /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php 
+ MESSAGE - Uncaught PDOException: invalid data source name in /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php:282
+Stack trace:
+#0 /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php(282): PDO->__construct('', NULL, NULL, Array)
+#1 /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php(306): app\ext\Db->get_new_connect('IksAdmin', 0, 0)
+#2 /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php(379): app\ext\Db->inquiry('IksAdmin', 0, 0, 'SELECT DISTINCT...', Array)
+#3 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_admins_online/ext/Controllers/AdminsController.php(44): app\ext\Db->queryAll('IksAdmin', 0, 0, 'SELECT DISTINCT...', Array)
+#4 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_admins_online/forward/data.php(32): app\modules\module_page_admins_online\ext\Controllers\AdminsController->GetAdmins(NULL, NULL, NULL, NULL, NULL)
+#5 /var/www/gw_user440/data/www/astralzone.space/app/ext/Graphics.php(93): require('/var/www/gw_use...')
+#6 /var/www/gw_user440/data/www/astralzone.space/index.php(179): app\ext\Graphics->__construct(Object(app\ext\Translate), Object(app\ext\General), Object(app\ext\Modules), Object(app\ext\Db), Object(app\ext\Auth), Object(app\ext\Notifications), Object(app\ext\AltoRouter))
+#7 {main}
+  thrown 
+ LINE - 282 
+ 18-04-2025 22:06:59 - NEW ERROR [1] 
+ FILE - /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php 
+ MESSAGE - Uncaught PDOException: invalid data source name in /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php:282
+Stack trace:
+#0 /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php(282): PDO->__construct('', NULL, NULL, Array)
+#1 /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php(306): app\ext\Db->get_new_connect('IksAdmin', 0, 0)
+#2 /var/www/gw_user440/data/www/astralzone.space/app/ext/Db.php(379): app\ext\Db->inquiry('IksAdmin', 0, 0, 'SELECT DISTINCT...', Array)
+#3 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_admins_online/ext/Controllers/AdminsController.php(44): app\ext\Db->queryAll('IksAdmin', 0, 0, 'SELECT DISTINCT...', Array)
+#4 /var/www/gw_user440/data/www/astralzone.space/app/modules/module_page_admins_online/forward/data.php(32): app\modules\module_page_admins_online\ext\Controllers\AdminsController->GetAdmins(NULL, NULL, NULL, NULL, NULL)
+#5 /var/www/gw_user440/data/www/astralzone.space/app/ext/Graphics.php(93): require('/var/www/gw_use...')
+#6 /var/www/gw_user440/data/www/astralzone.space/index.php(179): app\ext\Graphics->__construct(Object(app\ext\Translate), Object(app\ext\General), Object(app\ext\Modules), Object(app\ext\Db), Object(app\ext\Auth), Object(app\ext\Notifications), Object(app\ext\AltoRouter))
+#7 {main}
+  thrown 
+ LINE - 282 
+ 

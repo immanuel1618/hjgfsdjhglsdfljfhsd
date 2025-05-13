@@ -1,0 +1,202 @@
+{
+    "_punishment": {
+        "EN" : "Punishments",
+        "RU" : "Наказания",
+        "UA" : "Покарання"
+    },
+    "_searchPlayers": {
+        "EN" : "Search player",
+        "RU" : "Найти игрока",
+        "UA" : "Знайти гравця"
+    },
+    "_Bans": {
+        "EN" : "Bans",
+        "RU" : "Баны",
+        "UA" : "Бани"
+    },
+    "_Comms": {
+        "EN" : "Comms",
+        "RU" : "Муты",
+        "UA" : "М'юти"
+    },
+    "_Info": {
+        "EN" : "Info",
+        "RU" : "Инфо",
+        "UA" : "Інфо"
+    },
+    "_StatusAcc": {
+        "EN" : "Your account Status",
+        "RU" : "Состояние вашего аккаунта",
+        "UA" : "Статус вашого акаунту"
+    },
+    "_DataNotAuth": {
+        "EN" : "Data is only available to authorized users.",
+        "RU" : "Данные доступны только авторизованным пользователям.",
+        "UA" : "Дані доступні лише авторизованим користувачам."
+    },
+    "_Authorize": {
+        "EN" : "Authorize",
+        "RU" : "Авторизуйтесь",
+        "UA" : "Авторизуйтеся"
+    },
+    "_PunishmentList": {
+        "EN" : "Punishment list",
+        "RU" : "Список наказаний",
+        "UA" : "Список покарань"
+    },
+    "_NoGameBlocks": {
+        "EN" : "No game blocking or communication blocking was found",
+        "RU" : "Игровых блокировок и блокировок общения не найдено",
+        "UA" : "Ігрових блокувань та блокувань спілкування не знайдено"
+    },
+    "_GameBlocks": {
+        "EN" : "Game blocks: ",
+        "RU" : "Игровых блокировок: ",
+        "UA" : "Ігрових блокувань: "
+    },
+    "_CommunicateBlocks": {
+        "EN" : "Comms blocks: ",
+        "RU" : "Блокировок общения: ",
+        "UA" : "Блокувань спілкування: "
+    },
+    "_PunishStats": {
+        "EN" : "Punishment stats",
+        "RU" : "Статистика наказаний",
+        "UA" : "Статистика покарань"
+    },
+    "_Show": {
+        "EN" : "Show",
+        "RU" : "Показать",
+        "UA" : "Показати"
+    },
+    "_Hide": {
+        "EN" : "Hide",
+        "RU" : "Скрыть",
+        "UA" : "Сховати"
+    },
+    "_TotalBans": {
+        "EN" : "Total bans",
+        "RU" : "Всего банов",
+        "UA" : "Всього банів"
+    },
+    "_ActiveBans": {
+        "EN" : "Active bans",
+        "RU" : "Активных банов",
+        "UA" : "Активних банів"
+    },
+    "_PermanentBans": {
+        "EN" : "Permanent bans",
+        "RU" : "Перманентных банов",
+        "UA" : "Постійних банів"
+    },
+    "_RemovedBans": {
+        "EN" : "Removed bans",
+        "RU" : "Снятых банов",
+        "UA" : "Знятих банів"
+    },
+    "_TotalComms": {
+        "EN" : "Total comms",
+        "RU" : "Всего мутов",
+        "UA" : "Всього м'ютів"
+    },
+    "_TotalGags": {
+        "EN" : "Total gags",
+        "RU" : "Всего гагов",
+        "UA" : "Всього гагів"
+    },
+    "_TypePunish": {
+        "EN" : "Type",
+        "RU" : "Тип",
+        "UA" : "Тип"
+    },
+    "_Player": {
+        "EN" : "Player",
+        "RU" : "Игрок",
+        "UA" : "Гравець"
+    },
+    "_Reason": {
+        "EN" : "Reason",
+        "RU" : "Причина",
+        "UA" : "Причина"
+    },
+    "_Expire": {
+        "EN" : "Expire",
+        "RU" : "Окончание",
+        "UA" : "Закінчення"
+    },
+    "_Term": {
+        "EN" : "Term",
+        "RU" : "Срок",
+        "UA" : "Термін"
+    },
+    "_Admin": {
+        "EN" : "Admin",
+        "RU" : "Админ",
+        "UA" : "Адмін"
+    },
+    "_DetailsPunishment": {
+        "EN" : "Details of the punishment",
+        "RU" : "Подробрости наказания",
+        "UA" : "Деталі покарання"
+    },
+    "_BuyUnban": {
+        "EN" : "Buy unban",
+        "RU" : "Купить разбан",
+        "UA" : "Купити розбан"
+    },
+    "_RemovePunishButton": {
+        "EN" : "Remove punishment",
+        "RU" : "Снять наказание",
+        "UA" : "Зняти покарання"
+    },
+    "_PunishedPlayer": {
+        "EN" : "Punished player",
+        "RU" : "Наказанный игрок",
+        "UA" : "Покараний гравець"
+    },
+    "_SteamidPlayer": {
+        "EN" : "STEAM ID player",
+        "RU" : "STEAM ID игрока",
+        "UA" : "STEAM ID гравця"
+    },
+    "_IPpunished": {
+        "EN" : "IP punished",
+        "RU" : "IP наказанного",
+        "UA" : "IP покараного"
+    },
+    "_DatePunishment": {
+        "EN" : "Date of punishment",
+        "RU" : "Дата наказания",
+        "UA" : "Дата покарання"
+    },
+    "_ExpirePunishModal": {
+        "EN" : "Expire",
+        "RU" : "Заканчивается",
+        "UA" : "Закінчується"
+    },
+    "_TermModal": {
+        "EN" : "Term",
+        "RU" : "Срок",
+        "UA" : "Термін"
+    },
+    "_AllServers": {
+        "EN" : "All servers",
+        "RU" : "Все сервера",
+        "UA" : "Усі сервери"
+    },
+    "_IssuedBy": {
+        "EN" : "The punishment was issued by an administrator",
+        "RU" : "Наказание выдал администратор",
+        "UA" : "Покарання видав адміністратор"
+    },
+    "_UnMute": {
+        "EN" : "You have purchased the unmute service",
+        "RU" : "Вы приобрели услугу размут",
+        "UA" : "Ви придбали послугу размут"
+    },
+    "_UnBan": {
+        "EN" : "You have purchased the unban service",
+        "RU" : "Вы приобрели услугу разбан",
+        "UA" : "Ви придбали послугу разбан"
+    }
+}

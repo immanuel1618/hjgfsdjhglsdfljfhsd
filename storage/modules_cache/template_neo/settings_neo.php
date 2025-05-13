@@ -1,0 +1,16 @@
+<?php return array (
+  'SiteName' => 'Astral Zone',
+  'SVGLogo' => '',
+  'SupportLink' => '',
+  'VK' => '',
+  'TG' => 'https://t.me/AstralZoneCS2',
+  'DS' => 'https://discord.gg/mg9sg8gtbc',
+  'Steam' => '',
+  'YT' => '',
+  'TT' => '',
+  'ContactEmail' => 'info@astralzone.space',
+  'hide_filter' => 0,
+  'hide_city' => 0,
+  'hide_country' => 0,
+  'stretch_filter' => 0,
+);

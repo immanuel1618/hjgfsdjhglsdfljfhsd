@@ -1,0 +1,78 @@
+{
+    "_ProgramTitle": {
+        "RU": "Программа для проверки на читы",
+        "EN": "Program for cheat detection"
+    },
+    "_CheckerName": {
+        "RU": "ASTRAL CHECKER",
+        "EN": "ASTRAL CHECKER"
+    },
+    "_ProgramDescription1": {
+        "RU": "Программа предназначена для обеспечения удобства при проверке Администратором Игрока на наличие стороннего ПО.",
+        "EN": "The program is designed to provide convenience for the Administrator when checking the Player for third-party software."
+    },
+    "_ProgramDescription2": {
+        "RU": "Тем самым, что Игрок проекта, что Администратор - ускоряют процесс и экономят собственное время.",
+        "EN": "This way, both the Player and the Administrator speed up the process and save their time."
+    },
+    "_ProgramDescription3": {
+        "RU": "Программа не содержит вирусов или ПО, которое могло бы навредить вашему компьютеру.",
+        "EN": "The program does not contain any viruses or software that could harm your computer."
+    },
+    "_ProgramDescription4": {
+        "RU": "Администрация не имеет право отправлять файл какой-либо другой файл для проверки.",
+        "EN": "The administration has no right to send any file other than the one for checking."
+    },
+    "_ProgramDescription5": {
+        "RU": "После окончания проверки вы запросто можете удалить её.",
+        "EN": "After the check is completed, you can easily delete it."
+    },
+    "_ProgramDescription6": {
+        "RU": "При возникновении вопросов обращайтесь в ",
+        "EN": "If you have any questions, contact "
+    },
+    "_ProgramDescription7": {
+        "RU": "Поддержку",
+        "EN": "Support"
+    },
+    "_DownloadProgram": {
+        "RU": "Скачать программу!",
+        "EN": "Download program!"
+    },
+    "_GetStarted": {
+        "RU": "Приступите к проверке как можно быстрее!",
+        "EN": "Start checking as soon as possible!"
+    },
+    "_DownloadProgram1": {
+        "RU": "[#1] Скачать ASTRAL CHECKER",
+        "EN": "[#1] Download ASTRAL CHECKER"
+    },
+    "_DownloadProgram2": {
+        "RU": "[#2] Скачать программы отдельно (.zip)",
+        "EN": "[#2] Download programs separately (.zip)"
+    },
+    "_DownloadProgram3": {
+        "RU": "[#3] Вспомогательный чекер (.exe)",
+        "EN": "[#3] Auxiliary checker (.exe)"
+    },
+    "_NotWantChecker": {
+        "RU": "Если не хотите скачивать чекер - скачайте программы отдельно!",
+        "EN": ""
+    },
+    "_DownloadChecker": {
+        "RU": "Вспомогательный чекер (.exe)",
+        "EN": "Auxiliary checker (.exe)"
+    },
+    "_DownloadSeparatePrograms": {
+        "RU": "Скачайте программы отдельно!",
+        "EN": "Download programs separately!"
+    },
+    "_CheckGameProcess": {
+        "RU": "Что-бы быстро проверить процесс игры на наличие читов!",
+        "EN": "To quickly check the game process for cheats!"
+    },
+    "_VirusTotal": {
+        "RU": "VirusTotal",
+        "EN": "VirusTotal"
+    }
+}

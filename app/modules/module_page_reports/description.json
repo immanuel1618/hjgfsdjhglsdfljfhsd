@@ -1,0 +1,19 @@
+{
+    "title":"Neo | Reports",
+    "info":"Система репортов",
+    "author":"Backend & Frontend by -r8, Plugin by Pisex, Design by SLAME",
+    "page":"reports",
+    "version":"1.2.1",
+    "setting":{
+        "status":1,
+        "type":1,
+        "available_types":"1",
+        "interface":1,
+        "interface_adjacent":"afternavbar",
+        "translation":1,
+        "data":1,
+        "interface_always":1,
+        "css":1,
+        "js":1
+    }
+}

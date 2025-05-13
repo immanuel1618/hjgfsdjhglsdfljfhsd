@@ -1,0 +1,3201 @@
+{
+    "_MSPageName":{
+        "TR" : "Oyuncu Yönetim Sistemi",
+        "EN" : "Player Management System",
+        "UA" : "Система управління гравцями",
+        "GE" : "Spieler-Verwaltungssystem",
+        "RU" : "Система управления игроками"
+    },
+    
+    "_MSAdmins":{
+        "TR" : "Yönetim",
+        "EN" : "Administration",
+        "UA" : "Адміністрація",
+        "GE" : "Verwaltung",
+        "RU" : "Администрация"
+    },
+    
+    "_MSVips":{
+        "TR" : "VIP Oyuncular",
+        "EN" : "VIP Players",
+        "UA" : "VIP-гравці",
+        "GE" : "VIP-Spieler",
+        "RU" : "VIP-игроки"
+    },
+    
+    "_MSBans":{
+        "TR" : "Yasaklamalar",
+        "EN" : "Bans",
+        "UA" : "Заборони",
+        "GE" : "Verbote",
+        "RU" : "Баны"
+    },
+    
+    "_MSPMutes":{
+        "TR" : "İletişim",
+        "EN" : "Mutes",
+        "UA" : "Приглушення",
+        "GE" : "Stumm",
+        "RU" : "Муты"
+    },
+    
+    "_MSSettings":{
+        "TR" : "Ayarlar",
+        "EN" : "Settings",
+        "UA" : "Налаштування",
+        "GE" : "Einstellungen",
+        "RU" : "Настройки"
+    },
+    
+    "_MSDev":{
+        "TR" : "Modül Geliştirici: r8.dev",
+        "EN" : "Module Developer: r8.dev",
+        "UA" : "Розробник модуля: r8.dev",
+        "GE" : "Modulentwickler: r8.dev",
+        "RU" : "Разработчик модуля: r8.dev"
+    },
+    
+    "_MSInstallHeader":{
+        "TR" : "Başlangıç Mod Bağlantısı",
+        "EN" : "Initial Mod Connection",
+        "UA" : "Початкове підключення мода",
+        "GE" : "Initiale Mod-Verbindung",
+        "RU" : "Первичное подключение мода"
+    },
+    
+    "_MSHeaderAdmin":{
+        "TR" : "Yönetim ve İdare",
+        "EN" : "Administration Management",
+        "UA" : "Управління адміністрацією",
+        "GE" : "Verwaltungsmanagement",
+        "RU" : "Управление администрацией"
+    },
+    
+    "_MSHeaderVip":{
+        "TR" : "VIP Oyuncu Yönetimi",
+        "EN" : "VIP Player Management",
+        "UA" : "Управління VIP-гравцями",
+        "GE" : "VIP-Spieler-Verwaltung",
+        "RU" : "Управление VIP-игроками"
+    },
+    
+    "_MSHeaderBan":{
+        "TR" : "Yasaklama Yönetimi",
+        "EN" : "Ban Management",
+        "UA" : "Управління банами",
+        "GE" : "Verbotsmanagement",
+        "RU" : "Управление банами"
+    },
+    
+    "_MSHeaderMute":{
+        "TR" : "iletişim yönetimi",
+        "EN" : "Mute Management",
+        "UA" : "Управління приглушенням",
+        "GE" : "Stumm-Verwaltung",
+        "RU" : "Управление мутами"
+    },
+    
+    "_MSHeaderSetting":{
+        "TR" : "Modül Ayarları",
+        "EN" : "Module Settings",
+        "UA" : "Налаштування модуля",
+        "GE" : "Modul-Einstellungen",
+        "RU" : "Настройки модуля"
+    },
+    
+    "_MSHeaderAdminInfo":{
+        "TR" : "Yönetiminizle ilgili tüm bilgiler ve onları eklemek için sistem",
+        "EN" : "Full information about your administration, as well as the system for adding them",
+        "UA" : "Повна інформація про вашу адміністрацію, а також система їх додавання",
+        "GE" : "Vollständige Informationen über Ihre Verwaltung sowie das System zu ihrer Hinzufügung",
+        "RU" : "Полная информация о вашей администрации, а также система их добавления"
+    },
+    
+    "_MSHeaderVipInfo":{
+        "TR" : "Projenin tüm vip oyuncuları ve onları eklemek için kullanılan sistem",
+        "EN" : "All privileged players of the project, as well as the system for adding them",
+        "UA" : "Усі привілейовані гравці проекту, а також система їх додавання",
+        "GE" : "Alle privilegierten Spieler des Projekts sowie das System zu ihrer Hinzufügung",
+        "RU" : "Все привилегированные игроки проекта, а также система их добавления"
+    },
+    
+    "_MSHeaderBanInfo":{
+        "TR" : "Projenizin sürekli kural ihlal edenleri ve onları eklemek için kullanılan sistem",
+        "EN" : "Persistent violators of your project, as well as the system for adding them",
+        "UA" : "Постійні порушники вашого проекту, а також система їх додавання",
+        "GE" : "Anhaltende Verletzer Ihres Projekts sowie das System zu ihrer Hinzufügung",
+        "RU" : "Злостные нарушители вашего проекта, а также система их добавления"
+    },
+    
+    "_MSHeaderMuteInfo":{
+        "TR" : "Ses ve metin düzenini ihlal edenlerin yanı sıra bunları ekleme sistemi",
+        "EN" : "Violators of voice and text order, as well as the system for adding them",
+        "UA" : "Порушники голосового і текстового порядку, а також система їх додавання",
+        "GE" : "Verletzer der Sprach- und Textreihenfolge sowie das System zu ihrer Hinzufügung",
+        "RU" : "Нарушители голосового и текстового порядка, а также система их добавления"
+    },
+    
+    "_MSHeaderSettingInfo":{
+        "TR" : "Modül kullanımını kolaylaştırmak için tüm temel ayarlar",
+        "EN" : "All basic settings for ease of module usage",
+        "UA" : "Усі основні налаштування для зручного використання модуля",
+        "GE" : "Alle grundlegenden Einstellungen für eine einfache Modulverwendung",
+        "RU" : "Все основные настройки для удобства использования модуля"
+    },
+    
+    "_MSHeaderAddAdd":{
+        "TR" : "Eklemeye Erişimi",
+        "EN" : "Access to Adding Access",
+        "UA" : "Доступ до додавання доступу",
+        "GE" : "Zugriff zum Hinzufügen von Zugriff",
+        "RU" : "Доступ к добавлению доступа"
+    },
+    
+    "_MSHeaderAddAdmin":{
+        "TR" : "Yetkili Ekleme Erişimi ",
+        "EN" : "Access to Adding Admins",
+        "UA" : "Доступ до додавання адміністраторів",
+        "GE" : "Zugriff zum Hinzufügen von Admins",
+        "RU" : "Доступ к добавлению админов"
+    },
+    
+    "_MSHeaderAddBan":{
+        "TR" : "Yasak Ekleme Erişimi",
+        "EN" : "Access to Adding Bans",
+        "UA" : "Доступ до додавання заборон",
+        "GE" : "Zugriff zum Hinzufügen von Verboten",
+        "RU" : "Доступ к добавлению банов"
+    },
+    
+    "_MSHeaderAddMute":{
+        "TR" : "İletişim Ekleme Erişimi",
+        "EN" : "Access to Adding Mutes",
+        "UA" : "Доступ до додавання приглушень",
+        "GE" : "Zugriff zum Hinzufügen von Stummschaltungen",
+        "RU" : "Доступ к добавлению мутов"
+    },
+    
+    "_MSHeaderAddVip":{
+        "TR" : "VIP Oyuncu Ekleme Erişimi",
+        "EN" : "Access to Adding VIP Players",
+        "UA" : "Доступ до додавання VIP-гравців",
+        "GE" : "Zugriff zum Hinzufügen von VIP-Spielern",
+        "RU" : "Доступ к добавлению VIP-игроков"
+    },
+    
+    "_MSButtonSettings1":{
+        "TR" : "Genel Ayarlar",
+        "EN" : "General Settings",
+        "UA" : "Загальні налаштування",
+        "GE" : "Allgemeine Einstellungen",
+        "RU" : "Общие настройки"
+    },
+    
+    "_MSButtonSettings2":{
+        "TR" : "Erişim Ayarları",
+        "EN" : "Access Settings",
+        "UA" : "Налаштування доступу",
+        "GE" : "Zugriffseinstellungen",
+        "RU" : "Настройки доступа"
+    },
+    
+    "_MSButtonSettings3":{
+        "TR" : "Grup Ayarları",
+        "EN" : "Group Settings",
+        "UA" : "Налаштування груп",
+        "GE" : "Gruppeneinstellungen",
+        "RU" : "Настройки групп"
+    },
+    
+    "_MSButtonSettings4":{
+        "TR" : "Sebep Ayarları",
+        "EN" : "Reason Settings",
+        "UA" : "Налаштування причин",
+        "GE" : "Grund-Einstellungen",
+        "RU" : "Настройки причин"
+    },
+    
+    "_MSButtonSettings5":{
+        "TR" : "Süre Ayarları",
+        "EN" : "Ready Time Settings",
+        "UA" : "Налаштування готового часу",
+        "GE" : "Bereitschaftszeiteinstellungen",
+        "RU" : "Настройки готового времени"
+    },
+    
+    "_MSButtonSettings31":{
+        "TR" : "Yetkili Grup Ayarları",
+        "EN" : "Admin Group Settings",
+        "UA" : "Налаштування груп адміністраторів",
+        "GE" : "Admin-Gruppeneinstellungen",
+        "RU" : "Настройки админ групп"
+    },
+    
+    "_MSButtonSettings32":{
+        "TR" : "VIP Grup Ayarları",
+        "EN" : "VIP Group Settings",
+        "UA" : "Налаштування груп VIP",
+        "GE" : "VIP-Gruppeneinstellungen",
+        "RU" : "Настройки VIP групп"
+    },
+    
+    "_MSButtonSettings41":{
+        "TR" : "Yasaklama Sebebi Ayarları",
+        "EN" : "Ban Reason Settings",
+        "UA" : "Налаштування причин заборони",
+        "GE" : "Verbotsgrund-Einstellungen",
+        "RU" : "Настройки причин бана"
+    },
+    
+    "_MSButtonSettings42":{
+        "TR" : "İletişim Sebebi Ayarları",
+        "EN" : "Mute Reason Settings",
+        "UA" : "Налаштування причин приглушення",
+        "GE" : "Stummschaltungsgrund-Einstellungen",
+        "RU" : "Настройки причин мута"
+    },
+    
+    "_MSButtonSettings51":{
+        "TR" : "Hazır Süre Ayarları",
+        "EN" : "Ready Time Settings for Punishments",
+        "UA" : "Налаштування готового часу для покарань",
+        "GE" : "Bereitschaftszeiteinstellungen für Strafen",
+        "RU" : "Настройки готового времени для наказаний"
+    },
+    
+    "_MSButtonSettings52":{
+        "TR" : "Ayrıcalıklar için Hazır Süre Ayarları",
+        "EN" : "Ready Time Settings for Privileges",
+        "UA" : "Налаштування готового часу для привілеїв",
+        "GE" : "Bereitschaftszeiteinstellungen für Privilegien",
+        "RU" : "Настройки готового времени для привилегий"
+    },
+    
+    "_MSPageAccess":{
+        "TR" : "Erişim Ekleme",
+        "EN" : "Adding Access",
+        "UA" : "Додавання доступу",
+        "GE" : "Zugriff hinzufügen",
+        "RU" : "Добавление доступа"
+    },
+    
+    "_MSHeaderAccessInfo":{
+        "TR" : "Kullanıcılara Erişim Ekleme",
+        "EN" : "Adding access to other users",
+        "UA" : "Додавання доступу іншим користувачам",
+        "GE" : "Zugriff für andere Benutzer hinzufügen",
+        "RU" : "Добавление доступа другим пользователям"
+    },
+    
+    "_MSAccess":{
+        "TR" : "Erişim Yönetimi",
+        "EN" : "Access Management",
+        "UA" : "Управління доступом",
+        "GE" : "Zugriffsverwaltung",
+        "RU" : "Управление доступом"
+    },    
+
+    "_MSAllServers": {
+        "TR": "Tüm Sunucular",
+        "EN": "All servers",
+        "UA": "Усі сервери",
+        "GE": "Alle Server",
+        "RU": "Все сервера"
+    },
+    
+    "_MSPusto": {
+        "TR" : "Bazı alanlar beklenmedik şekilde boş...",
+        "EN": "Some fields are unexpectedly empty...",
+        "UA": "Деякі поля невочікувано порожні...",
+        "GE": "Einige Felder sind unerwartet leer...",
+        "RU": "Некоторые поля почему-то пустые..."
+    },
+    
+    "_MSGoodMod": {
+        "TR": "Mod başarıyla bağlandı!",
+        "EN": "You have successfully connected the mod!",
+        "UA": "Ви успішно підключили мод!",
+        "GE": "Sie haben das Modul erfolgreich verbunden!",
+        "RU": "Вы успешно подключили мод!"
+    },
+    
+    "_MSTableGood": {
+        "TR": "Tablolar başarıyla oluşturuldu!",
+        "EN": "Tables successfully created!",
+        "UA": "Таблиці успішно створені!",
+        "GE": "Tabellen erfolgreich erstellt!",
+        "RU": "Таблицы успешно созданы!"
+    },
+    
+    "_MSTableError": {
+        "TR" : "Tablolar zaten mevcut!",
+        "EN": "Tables already exist!",
+        "UA": "Таблиці вже існують!",
+        "GE": "Tabellen existieren bereits!",
+        "RU": "Таблицы уже существуют!"
+    },
+    
+    "_MSSaveGood": {
+        "TR": "Ayarlar başarıyla kaydedildi!",
+        "EN": "Settings successfully saved!",
+        "UA": "Налаштування успішно збережені!",
+        "GE": "Einstellungen erfolgreich gespeichert!",
+        "RU": "Настройки успешно сохранены!"
+    },
+    
+    "_MSNoDataMass": {
+        "TR": "Dizi veri eksik!",
+        "EN": "The array lacks data!",
+        "UA": "Масив не містить даних!",
+        "GE": "Das Array hat keine Daten!",
+        "RU": "В массиве не хватает данных!"
+    },
+    
+    "_MSAccessAdd": {
+        "TR": "Erişim başarıyla eklendi!",
+        "EN": "Access successfully added!",
+        "UA": "Доступ успішно доданий!",
+        "GE": "Zugriff erfolgreich hinzugefügt!",
+        "RU": "Доступ успешно добавлен!"
+    },
+    
+    "_MSAccessDel": {
+        "TR": "Erişim kaldırıldı!",
+        "EN": "Access removed!",
+        "UA": "Доступ видалено!",
+        "GE": "Zugriff entfernt!",
+        "RU": "Доступ удален!"
+    },
+    
+    "_MSGroupAdd": {
+        "TR": "Grup başarıyla oluşturuldu!",
+        "EN": "Group successfully created!",
+        "UA": "Групу успішно створено!",
+        "GE": "Gruppe erfolgreich erstellt!",
+        "RU": "Группа успешно создана!"
+    },
+    
+    "_MSGroupDel": {
+        "TR": "Grup silindi!",
+        "EN": "Group deleted!",
+        "UA": "Групу видалено!",
+        "GE": "Gruppe gelöscht!",
+        "RU": "Группа удалена!"
+    },
+    
+    "_MSReasonCreate": {
+        "TR": "Sebep başarıyla oluşturuldu!",
+        "EN": "Reason successfully created!",
+        "UA": "Причину успішно створено!",
+        "GE": "Grund erfolgreich erstellt!",
+        "RU": "Причина успешно создана!"
+    },
+    
+    "_MSReasonDel": {
+        "TR": "Sebep silindi!",
+        "EN": "Reason deleted!",
+        "UA": "Причину видалено!",
+        "GE": "Grund gelöscht!",
+        "RU": "Причина удалена!"
+    },
+    
+    "_MSTimeAdd": {
+        "TR": "Hazır süre başarıyla oluşturuldu!",
+        "EN": "Ready time successfully created!",
+        "UA": "Готовий час успішно створено!",
+        "GE": "Bereite Zeit erfolgreich erstellt!",
+        "RU": "Готовое время успешно создано!"
+    },
+    
+    "_MSTimeDel": {
+        "TR": "Hazır süre silindi!",
+        "EN": "Ready time deleted!",
+        "UA": "Готовий час видалено!",
+        "GE": "Bereite Zeit gelöscht!",
+        "RU": "Готовое время удалено!"
+    },
+    
+    "_MSSteamYes": {
+        "TR": "Bu Steam zaten eklenmiş!",
+        "EN": "This Steam is already added!",
+        "UA": "Цей Steam вже додано!",
+        "GE": "Dieser Steam ist bereits hinzugefügt!",
+        "RU": "Этот Steam уже добавлен!"
+    },
+    
+    "_MSImmNo": {
+        "TR": "Grup dokunmazlığı belirtmeyi unuttun!",
+        "EN": "You forgot to specify the group immunity!",
+        "UA": "Ви забули вказати імунітет групи!",
+        "GE": "Sie haben vergessen, die Gruppenimmunität anzugeben!",
+        "RU": "Вы забыли указать иммунитет группы!"
+    },
+    
+    "_MSImm1001": {
+        "TR": "Dokunmazlık 100'den büyük veya 1'den az olamaz!",
+        "EN": "Immunity cannot be greater than 100 or less than 1!",
+        "UA": "Імунітет не може бути більше 100 або менше 1!",
+        "GE": "Die Immunität kann nicht größer als 100 oder kleiner als 1 sein!",
+        "RU": "Иммунитет не может быть больше 100 или меньше 1!"
+    },
+    
+    "_MSTimeNo": {
+        "TR": "Ayrıcalığın sonuna kadar süreyi belirtmeyi unuttun!",
+        "EN": "You forgot to specify the time until the end of the privilege!",
+        "UA": "Ви забули вказати час до кінця привілеї!",
+        "GE": "Sie haben vergessen, die Zeit bis zum Ende des Privilegs anzugeben!",
+        "RU": "Вы забыли указать время до конца привилегии!"
+    },
+    
+    "_MSTime0": {
+        "TR": "Süre 0'dan küçük olamaz!",
+        "EN": "Time cannot be less than 0!",
+        "UA": "Час не може бути менше 0!",
+        "GE": "Zeit kann nicht weniger als 0 sein!",
+        "RU": "Время не может быть меньше 0!"
+    },
+
+    "_MSAdminAdd": {
+        "TR": "Yetkili başarıyla eklendi",
+        "EN": "Administrator successfully added!",
+        "UA": "Адміністратора успішно додано!",
+        "GE": "Administrator erfolgreich hinzugefügt!",
+        "RU": "Администратор успешно добавлен!"
+    },
+    
+    "_MSAdmin": {
+        "TR": "Yetkili",
+        "EN": "Administrator",
+        "UA": "Адміністратор",
+        "GE": "Administrator",
+        "RU": "Администратор"
+    },
+    
+    "_MSWebNewAdmin": {
+        "TR": "**Eylem: **\nYeni bir yetkili eklendi",
+        "EN": "**Action:**\nAdded a new administrator",
+        "UA": "**Дія:**\nДодав нового адміністратора",
+        "GE": "**Aktion:**\nHinzufügen eines neuen Administrators",
+        "RU": "**Действие:**\nДобавил нового администратора"
+    },
+    
+    "_MSWebAdminPrav": {
+        "TR": "\n\nHaklarla birlikte:\n- Bayraklar:",
+        "EN": "\n\n**With rights:**\n- Flags:",
+        "UA": "\n\n**З правами:**\n- Прапорці:",
+        "GE": "\n\n**Mit Rechten:**\n- Flaggen:",
+        "RU": "\n\n**С правами:**\n- Флаги:"
+    },
+    
+    "_MSWebImm": {
+        "TR": "\n- Dokunmazlık:",
+        "EN": "\n- Immunity:",
+        "UA": "\n- Імунітет:",
+        "GE": "\n- Immunität:",
+        "RU": "\n- Иммунитет:"
+    },
+    
+    "_MSWebTime": {
+        "TR": "\n- Bitiş tarihi:",
+        "EN": "\n- Expires:",
+        "UA": "\n- Термін дії закінчується:",
+        "GE": "\n- Läuft ab:",
+        "RU": "\n- Истекает:"
+    },
+    
+    "_MSWebComm": {
+        "TR": "\n\n**Yorum:**\n-",
+        "EN": "\n\n**Comment:**\n-",
+        "UA": "\n\n**Коментар:**\n-",
+        "GE": "\n\n**Kommentar:**\n-",
+        "RU": "\n\n**Комментарий:**\n-"
+    },
+    
+    "_MSWebID": {
+        "TR": "\n\n**Sunucu Kimliği:**\n-",
+        "EN": "\n\n**Server ID:**\n-",
+        "UA": "\n\n**ID Сервера:**\n-",
+        "GE": "\n\n**Server-ID:**\n-",
+        "RU": "\n\n**ID Сервера:**\n-"
+    },
+    
+    "_MSWebDelAdmin": {
+        "TR": "**Eylem:**\nSilinen yetkili",
+        "EN": "**Action:**\nDeleted administrator",
+        "UA": "**Дія:**\nВидалив адміністратора",
+        "GE": "**Aktion:**\nAdministrator gelöscht",
+        "RU": "**Действие:**\nУдалил администратора"
+    },
+    
+    "_MSAdminDel": {
+        "TR": "Yetkili silindi!",
+        "EN": "Administrator deleted!",
+        "UA": "Адміністратора видалено!",
+        "GE": "Administrator gelöscht!",
+        "RU": "Администратор удален!"
+    },
+    
+    "_MSSteamNo": {
+        "TR": "Belirtilen Steam yanlış!",
+        "EN": "Incorrect Steam specified!",
+        "UA": "Вказано невірний Steam!",
+        "GE": "Falscher Steam angegeben!",
+        "RU": "Steam указан неверно!"
+    },
+    
+    "_MSReasonNo": {
+        "TR": "Bir sebep belirtin!",
+        "EN": "You forgot to specify the reason!",
+        "UA": "Ви забули вказати причину!",
+        "GE": "Sie haben vergessen, den Grund anzugeben!",
+        "RU": "Вы забыли указать причину!"
+    },
+    
+    "_MSTimeNoNo": {
+        "TR": "Ceza süresini belirtmeyi unuttunuz!",
+        "EN": "You forgot to specify the punishment time!",
+        "UA": "Ви забули вказати час покарання!",
+        "GE": "Sie haben vergessen, die Bestrafungszeit anzugeben!",
+        "RU": "Вы забыли указать время наказания!"
+    },
+    
+    "_MSBanAdd": {
+        "TR": "Yasak başarıyla eklendi!",
+        "EN": "Ban successfully added!",
+        "UA": "Бан успішно додано!",
+        "GE": "Ban erfolgreich hinzugefügt!",
+        "RU": "Бан успешно добавлен!"
+    },
+    
+    "_MSWebBanAdd": {
+        "TR": "**Eylem:**\nYeni bir yasaklama eklendi!",
+        "EN": "**Action:**\nAdded a new ban for",
+        "UA": "**Дія:**\nДодав новий бан для",
+        "GE": "**Aktion:**\nNeues Verbot hinzugefügt für",
+        "RU": "**Действие:**\nДобавил новый бан для"
+    },
+    
+    "_MSWebYslow": {
+        "TR": "\n\n**Detaylar:**\n- Kalan süre:",
+        "EN": "\n\n**With conditions:**\n- Expires:",
+        "UA": "\n\n**З умовами:**\n- Термін дії закінчується:",
+        "GE": "\n\n**Mit Bedingungen:**\n- Läuft ab:",
+        "RU": "\n\n**С условиями:**\n- Истекает:"
+    },
+    
+    "_MSWebReason": {
+        "TR": "\n- Sebep:",
+        "EN": "\n- Reason:",
+        "UA": "\n- Причина:",
+        "GE": "\n- Grund:",
+        "RU": "\n- Причина:"
+    },
+    
+    "_MSBanDel": {
+        "TR": "Yasak silindi!",
+        "EN": "Ban deleted!",
+        "UA": "Бан видалено!",
+        "GE": "Ban gelöscht!",
+        "RU": "Бан удален!"
+    },
+    
+    "_MSWebBanDel": {
+        "TR": "**Eylem:**\nYasak silindi",
+        "EN": "**Action:**\nDeleted ban for",
+        "UA": "**Дія:**\nВидалив бан для",
+        "GE": "**Aktion:**\nVerbot gelöscht für",
+        "RU": "**Действие:**\nУдалил бан у"
+    },
+    
+    "_MSUnBan": {
+        "TR": "Yasağı kaldırılan oyuncu",
+        "EN": "Player unbanned!",
+        "UA": "Гравець розбанено!",
+        "GE": "Spieler entbannt!",
+        "RU": "Игрок разбанен!"
+    },
+    
+    "_MSWebUnBan": {
+        "TR": "**Eylem:**\nOyuncunun yasağı kaldırıldı",
+        "EN": "**Action:**\nUnbanned player",
+        "UA": "**Дія:**\nРозблокував гравця",
+        "GE": "**Aktion:**\nSpieler entsperrt",
+        "RU": "**Действие:**\nСнял бан у"
+    },
+    
+    "_MSMicro": {
+        "TR": "Konuşma",
+        "EN": "Microphone",
+        "UA": "Мікрофон",
+        "GE": "Mikrofon",
+        "RU": "Микрофон"
+    },
+    
+    "_MSChat": {
+        "TR": "Yazma",
+        "EN": "Chat",
+        "UA": "Чат",
+        "GE": "Chat",
+        "RU": "Чат"
+    },
+    
+    "_MSMicroChat": {
+        "TR": "Konuşma+Yazma",
+        "EN": "Microphone+Chat",
+        "UA": "Мікрофон+Чат",
+        "GE": "Mikrofon+Chat",
+        "RU": "Микрофон+Чат"
+    },
+    
+    "_MSMuteAdd": {
+        "TR": "İletişim yasağı başarıyla eklendi!",
+        "EN": "Mute successfully added!",
+        "UA": "Заглушка успішно додана!",
+        "GE": "Stummschaltung erfolgreich hinzugefügt!",
+        "RU": "Мут успешно добавлен!"
+    },
+    
+    "_MSWebMuteAdd": {
+        "TR": "**Eylem:**\nYeni bir İletişim yasağı eklendi!",
+        "EN": "**Action:**\nAdded a new mute for",
+        "UA": "**Дія:**\nДодав нову заглушку для",
+        "GE": "**Aktion:**\nNeue Stummschaltung hinzugefügt für",
+        "RU": "**Действие:**\nДобавил новый мут для"
+    },
+    
+    "_MSWebTypeMute": {
+        "TR": "\n- Ceza türü:",
+        "EN": "\n- Punishment type:",
+        "UA": "\n- Тип покарання:",
+        "GE": "\n- Bestrafungsart:",
+        "RU": "\n- Тип наказания:"
+    },
+    
+    "_MSMuteDel": {
+        "TR": "İletişim yasağı silindi!",
+        "EN": "Mute deleted!",
+        "UA": "Заглушка видалена!",
+        "GE": "Stummschaltung gelöscht!",
+        "RU": "Мут удален!"
+    },
+    
+    "_MSWebMuteDel": {
+        "TR": "**Eylem:**\nİletişim yasağı silindi.",
+        "EN": "**Action:**\nDeleted mute for",
+        "UA": "**Дія:**\nВидалив заглушку для",
+        "GE": "**Aktion:**\nStummschaltung gelöscht für",
+        "RU": "**Действие:**\nУдалил мут у"
+    },
+    
+    "_MSWebUnMute": {
+        "TR": "**Eylem:**\nİletişim yasaklaması kaldırıldı.",
+        "EN": "**Action:**\nUnmuted player",
+        "UA": "**Дія:**\nВідмітив мовчання гравця",
+        "GE": "**Aktion:**\nSpieler verstummt",
+        "RU": "**Действие:**\nСнял мут у"
+    },
+    
+    "_MSUnMute": {
+        "TR": "Oyuncunun iletişim yasaklaması kaldırıldı!",
+        "EN": "Player unmuted!",
+        "UA": "Гравець розмовчаний!",
+        "GE": "Spieler verstummt!",
+        "RU": "Игрок размучен!"
+    },
+    
+    "_MSServerIDNo": {
+        "TR": "Sunucu kimliğini belirtmeyi unuttunuz!",
+        "EN": "You forgot to specify the server ID!",
+        "UA": "Ви забули вказати ID сервера!",
+        "GE": "Sie haben vergessen, die Server-ID anzugeben!",
+        "RU": "Вы забыли указать ID сервера!"
+    },
+    
+    "_MSGroupVipNo": {
+        "TR": "VIP grubunu belirtmeyi unuttunuz!",
+        "EN": "You forgot to specify the VIP group!",
+        "UA": "Ви забули вказати VIP групу!",
+        "GE": "Sie haben vergessen, die VIP-Gruppe anzugeben!",
+        "RU": "Вы забыли указать VIP группу!"
+    },
+    
+    "_MSVipAdd": {
+        "TR": "VIP oyuncu başarıyla eklendi!",
+        "EN": "VIP player successfully added!",
+        "UA": "VIP-гравець успішно доданий!",
+        "GE": "VIP-Spieler erfolgreich hinzugefügt!",
+        "RU": "VIP-игрок успешно добавлен!"
+    },
+    
+    "_MSWebVipAdd": {
+        "TR": "**İşlem:**\nYeni bir VIP oyuncu eklendi",
+        "EN": "**Action:**\nAdded a new VIP player",
+        "UA": "**Дія:**\nДодав нового VIP-гравця",
+        "GE": "**Aktion:**\nNeuen VIP-Spieler hinzugefügt",
+        "RU": "**Действие:**\nДобавил нового VIP-игрока"
+    },
+    
+    "_MSWebGroups": {
+        "TR": "\n\n**Detaylar:**\n- Grup:",
+        "EN": "\n\n**With conditions:**\n- Group:",
+        "UA": "\n\n**З умовами:**\n- Група:",
+        "GE": "\n\n**Mit Bedingungen:**\n- Gruppe:",
+        "RU": "\n\n**С условиями:**\n- Группа:"
+    },
+    
+    "_MSWebDelVip": {
+        "TR": "**İşlem:**\nVIP oyuncu silindi",
+        "EN": "**Action:**\nDeleted VIP player",
+        "UA": "**Дія:**\nВидалив VIP-гравця",
+        "GE": "**Aktion:**\nVIP-Spieler gelöscht",
+        "RU": "**Действие:**\nУдалил VIP-игрока"
+    },
+    
+    "_MSVipDel": {
+        "TR": "VIP oyuncu silindi!",
+        "EN": "VIP player deleted!",
+        "UA": "VIP-гравця видалено!",
+        "GE": "VIP-Spieler gelöscht!",
+        "RU": "VIP-игрок удален!"
+    },
+    
+    "_MSServAdd": {
+        "TR": "Sunucu başarıyla oluşturuldu!",
+        "EN": "Server successfully created!",
+        "UA": "Сервер успішно створено!",
+        "GE": "Server erfolgreich erstellt!",
+        "RU": "Сервер успешно создан!"
+    },
+    
+    "_MSServDel": {
+        "TR": "Sunucu silindi!",
+        "EN": "Server deleted!",
+        "UA": "Сервер видалено!",
+        "GE": "Server gelöscht!",
+        "RU": "Сервер удален!"
+    },
+    
+    "_MSNameServNo": {
+        "TR": "Sunucu adını belirtmeyi unuttun!",
+        "EN": "You forgot to specify the server name!",
+        "UA": "Ви забули вказати ім'я сервера!",
+        "GE": "Sie haben vergessen, den Servernamen anzugeben!",
+        "RU": "Вы забыли указать имя сервера!"
+    },
+    
+    "_MSWebAccess": {
+        "TR": "\n\n**Haklarla birlikte:**\n- Ekleme erişimine erişim:",
+        "EN": "\n\n**With rights:**\n- Access to adding access:",
+        "UA": "\n\n**З правами:**\n- Доступ до додавання доступу:",
+        "GE": "\n\n**Mit Rechten:**\n- Zugriff auf Hinzufügen von Zugriff:",
+        "RU": "\n\n**С правами:**\n- Доступ к добавлению доступа:"
+    },
+    
+    "_MSWebAccessNew": {
+        "TR": "**İşlem:**\nYeni erişim eklendi:",
+        "EN": "**Action:**\nAdded new access for",
+        "UA": "**Дія:**\nДодав новий доступ для",
+        "GE": "**Aktion:**\nNeuen Zugriff hinzugefügt für",
+        "RU": "**Действие:**\nДобавил новый доступ для"
+    },
+    
+    "_MSWebAddAccessAdm": {
+        "TR": "\n- Yetkili ekleme erişimi:",
+        "EN": "\n- Access to adding administration:",
+        "UA": "\n- Доступ до додавання адміністрації:",
+        "GE": "\n- Zugriff auf Hinzufügen von Verwaltung:",
+        "RU": "\n- Доступ к добавлению администрации:"
+    },
+    
+    "_MSWebAddBanAccess": {
+        "TR": "\n- Yasak ekleme erişimi:",
+        "EN": "\n- Access to adding bans:",
+        "UA": "\n- Доступ до додавання банів:",
+        "GE": "\n- Zugriff auf Hinzufügen von Verboten:",
+        "RU": "\n- Доступ к добавлению банов:"
+    },
+    
+    "_MSWebAddMuteAccess": {
+        "TR": "\n- İletişim ekleme erişimi:",
+        "EN": "\n- Access to adding mutes:",
+        "UA": "\n- Доступ до додавання мутів:",
+        "GE": "\n- Zugriff auf Hinzufügen von Stummschaltungen:",
+        "RU": "\n- Доступ к добавлению мутов:"
+    },
+    
+    "_MSWebAddVipAccess": {
+        "TR": "\n- VIP oyuncu ekleme erişimi:",
+        "EN": "\n- Access to adding VIP players:",
+        "UA": "\n- Доступ до додавання VIP-гравців:",
+        "GE": "\n- Zugriff auf Hinzufügen von VIP-Spielern:",
+        "RU": "\n- Доступ к добавлению VIP-игроков:"
+    },
+    
+    "_MSWebDelccess": {
+        "TR": "**İşlem:**\nErişim silindi",
+        "EN": "**Action:**\nDeleted access for",
+        "UA": "**Дія:**\nВидалив доступ для",
+        "GE": "**Aktion:**\nZugriff gelöscht für",
+        "RU": "**Действие:**\nУдалил доступ для"
+    },
+    
+    "_MSYes": {
+        "TR": "Evet",
+        "EN": "Yes",
+        "UA": "Так",
+        "GE": "Ja",
+        "RU": "Есть"
+    },
+    
+    "_MSNo": {
+        "TR": "Hayır",
+        "EN": "No",
+        "UA": "Ні",
+        "GE": "Nein",
+        "RU": "Нет"
+    },
+    
+    "_MSGroupNameNo": {
+        "TR": "Grup adını belirtmeyi unuttun!",
+        "EN": "You forgot to specify the group name!",
+        "UA": "Ви забули вказати назву групи!",
+        "GE": "Sie haben vergessen, den Gruppennamen anzugeben!",
+        "RU": "Вы забыли указать название группы!"
+    },
+    
+    "_MSTypeNo": {
+        "TR": "Cezanın türünü belirtmedin!",
+        "EN": "You didn't specify the type of punishment!",
+        "UA": "Ви не вказали тип покарання!",
+        "GE": "Sie haben die Art der Bestrafung nicht angegeben!",
+        "RU": "Вы не указали тип наказания!"
+    },
+    
+    "_MSServerIdNo": {
+        "TR": "Bu sunucu kimliği zaten eklendi!",
+        "EN": "This server ID is already added!",
+        "UA": "Цей ID для сервера вже додано!",
+        "GE": "Diese Server-ID ist bereits hinzugefügt!",
+        "RU": "Этот ID для сервера уже добавлен!"
+    },
+    
+    "_MSWebPravGroup": {
+        "TR": "\n\n**Haklarıyla:**\n- Grup adı:",
+        "EN": "\n\n**With rights:**\n- Group name:",
+        "UA": "\n\n**З правами:**\n- Назва групи:",
+        "GE": "\n\n**Mit Rechten:**\n- Gruppenname:",
+        "RU": "\n\n**С правами:**\n- Название группы:"
+    },
+    
+    "_MSWebFlags": {
+        "TR": "\n- Bayraklar:",
+        "EN": "\n- Flags:",
+        "UA": "\n- Флаги:",
+        "GE": "\n- Flaggen:",
+        "RU": "\n- Флаги:"
+    },
+    
+    "_MSNameTimeNo": {
+        "TR": "Önceden belirlenmiş zaman için bir isim belirtmediniz!",
+        "EN": "You forgot to specify a name for the preset time!",
+        "UA": "Ви забули вказати назву для готового часу!",
+        "GE": "Sie haben vergessen, einen Namen für die voreingestellte Zeit anzugeben!",
+        "RU": "Вы забыли указать название для готового времени!"
+    },    
+
+    "_MSTimeSecNo": {
+        "TR": "Saniye belirtmeyi unuttun!",
+        "EN": "You forgot to specify the time in seconds!",
+        "UA": "Ви забули вказати час у секундах!",
+        "GE": "Sie haben vergessen, die Zeit in Sekunden anzugeben!",
+        "RU": "Вы забыли указать время в секундах!"
+    },
+    
+    "_MSListAccess": {
+        "TR": "Erişim listesi",
+        "EN": "List of access grants",
+        "UA": "Список доступу до видачі",
+        "GE": "Liste der Zugriffsgewährungen",
+        "RU": "Список доступа к выдаче"
+    },
+    
+    "_MSListAccessDesc": {
+        "TR": "Erişimi olan kullanıcılar",
+        "EN": "Users who have access",
+        "UA": "Користувачі, які мають доступ",
+        "GE": "Benutzer, die Zugriff haben",
+        "RU": "Пользователи которые имеют доступ к странице модуля"
+    },
+    
+    "_MSNN": {
+        "TR": "Bilinmeyen",
+        "EN": "Unknown",
+        "UA": "Невідомий",
+        "GE": "Unbekannt",
+        "RU": "Неизвестный"
+    },
+    
+    "_MSDelAccess": {
+        "TR": "Erişimi sil",
+        "EN": "Delete access",
+        "UA": "Видалити доступ",
+        "GE": "Zugriff löschen",
+        "RU": "Удалить доступ"
+    },
+    
+    "_MSAddAccess": {
+        "TR": "Erişim ekle",
+        "EN": "Add access",
+        "UA": "Додати доступ",
+        "GE": "Zugriff hinzufügen",
+        "RU": "Добавить доступ"
+    },
+    
+    "_MSFormAddAccess": {
+        "TR": "Kullanıcı ekleme formu",
+        "EN": "Form for adding users",
+        "UA": "Форма для додавання користувачів",
+        "GE": "Formular zum Hinzufügen von Benutzern",
+        "RU": "Форма для добавления пользователей"
+    },
+    
+    "_MSSteamFinder": {
+        "TR": "Steamfinder'da bulunabilir.",
+        "EN": "Can be obtained at SteamFinder",
+        "UA": "Можна отримати на SteamFinder",
+        "GE": "Kann bei SteamFinder erhalten werden",
+        "RU": "Получить можно в SteamFinder"
+    },
+    
+    "_MSAccessAddAccess": {
+        "TR": "Diğer kullanıcılara erişim izni vermek için erişim",
+        "EN": "Access to grant access to other users",
+        "UA": "Доступ до надання доступу іншим користувачам",
+        "GE": "Zugriff zur Gewährung von Zugriff auf andere Benutzer",
+        "RU": "Доступ к выдаче доступа другим пользователям"
+    },
+    
+    "_MSAccessAdmin": {
+        "TR": "Yetkili hakları verme erişimi",
+        "EN": "Access to grant admin rights",
+        "UA": "Доступ до надання адмін-прав",
+        "GE": "Zugriff zur Gewährung von Admin-Rechten",
+        "RU": "Доступ к выдаче админ-прав"
+    },
+    
+    "_MSAccessBan": {
+        "TR": "Yasaklama yetkisi verme",
+        "EN": "Access to grant bans",
+        "UA": "Доступ до надання банів",
+        "GE": "Zugriff zur Gewährung von Verboten",
+        "RU": "Доступ к выдаче банов"
+    },
+    
+    "_MSAccessMute": {
+        "TR": "İletişim yetkisi verme erişimi",
+        "EN": "Access to grant mutes",
+        "UA": "Доступ до надання мутів",
+        "GE": "Zugriff zur Gewährung von Stummschaltungen",
+        "RU": "Доступ к выдаче мутов"
+    },
+    
+    "_MSAccessVip": {
+        "TR": "VIP hakları vermek için erişim",
+        "EN": "Access to grant VIP rights",
+        "UA": "Доступ до надання VIP-прав",
+        "GE": "Zugriff zur Gewährung von VIP-Rechten",
+        "RU": "Доступ к выдаче VIP-прав"
+    },
+    
+    "_MSTableAddPls": {
+        "TR": "Modülü kullanmak için tabloları kurun!",
+        "EN": "To use the module, install tables!",
+        "UA": "Для використання модуля встановіть таблиці!",
+        "GE": "Installieren Sie Tabellen, um das Modul zu verwenden!",
+        "RU": "Для работы модуля, установите таблицы!"
+    },
+    
+    "_MSCreateTable": {
+        "TR": "Tablolar oluşturun!",
+        "EN": "Create tables!",
+        "UA": "Створіть таблиці!",
+        "GE": "Tabellen erstellen!",
+        "RU": "Создать таблицы!"
+    },
+    
+    "_MSOsnovaSetting": {
+        "TR": "Temel ayarlar",
+        "EN": "Basic settings",
+        "UA": "Основні налаштування",
+        "GE": "Grundeinstellungen",
+        "RU": "Основные настройки"
+    },
+    
+    "_MSObazFunc": {
+        "TR": "Zorunlu işlevsellik",
+        "EN": "Mandatory functionality",
+        "UA": "Обов'язковий функціонал",
+        "GE": "Obligatorische Funktionalität",
+        "RU": "Обязательный функционал"
+    },
+    
+    "_MSCanalRedWeb": {
+        "TR": "Kanal-> Düzenle-> Entegrasyon-> Webhook",
+        "EN": "Channel->Edit->Integration->Webhook",
+        "UA": "Канал->Редагувати->Інтеграція->Webhook",
+        "GE": "Kanal->Bearbeiten->Integration->Webhook",
+        "RU": "Канал->Редактировать->Интеграция->Webhook"
+    },
+    
+    "_MSColor": {
+        "TR": "Embed rengi:",
+        "EN": "Embed color:",
+        "UA": "Колір вставки:",
+        "GE": "Einbettungsfarbe:",
+        "RU": "Цвет embed:"
+    },
+    
+    "_MSColorHex": {
+        "TR": "HEX renk kodu",
+        "EN": "Any HEX color",
+        "UA": "Будь-який HEX-колір",
+        "GE": "Beliebige HEX-Farbe",
+        "RU": "Любой HEX цвет"
+    },
+    
+    "_MSURLImg": {
+        "TR": "Resim URL",
+        "EN": "Image URL:",
+        "UA": "URL зображення:",
+        "GE": "Bild-URL:",
+        "RU": "URL картинки:"
+    },
+    
+    "_MSLinkPhoto": {
+        "TR": "Link to photo hosting",
+        "EN": "Link to photo hosting",
+        "UA": "Посилання на фото-хостинг",
+        "GE": "Link zum Foto-Hosting",
+        "RU": "Ссылка на фото-хостинг"
+    },
+    
+    "_MSMultiServer": {
+        "TR": "Çoklu Sunucu",
+        "EN": "Multiserver",
+        "UA": "Мультисервер",
+        "GE": "Multiserver",
+        "RU": "Мультисерверность"
+    },
+    
+    "_MSFunkMultiserver": {
+        "TR": "İşlev, formlar için istediğiniz sunucuyu seçmenize olanak tanır",
+        "EN": "The function allows you to select the desired server for forms",
+        "UA": "Функція дозволяє вибрати потрібний сервер для форм",
+        "GE": "Die Funktion ermöglicht es Ihnen, den gewünschten Server für Formulare auszuwählen",
+        "RU": "Функция позволяет выбрать нужный сервер для форм"
+    },
+    
+    "_MSOn": {
+        "TR": "Açık",
+        "EN": "On",
+        "UA": "Увімкнено",
+        "GE": "An",
+        "RU": "Включить"
+    },
+    
+    "_MSOff": {
+        "TR": "Kapalı",
+        "EN": "Off",
+        "UA": "Вимкнено",
+        "GE": "Aus",
+        "RU": "Выключить"
+    },
+    
+    "_MSIkupAdmin": {
+        "TR": "Encapsulation of admin rights",
+        "EN": "Encapsulation of admin rights",
+        "UA": "Інкапсуляція прав адміністратора",
+        "GE": "Kapselung von Admin-Rechten",
+        "RU": "Инкапсуляция админ прав"
+    },
+    
+    "_MSFuncIkupAdmin": {
+        "TR": "Aynı yöneticiyi Z bayrağıyla kaldırmaya izin vermeyecek.",
+        "EN": "The function will not allow to remove an administrator with the Z flag, being the same administrator",
+        "UA": "Функція не дозволить видалити адміністратора з прапорцем Z, бувши таким же адміністратором",
+        "GE": "Die Funktion verhindert das Entfernen eines Administrators mit der Z-Flagge, der gleiche Administrator ist",
+        "RU": "Функция которая не позволит снять администратора с флагом Z, таким же администратором"
+    },
+    
+    "_MSInkuAccess": {
+        "TR": "Encapsulation of access rights",
+        "EN": "Encapsulation of access rights",
+        "UA": "Інкапсуляція прав доступу",
+        "GE": "Kapselung von Zugriffsrechten",
+        "RU": "Инкапсуляция прав доступа"
+    },
+    
+    "_MSFuncInkuAccess": {
+        "TR": "Aynı haklara sahip kullanıcının erişimini kaldırmaya izin vermeyecek.",
+        "EN": "The function will not allow to remove access to the user with the same rights",
+        "UA": "Функція не дозволить видалити доступ користувачу з такими ж правами",
+        "GE": "Die Funktion verhindert das Entfernen des Zugriffs für den Benutzer mit den gleichen Rechten",
+        "RU": "Функция которая не позволит снять доступ пользователю с такими же правами"
+    },    
+
+    "_MSDangerFlags": {
+        "TR": "Tehlikeli Bayrakları Gizle",
+        "EN": "Hide dangerous flags",
+        "UA": "Приховання небезпечних прапорців",
+        "GE": "Gefährliche Flaggen verbergen",
+        "RU": "Скрытие опасных флагов"
+    },
+    
+    "_MSFuncDangerFlags": {
+        "TR": "İşlev vermek için mevcut olan tehlikeli bayrakları gizlemenizi sağlar",
+        "EN": "The function allows you to hide dangerous flags that are available for granting",
+        "UA": "Функція дозволяє приховати небезпечні прапорці, які доступні для видачі",
+        "GE": "Die Funktion ermöglicht es Ihnen, gefährliche Flaggen zu verbergen, die zum Vergeben verfügbar sind",
+        "RU": "Функция позволяет скрыть опасные флаги, которые доступны для выдачи"
+    },
+    
+    "_MSUnban": {
+        "TR": "Yasak kaldırma sistemi",
+        "EN": "Unban system",
+        "UA": "Система розбану",
+        "GE": "Unban-System",
+        "RU": "Система разбана"
+    },
+    
+    "_MSFuncUnBan": {
+        "TR": "İşlev, bir oyuncunun cezasını silmenize değil, cezayı kaldırmanıza izin verir",
+        "EN": "The function allows you to not delete a player's punishment, but simply remove the punishment",
+        "UA": "Функція дозволяє не видаляти покарання гравця, а просто зняти покарання",
+        "GE": "Die Funktion ermöglicht es Ihnen, die Bestrafung eines Spielers nicht zu löschen, sondern nur die Bestrafung aufzuheben",
+        "RU": "Функция позволяет не удалять наказание игрока, а просто снимать наказание"
+    },
+    
+    "_MSSave": {
+        "TR": "Kaydet",
+        "EN": "Save",
+        "UA": "Зберегти",
+        "GE": "Speichern",
+        "RU": "Сохранить"
+    },
+    
+    "_MSDopSettimgs": {
+        "TR": "Ek ayarlar",
+        "EN": "Additional settings",
+        "UA": "Додаткові налаштування",
+        "GE": "Zusätzliche Einstellungen",
+        "RU": "Доп. настройки"
+    },
+    
+    "_MSFuncYdob": {
+        "TR": "Kolaylık için işlevsellik",
+        "EN": "Functionality for convenience",
+        "UA": "Функціонал для зручності",
+        "GE": "Funktionalität für Bequemlichkeit",
+        "RU": "Функционал для удобства"
+    },
+    
+    "_MSCreateGroupAdmin": {
+        "TR": "Yönetici grupları oluşturma ve kullanma",
+        "EN": "Creating and using admin grant groups",
+        "UA": "Створення та використання груп видання адмін-прав",
+        "GE": "Erstellen und Verwenden von Administratorengruppen",
+        "RU": "Создание и использование групп выдачи админ прав"
+    },
+    
+    "_MSCreateGroupAdminFunc": {
+        "TR": "İşlev, yönetici hakları verme kolaylığı için gruplar oluşturmanıza ve bunları kullanmanıza olanak tanır",
+        "EN": "The function allows you to create groups and use them for the convenience of granting admin rights",
+        "UA": "Функція дозволяє створювати групи та використовувати їх для зручності видання адмін-прав",
+        "GE": "Die Funktion ermöglicht es Ihnen, Gruppen zu erstellen und sie für die Bequemlichkeit der Vergabe von Administratorrechten zu verwenden",
+        "RU": "Функция позволяет создать группы и использовать их для удобства выдачи админ прав"
+    },
+    
+    "_MSCreateGroupVip": {
+        "TR": "VIP oyuncular için gruplar oluşturma ve kullanma",
+        "EN": "Creating and using groups for VIP players",
+        "UA": "Створення та використання груп видання для VIP-гравців",
+        "GE": "Erstellen und Verwenden von Gruppen für VIP-Spieler",
+        "RU": "Создание и использование групп выдачи для VIP-игроков"
+    },
+    
+    "_MSCreateGroupVipFunc": {
+        "TR": "İşlev, gruplar oluşturmanıza ve bunları VIP vermenin rahatlığı için kullanmanıza olanak tanır",
+        "EN": "The function allows you to create groups and use them for the convenience of granting VIP",
+        "UA": "Функція дозволяє створювати групи та використовувати їх для зручності видання VIP",
+        "GE": "Die Funktion ermöglicht es Ihnen, Gruppen zu erstellen und sie für die Bequemlichkeit der Vergabe von VIP-Rechten zu verwenden",
+        "RU": "Функция позволяет создать группы и использовать их для удобства выдачи VIP"
+    },
+    
+    "_MSCreateReasonBan": {
+        "TR": "Yasakların nedenlerinin oluşturulması ve kullanılması",
+        "EN": "Creating and using reasons for bans",
+        "UA": "Створення та використання причин банів",
+        "GE": "Erstellen und Verwenden von Gründen für Verbote",
+        "RU": "Создание и использование причин при выдачи банов"
+    },
+    
+    "_MSCreateReasonBanFunc": {
+        "TR": "İşlev, yasaklar çıkarmanın rahatlığı için nedenler oluşturmanıza ve bunları kullanmanıza olanak tanır",
+        "EN": "The function allows you to create reasons and use them for the convenience of issuing bans",
+        "UA": "Функція дозволяє створювати причини та використовувати їх для зручності видання банів",
+        "GE": "Die Funktion ermöglicht es Ihnen, Gründe zu erstellen und sie für die Bequemlichkeit der Vergabe von Verboten zu verwenden",
+        "RU": "Функция позволяет создать причины и использовать их для удобства выдачи банов"
+    },
+    
+    "_MSCreateReasonMute": {
+        "TR": "İletişim sebebi oluşturma ve kullanma",
+        "EN": "Creating and using reasons for mutes",
+        "UA": "Створення та використання причин мутів",
+        "GE": "Erstellen und Verwenden von Gründen für Stummschaltungen",
+        "RU": "Создание и использование причин при выдачи мутов"
+    },
+    
+    "_MSCreateReasonMuteFunc": {
+        "TR": "İşlev, sebep oluşturmanıza ve bunları İletişim kolaylığı için kullanmanıza olanak tanır",
+        "EN": "The function allows you to create reasons and use them for the convenience of issuing mutes",
+        "UA": "Функція дозволяє створювати причини та використовувати їх для зручності видання мутів",
+        "GE": "Die Funktion ermöglicht es Ihnen, Gründe zu erstellen und sie für die Bequemlichkeit der Vergabe von Stummschaltungen zu verwenden",
+        "RU": "Функция позволяет создать причины и использовать их для удобства выдачи мутов"
+    },
+    
+    "_MSCreateTimeNacaz": {
+        "TR": "Cezalar için hazır süre yaratma ve kullanma",
+        "EN": "Creating and using ready-made time for punishments",
+        "UA": "Створення та використання готового часу при виданні покарань",
+        "GE": "Erstellen und Verwenden von fertiger Zeit für Strafen",
+        "RU": "Создание и использование готового времени при выдачи наказаний"
+    },
+    
+    "_MSCreateTimeNacazFunc": {
+        "TR": "İşlev, hazır süre oluşturmanıza ve bunu ceza verme kolaylığı için kullanmanıza olanak tanır",
+        "EN": "The function allows you to create ready-made time and use it for the convenience of issuing punishments",
+        "UA": "Функція дозволяє створювати готовий час та використовувати його для зручності видання покарань",
+        "GE": "Die Funktion ermöglicht es Ihnen, fertige Zeit zu erstellen und sie für die Bequemlichkeit der Vergabe von Strafen zu verwenden",
+        "RU": "Функция позволяет создать готовое время и использовать его для удобства выдачи наказаний"
+    },
+    
+    "_MSCreateTimePriv": {
+        "TR": "Ayrıcalıklar için hazır zaman yaratma ve kullanma",
+        "EN": "Creating and using ready-made time for privileges",
+        "UA": "Створення та використання готового часу при виданні привілеїв",
+        "GE": "Erstellen und Verwenden von fertiger Zeit für Privilegien",
+        "RU": "Создание и использование готового времени при выдачи привилегий"
+    },
+    
+    "_MSCreateTimePrivFunc": {
+        "TR": "İşlev, hazır süre oluşturmanıza ve ayrıcalıklar vermenin rahatlığı için kullanmanıza olanak tanır",
+        "EN": "The function allows you to create ready-made time and use it for the convenience of issuing privileges",
+        "UA": "Функція дозволяє створювати готовий час та використовувати його для зручності видання привілеїв",
+        "GE": "Die Funktion ermöglicht es Ihnen, fertige Zeit zu erstellen und sie für die Bequemlichkeit der Vergabe von Privilegien zu verwenden",
+        "RU": "Функция позволяет создать готовое время и использовать его для удобства выдачи привилегий"
+    },
+    
+    "_MSAddServersss": {
+        "TR": "Sunuculara bağlanma",
+        "EN": "Connecting servers",
+        "UA": "Підключення серверів",
+        "GE": "Server verbinden",
+        "RU": "Подключение серверов"
+    },
+    
+    "_MSIDServer": {
+        "TR": "Sunucuyu ve kimliğini bağlama",
+        "EN": "Linking server and its ID",
+        "UA": "Зв'язуємо сервер та його ID",
+        "GE": "Server und seine ID verknüpfen",
+        "RU": "Связываем сервер и его ID"
+    },
+    
+    "_MSNameServer": {
+        "TR": "Sunucu adı:",
+        "EN": "Server name:",
+        "UA": "Назва сервера:",
+        "GE": "Servername:",
+        "RU": "Название сервера:"
+    },
+    
+    "_MSInputNameServer": {
+        "TR": "Herhangi bir sunucu adı",
+        "EN": "Any server name",
+        "UA": "Будь-яка назва сервера",
+        "GE": "Beliebiger Servername",
+        "RU": "Любое название сервера"
+    },
+    
+    "_MSIDServerInput": {
+        "TR": "Sunucu kimliği:",
+        "EN": "Server ID:",
+        "UA": "ID Сервера:",
+        "GE": "Server-ID:",
+        "RU": "ID Сервера:"
+    },
+    
+    "_MSIDServerInput2": {
+        "TR": "Yapılandırmada belirtilen sunucunun kimliği",
+        "EN": "ID of the server that is specified in the config",
+        "UA": "ID сервера, який вказаний в конфігурації",
+        "GE": "ID des Servers, der in der Konfiguration angegeben ist",
+        "RU": "ID сервера, который прописан в конфиге"
+    },
+    
+    "_MSServerAddBtn": {
+        "TR": "Sunucu oluşturun",
+        "EN": "Create server",
+        "UA": "Створити сервер",
+        "GE": "Server erstellen",
+        "RU": "Создать сервер"
+    },
+    
+    "_MSListGroup": {
+        "TR": "Oluşturulan grupların listesi",
+        "EN": "List of created groups",
+        "UA": "Список створених груп",
+        "GE": "Liste der erstellten Gruppen",
+        "RU": "Список созданных групп"
+    },
+    
+    "_MSListGroupDesc": {
+        "TR": "",
+        "EN": "All admin groups that you have created",
+        "UA": "Усі адмін групи, які ви створили",
+        "GE": "Alle Administratorengruppen, die Sie erstellt haben",
+        "RU": "Все админ группы, которые вы создали"
+    },
+    
+    "_MSNameGroup": {
+        "TR": "Oluşturduğunuz tüm yetkili grupları",
+        "EN": "Name",
+        "UA": "Назва",
+        "GE": "Name",
+        "RU": "Наименование"
+    },
+    
+    "_MSFlags": {
+        "TR": "Bayraklar",
+        "EN": "Flags",
+        "UA": "Прапорці",
+        "GE": "Flaggen",
+        "RU": "Флаги"
+    },
+    
+    "_MSImmunitet": {
+        "TR": "Dokunulmazlık",
+        "EN": "Immunity",
+        "UA": "Імунітет",
+        "GE": "Immunität",
+        "RU": "Иммунитет"
+    },
+    
+    "_MSDeystvie": {
+        "TR": "Eylem",
+        "EN": "Action",
+        "UA": "Дія",
+        "GE": "Aktion",
+        "RU": "Действие"
+    },
+    
+    "_MSDelGroup": {
+        "TR": "Grup silme",
+        "EN": "Delete group",
+        "UA": "Видалити групу",
+        "GE": "Gruppe löschen",
+        "RU": "Удалить группу"
+    },
+    
+    "_MSFormAddGroup": {
+        "TR": "Yetkili grupları oluşturma formu",
+        "EN": "Form for creating admin groups",
+        "UA": "Форма для створення адмін груп",
+        "GE": "Formular zum Erstellen von Administratorengruppen",
+        "RU": "Форма для создания админ групп"
+    },
+    
+    "_MSNameGroup2": {
+        "TR": "Grup adı",
+        "EN": "Group name",
+        "UA": "Назва групи",
+        "GE": "Gruppenname",
+        "RU": "Наименование группы"
+    },
+    
+    "_MSInputNameGroup": {
+        "TR": "Ne istiyorsan yaz, sadece boşluk olmasın",
+        "EN": "Write what you want, just not emptiness",
+        "UA": "Пишіть що хочете, головне не порожнеча",
+        "GE": "Schreiben Sie, was Sie wollen, nur keine Leere",
+        "RU": "Пишите что хотите, главное не пустота"
+    },
+    
+    "_MSInputNameGroup2": {
+        "TR": "Grubunuzu adlandırın",
+        "EN": "Name your group",
+        "UA": "Назва вашої групи",
+        "GE": "Benennen Sie Ihre Gruppe",
+        "RU": "Название вашей группы"
+    },
+    
+    "_MSFlagsGroup": {
+        "TR": "Grup bayrakları",
+        "EN": "Group flags",
+        "UA": "Прапорці групи",
+        "GE": "Gruppenflaggen",
+        "RU": "Флаги группы"
+    },
+    
+    "_MSFlagsA": {
+        "TR": "Reserved slot",
+        "EN": "Reserved slot",
+        "UA": "Резервний слот",
+        "GE": "Reservierter Steckplatz",
+        "RU": "Резервный слот"
+    },
+    
+    "_MSFlagsB": {
+        "TR": "Admin",
+        "EN": "Admin",
+        "UA": "Адмін",
+        "GE": "Administrator",
+        "RU": "Админ"
+    },
+    
+    "_MSFlagsC": {
+        "TR": "Kick",
+        "EN": "Kick",
+        "UA": "Кік",
+        "GE": "Kick",
+        "RU": "Кик"
+    },
+    
+    "_MSFlagsD": {
+        "TR": "Ban",
+        "EN": "Ban",
+        "UA": "Бан",
+        "GE": "Verbot",
+        "RU": "Бан"
+    },    
+
+    "_MSFlagsE": {
+        "TR": "Unban",
+        "EN": "Unban",
+        "UA": "Розбан",
+        "GE": "Entbannen",
+        "RU": "Разбан"
+    },
+
+    "_MSFlagsF": {
+        "TR": "Map change",
+        "EN": "Map change",
+        "UA": "Зміна карти",
+        "GE": "Kartenwechsel",
+        "RU": "Смена карты"
+    },
+
+    "_MSFlagsG": {
+        "TR": "Mute",
+        "EN": "Mute",
+        "UA": "Заглушити",
+        "GE": "Stumm schalten",
+        "RU": "Мут"
+    },
+
+    "_MSFlagsK": {
+        "TR": "Voting",
+        "EN": "Voting",
+        "UA": "Голосування",
+        "GE": "Abstimmung",
+        "RU": "Голосование"
+    },
+
+    "_MSFlagsL": {
+        "TR": "Password",
+        "EN": "Password",
+        "UA": "Пароль",
+        "GE": "Passwort",
+        "RU": "Пароль"
+    },
+
+    "_MSFlagsDop": {
+        "TR": "Additional flag",
+        "EN": "Additional flag",
+        "UA": "Додатковий прапорець",
+        "GE": "Zusätzliche Flagge",
+        "RU": "Доп. флаг"
+    },
+
+    "_MSFlagsW": {
+        "TR": "Chat mute",
+        "EN": "Chat mute",
+        "UA": "Заглушити чат",
+        "GE": "Chat stumm schalten",
+        "RU": "Мут чата"
+    },
+
+    "_MSFlagsT": {
+        "TR": "Team change",
+        "EN": "Team change",
+        "UA": "Зміна команди",
+        "GE": "Teamwechsel",
+        "RU": "Смена команд"
+    },
+
+    "_MSImunnGroup": {
+        "TR": "Grup Dokunulmazlığı",
+        "EN": "Group Immunity",
+        "UA": "Імунітет групи",
+        "GE": "Gruppenimmunität",
+        "RU": "Иммунитет группы"
+    },
+
+    "_MSImunnGroupImput": {
+        "TR": "1-100 arasında bir sayı belirleyin",
+        "EN": "Specify a number from 1-100",
+        "UA": "Вкажіть число від 1-100",
+        "GE": "Geben Sie eine Zahl von 1-100 an",
+        "RU": "Укажите число от 1-100"
+    },
+
+    "_MSAddGroup": {
+        "TR": "Grup oluşturun",
+        "EN": "Create a group",
+        "UA": "Створити групу",
+        "GE": "Gruppe erstellen",
+        "RU": "Создать группу"
+    },
+
+    "_MSReasonAdd": {
+        "TR": "Sebep",
+        "EN": "Reason",
+        "UA": "Причина",
+        "GE": "Grund",
+        "RU": "Причина"
+    },
+
+    "_MSReasonDelForm": {
+        "TR": "Sebebi sil",
+        "EN": "Delete reason",
+        "UA": "Видалити причину",
+        "GE": "Grund löschen",
+        "RU": "Удалить причину"
+    },
+
+    "_MSReasonAddCreate": {
+        "TR": "Bir sebep oluşturun",
+        "EN": "Create a reason",
+        "UA": "Створити причину",
+        "GE": "Grund erstellen",
+        "RU": "Создать причину"
+    },
+
+    "_MSReasonList": {
+        "TR": "Oluşturulan sebeplerin listesi",
+        "EN": "List of created reasons",
+        "UA": "Список створених причин",
+        "GE": "Liste der erstellten Gründe",
+        "RU": "Список созданных причин"
+    },
+
+    "_MSReasonListDesc": {
+        "TR": "Yarattığınız tüm yasaklama sebepleri",
+        "EN": "All ban reasons you have created",
+        "UA": "Всі причини банів, які ви створили",
+        "GE": "Alle von Ihnen erstellten Sperrgründe",
+        "RU": "Все причины банов, которые вы создали"
+    },
+
+    "_MSReasonListDescForm": {
+        "TR": "Yasaklama nedenleri oluşturma formu",
+        "EN": "Form for creating ban reasons",
+        "UA": "Форма для створення причин банів",
+        "GE": "Formular zum Erstellen von Sperrgründen",
+        "RU": "Форма для создания причин банов"
+    },
+
+    "_MSNamePric": {
+        "TR": "Sebep ismi",
+        "EN": "Reason name",
+        "UA": "Найменування причини",
+        "GE": "Grundname",
+        "RU": "Наименование причины"
+    },
+
+    "_MSNamePricInput": {
+        "TR": "Sebebinizi belirtin",
+        "EN": "Name your reason",
+        "UA": "Назва вашої причини",
+        "GE": "Benennen Sie Ihren Grund",
+        "RU": "Название вашей причины"
+    },
+
+    "_MSFormListMute": {
+        "TR": "Sessize alma nedenleri oluşturma formu",
+        "EN": "Form for creating mute reasons",
+        "UA": "Форма для створення причин мутів",
+        "GE": "Formular zum Erstellen von Stummheitsgründen",
+        "RU": "Форма для создания причин мутов"
+    },
+
+    "_MSFormLiistDesc": {
+        "TR": "Oluşturduğunuz tüm sessiz nedenler",
+        "EN": "All mute reasons you have created",
+        "UA": "Всі причини мутів, які ви створили",
+        "GE": "Alle von Ihnen erstellten Stummheitsgründe",
+        "RU": "Все причины мутов, которые вы создали"
+    },
+
+    "_MSNameGroupVip": {
+        "TR": "groups.ini/vip.json dosyasındaki grup adı",
+        "EN": "Group name from groups.ini/vip.json",
+        "UA": "Назва групи з groups.ini/vip.json",
+        "GE": "Gruppenname aus groups.ini/vip.json",
+        "RU": "Название группы из groups.ini/vip.json"
+    },
+
+    "_MSFormVipDesc": {
+        "TR": "VIP grupları oluşturma formu",
+        "EN": "Form for creating VIP groups",
+        "UA": "Форма для створення VIP-груп",
+        "GE": "Formular zum Erstellen von VIP-Gruppen",
+        "RU": "Форма для создания VIP групп"
+    },
+
+    "_MSListFormVip": {
+        "TR": "Oluşturmuş olduğunuz tüm VIP grupları",
+        "EN": "All VIP groups you have created",
+        "UA": "Всі VIP-групи, які ви створили",
+        "GE": "Alle von Ihnen erstellten VIP-Gruppen",
+        "RU": "Все VIP группы, которые вы создали"
+    },
+
+    "_MSPlugin": {
+        "TR": "Hangi eklentiyi kullanıyorsunuz?",
+        "EN": "Which plugin are you using?",
+        "UA": "Який плагін ви використовуєте?",
+        "GE": "Welches Plugin verwendest du?",
+        "RU": "Какой плагин вы используете?"
+    },
+
+    "_MSHost": {
+        "TR": "Host:",
+        "EN": "Host:",
+        "UA": "Хост:",
+        "GE": "Host:",
+        "RU": "Хост:"
+    },
+
+    "_MSIP": {
+        "TR": "Veritabanının gerçek IP adresini belirtin",
+        "EN": "Specify the real IP of the database",
+        "UA": "Вкажіть реальний IP бази даних",
+        "GE": "Geben Sie die echte IP der Datenbank an",
+        "RU": "Укажите реальный ip базы данных"
+    },
+
+    "_MSIPInput": {
+        "TR": "Veri tabanının IP adresini belirtin",
+        "EN": "Specify the IP address of the database",
+        "UA": "Вкажіть IP-адресу бази даних",
+        "GE": "Geben Sie die IP-Adresse der Datenbank an",
+        "RU": "Укажите IP-адрес базы данных"
+    },
+
+    "_MSDB": {
+        "TR": "Veritabanı adı:",
+        "EN": "Database name:",
+        "UA": "Ім'я бази даних:",
+        "GE": "Datenbankname:",
+        "RU": "Имя базы данных:"
+    },
+    
+    "_MSDBInput": {
+        "TR": "Veritabanının gerçek adını belirtin",
+        "EN": "Specify the real name of the database",
+        "UA": "Вкажіть реальне ім'я бази даних",
+        "GE": "Geben Sie den echten Namen der Datenbank an",
+        "RU": "Укажите реальное имя базы данных"
+    },
+
+    "_MSNameDB": {
+        "TR": "Veritabanının adını belirtin",
+        "EN": "Specify the name of the database",
+        "UA": "Вкажіть ім'я бази даних",
+        "GE": "Geben Sie den Namen der Datenbank an",
+        "RU": "Укажите имя базы данных"
+    },
+
+    "_MSNameDB2": {
+        "TR": "Veritabanı kullanıcı adı:",
+        "EN": "Database user name:",
+        "UA": "Ім'я користувача бд:",
+        "GE": "Datenbank-Benutzername:",
+        "RU": "Имя пользователя бд:"
+    },
+    
+    "_MSNameDB2Input": {
+        "TR": "Gerçek veritabanı kullanıcı adını belirtin",
+        "EN": "Specify the real database user name",
+        "UA": "Вкажіть реальне ім'я користувача бази даних",
+        "GE": "Geben Sie den echten Datenbank-Benutzernamen an",
+        "RU": "Укажите реальное имя пользователя базы данных"
+    },
+
+    "_MSNameDB2Input3": {
+        "TR": "Veritabanı kullanıcı adını belirtin",
+        "EN": "Specify the database user name",
+        "UA": "Вкажіть ім'я користувача бази даних",
+        "GE": "Geben Sie den Datenbank-Benutzernamen an",
+        "RU": "Укажите имя пользователя базы данных"
+    },
+
+    "_MSPass": {
+        "TR": "Veritabanı kullanıcı şifresi:",
+        "EN": "Database user password:",
+        "UA": "Пароль користувача бд:",
+        "GE": "Datenbankbenutzerpasswort:",
+        "RU": "Пароль пользователя бд:"
+    },
+
+    "_MSPassReal": {
+        "TR": "Gerçek veritabanı parolasını belirtin",
+        "EN": "Specify the real database password",
+        "UA": "Вкажіть реальний пароль бази даних",
+        "GE": "Geben Sie das echte Datenbankpasswort an",
+        "RU": "Укажите реальный пароль базы данных"
+    },
+
+    "_MSPassRealInput": {
+        "TR": "Veritabanı parolasını belirtin",
+        "EN": "Specify the database password",
+        "UA": "Вкажіть пароль бази даних",
+        "GE": "Geben Sie das Datenbankpasswort an",
+        "RU": "Укажите пароль базы данных"
+    },
+
+    "_MSNameServer2": {
+        "TR": "Sunucu adı:",
+        "EN": "Server name:",
+        "UA": "Ім'я сервера:",
+        "GE": "Servername:",
+        "RU": "Имя сервера:"
+    },
+
+    "_MSNameServer1": {
+        "TR": "1'inci sunucunun adını belirtin",
+        "EN": "Specify the name of the 1st server",
+        "UA": "Вкажіть ім'я 1-го сервера",
+        "GE": "Geben Sie den Namen des 1. Servers an",
+        "RU": "Укажите имя 1-го сервера"
+    },
+
+    "_MSSavePod": {
+        "TR": "Bağlantıyı kaydet",
+        "EN": "Save connection",
+        "UA": "Зберегти підключення",
+        "GE": "Verbindung speichern",
+        "RU": "Сохранить подключение"
+    },
+
+    "_MSTime222": {
+        "TR": "Süre",
+        "EN": "Time",
+        "UA": "Час",
+        "GE": "Zeit",
+        "RU": "Время"
+    },
+
+    "_MSDelTime": {
+        "TR": "Hazır olma süresini silin",
+        "EN": "Delete ready time",
+        "UA": "Видалити готовий час",
+        "GE": "Fertige Zeit löschen",
+        "RU": "Удалить готовое время"
+    },
+
+    "_MSAddTime222": {
+        "TR": "Hazır olma süresi oluşturun",
+        "EN": "Create ready time",
+        "UA": "Створити готовий час",
+        "GE": "Fertige Zeit erstellen",
+        "RU": "Создать готовое время"
+    },
+
+    "_MSFormDescTime": {
+        "TR": "Hazır süre oluşturmak için form",
+        "EN": "Form for creating ready time",
+        "UA": "Форма для створення готового часу",
+        "GE": "Formular zum Erstellen von bereiter Zeit",
+        "RU": "Форма для создания готового времени"
+    },
+
+    "_MSListTime": {
+        "TR": "Oluşturulan zamanın listesi",
+        "EN": "List of created time",
+        "UA": "Список створеного часу",
+        "GE": "Liste der erstellten Zeit",
+        "RU": "Список созданного времени"
+    },
+
+    "_MSListTimeDesc": {
+        "TR": "Yarattığınız cezalar için tüm hazır süreler",
+        "EN": "All ready time for punishments you have created",
+        "UA": "Всі готові час для покарань, які ви створили",
+        "GE": "Alle bereiten Zeitstrafen, die Sie erstellt haben",
+        "RU": "Все готовое время для наказаний, которое вы создали"
+    },
+
+    "_MSNameTime": {
+        "TR": "Hazır süre adı",
+        "EN": "Ready time name",
+        "UA": "Найменування готового часу",
+        "GE": "Name der bereiten Zeit",
+        "RU": "Наименование готового времени"
+    },
+
+    "_MSNameTimeInput": {
+        "TR": "Görüntülenecek isim",
+        "EN": "Name that will be displayed",
+        "UA": "Назва, яка буде відображатися",
+        "GE": "Name, der angezeigt wird",
+        "RU": "Название, которое будет отображаться"
+    },
+
+    "_MSNameTimeInputYou": {
+        "TR": "Zamanınızın adı",
+        "EN": "Name of your time",
+        "UA": "Назва вашого часу",
+        "GE": "Name Ihrer Zeit",
+        "RU": "Название вашего времени"
+    },
+
+    "_MSTimeSec2": {
+        "TR": "Saniye cinsinden zaman",
+        "EN": "Time in seconds",
+        "UA": "Час в секундах",
+        "GE": "Zeit in Sekunden",
+        "RU": "Время в секундах"
+    },
+
+    "_MSLibTimeSec": {
+        "TR": "Herhangi bir saniye sayısı",
+        "EN": "Any number of seconds",
+        "UA": "Будь-яка кількість секунд",
+        "GE": "Beliebige Anzahl von Sekunden",
+        "RU": "Любое кол-во секунд"
+    },
+
+    "_MS0ForevTime": {
+        "TR": "0 = süresiz",
+        "EN": "0 = forever",
+        "UA": "0 = назавжди",
+        "GE": "0 = für immer",
+        "RU": "0 = навсегда"
+    },
+
+    "_MSPrivTime": {
+        "TR": "Yarattığınız ayrıcalıklar için hazır süre",
+        "EN": "All ready time for privileges you have created",
+        "UA": "Всі готові час для привілеїв, які ви створили",
+        "GE": "Alle bereiten Zeitprivilegien, die Sie erstellt haben",
+        "RU": "Все готовое время для привилегий, которое вы создали"
+    },
+
+    "_MSListNaacaz": {
+        "TR": "Yasaklı listesi",
+        "EN": "List of offenders",
+        "UA": "Список порушників",
+        "GE": "Liste der Straftäter",
+        "RU": "Список нарушителей"
+    },
+
+    "_MSListNaacazDesc": {
+        "TR": "Bu sunucuda yasaklanan kullanıcılar",
+        "EN": "Users who have been banned on this server",
+        "UA": "Користувачі, які отримали бан на цьому сервері",
+        "GE": "Benutzer, die auf diesem Server gesperrt wurden",
+        "RU": "Пользователи которые получили бан на этом сервере"
+    },
+
+    "_MSNarush": {
+        "TR": "Yasaklı",
+        "EN": "Offender",
+        "UA": "Порушник",
+        "GE": "Straftäter",
+        "RU": "Нарушитель"
+    },
+
+    "_MSUnBan1": {
+        "TR": "Yasağı Kaldır",
+        "EN": "Unban",
+        "UA": "Розбанити",
+        "GE": "Entbannen",
+        "RU": "Разбанить"
+    },
+
+    "_MSDelBan": {
+        "TR": "Yasağı sil",
+        "EN": "Delete ban",
+        "UA": "Видалити бан",
+        "GE": "Bann löschen",
+        "RU": "Удалить бан"
+    },
+
+    "_MSIstec": {
+        "TR": "Yasaklama süresi sona erdi.",
+        "EN": "Expires",
+        "UA": "Закінчується",
+        "GE": "Läuft ab",
+        "RU": "Истекает"
+    },
+
+    "_MSUnban2": {
+        "TR": "Yasaklama süresi bitmeden kaldırıldı.",
+        "EN": "Unbanned",
+        "UA": "Розбанений",
+        "GE": "Entbannt",
+        "RU": "Разбанен"
+    },
+
+    "_MSIstecaet": {
+        "TR": "Süresi doldu",
+        "EN": "Expired",
+        "UA": "Закінчився",
+        "GE": "Abgelaufen",
+        "RU": "Истек"
+    },
+
+    "_MSAddBan": {
+        "TR": "Yasak ekle",
+        "EN": "Add ban",
+        "UA": "Додати бан",
+        "GE": "Bann hinzufügen",
+        "RU": "Добавить бан"
+    },
+
+    "_MSFormAddBan": {
+        "TR": "Yasak eklemek için form",
+        "EN": "Form for adding bans",
+        "UA": "Форма для додавання банів",
+        "GE": "Formular zum Hinzufügen von Bans",
+        "RU": "Форма для добавления банов"
+    },
+    
+    "_MSTimeNacazSec": {
+        "TR": "Saniye cinsinden ceza süresi",
+        "EN": "Punishment time in seconds",
+        "UA": "Час покарання у секундах",
+        "GE": "Bestrafungszeit in Sekunden",
+        "RU": "Время наказания в секундах"
+    },
+
+    "_MSTimeChoose": {
+        "TR": "Hazır ceza süresi",
+        "EN": "Ready punishment time",
+        "UA": "Готовий час покарань",
+        "GE": "Bereite Bestrafungszeit",
+        "RU": "Готовое время наказаний"
+    },
+
+    "_MSReasoneCoose": {
+        "TR": "Hazır ceza sebebi",
+        "EN": "Ready ban reasons",
+        "UA": "Готові причини банів",
+        "GE": "Bereite Ban-Gründe",
+        "RU": "Готовые причины банов"
+    },
+
+    "_MSReasonBan": {
+        "TR": "Yasaklama nedeni",
+        "EN": "Ban reason",
+        "UA": "Причина бану",
+        "GE": "Ban-Grund",
+        "RU": "Причина бана"
+    },
+
+    "_MSReasonBanInput": {
+        "TR": "Oyuncunun cezalandırılacağı nedeni girin",
+        "EN": "Enter the reason for which the player will be punished",
+        "UA": "Введіть причину, за яку гравець отримає покарання",
+        "GE": "Geben Sie den Grund ein, für den der Spieler bestraft wird",
+        "RU": "Введите причину за которое игрок понесет наказание"
+    },
+
+    "_MSAddNewBan": {
+        "TR": "Yeni yasak ekle",
+        "EN": "Add new ban",
+        "UA": "Додати новий бан",
+        "GE": "Neuen Ban hinzufügen",
+        "RU": "Добавить новый бан"
+    },
+
+    "_MSIDServ": {
+        "TR": "Sunucu ID",
+        "EN": "Server ID",
+        "UA": "ID Сервера",
+        "GE": "Server-ID",
+        "RU": "ID Сервера"
+    },
+
+    "_MSIDServer0": {
+        "TR": "Sunucu kimliğini belirtmeyi unuttunuz",
+        "EN": "You forgot to specify the server ID",
+        "UA": "Ви забули вказати ID сервера",
+        "GE": "Sie haben vergessen, die Server-ID anzugeben",
+        "RU": "Вы забыли указать ID сервера"
+    },
+
+    "_MSConsol": {
+        "TR": "Konsol",
+        "EN": "Console",
+        "UA": "Консоль",
+        "GE": "Konsole",
+        "RU": "Консоль"
+    },
+
+    "_MSServerIDConf": {
+        "TR": "Yapılandırmada belirtilen sunucu kimliği",
+        "EN": "Server ID specified in the config",
+        "UA": "ID сервера, який вказаний в конфігурації",
+        "GE": "Server-ID, die in der Konfiguration angegeben ist",
+        "RU": "ID сервера, который указан в конфиге"
+    },
+    
+    "_MSGotovReaS": {
+        "TR": "Hazır sessiz nedenleri",
+        "EN": "Ready mute reasons",
+        "UA": "Готові причини мутів",
+        "GE": "Bereite Stummschaltungsgründe",
+        "RU": "Готовые причины мутов"
+    },
+
+    "_MSReasMute": {
+        "TR": "Sessiz nedeni",
+        "EN": "Mute reason",
+        "UA": "Причина мута",
+        "GE": "Stummschaltungsgrund",
+        "RU": "Причина мута"
+    },
+
+    "_MSTypeNacaz": {
+        "TR": "Ceza türü",
+        "EN": "Type of punishment",
+        "UA": "Тип покарання",
+        "GE": "Art der Bestrafung",
+        "RU": "Тип наказания"
+    },
+
+    "_MSAll": {
+        "TR": "Hepsi",
+        "EN": "All at once",
+        "UA": "Все одночасно",
+        "GE": "Alles auf einmal",
+        "RU": "Все сразу"
+    },
+
+    "_MSNewMute": {
+        "TR": "Yeni iletişim yasağı ekle",
+        "EN": "Add new mute",
+        "UA": "Додати новий мут",
+        "GE": "Neues Stummschalten hinzufügen",
+        "RU": "Добавить новый мут"
+    },
+
+    "_MSAddMute": {
+        "TR": "iletişim yasağı ekle",
+        "EN": "Add mute",
+        "UA": "Додати мут",
+        "GE": "Stummschaltung hinzufügen",
+        "RU": "Добавить мут"
+    },
+    
+    "_MSFormAddMute": {
+        "TR": "iletişim yasağı ekleme formu",
+        "EN": "Form for adding mutes",
+        "UA": "Форма для додавання мутів",
+        "GE": "Formular zum Hinzufügen von Stummschaltungen",
+        "RU": "Форма для добавления мутов"
+    },
+
+    "_MSUnMute2": {
+        "TR": "Sesini aç",
+        "EN": "Unmute",
+        "UA": "Розмовчати",
+        "GE": "Stummschaltung aufheben",
+        "RU": "Размутить"
+    },
+
+    "_MSDelMute": {
+        "TR": "İletişim yasağını sil",
+        "EN": "Delete mute",
+        "UA": "Видалити мут",
+        "GE": "Stummschaltung löschen",
+        "RU": "Удалить мут"
+    },
+
+    "_MSHeadMuteDesc": {
+        "TR": "Bu sunucuda iletişim yasağı alınan kullanıcılar",
+        "EN": "Users who have been muted on this server",
+        "UA": "Користувачі, які отримали мут на цьому сервері",
+        "GE": "Benutzer, die auf diesem Server stummgeschaltet wurden",
+        "RU": "Пользователи которые получили мут на этом сервере"
+    },
+
+    "_MSTim2": {
+        "TR": "Ayrıcalığın verileceği süreyi belirtin",
+        "EN": "Specify the time for which the privilege will be granted",
+        "UA": "Вкажіть час, на який буде надано привілеї",
+        "GE": "Geben Sie die Zeit an, für die das Privileg gewährt wird",
+        "RU": "Укажите время на которое будет выдана привилегия"
+    },
+
+    "_MSDayTime": {
+        "TR": "Gün cinsinden süre",
+        "EN": "Time in days",
+        "UA": "Час у днях",
+        "GE": "Zeit in Tagen",
+        "RU": "Время в днях"
+    },
+
+    "_MSGotovTime": {
+        "TR": "Hazır ayrıcalık zamanı",
+        "EN": "Ready privilege time",
+        "UA": "Готовий час привілеїв",
+        "GE": "Bereite Privilegienzeit",
+        "RU": "Готовое время привилегий"
+    },
+
+    "_MSFlagDostyp": {
+        "TR": "Erişim bayrakları",
+        "EN": "Access flags",
+        "UA": "Флаги доступу",
+        "GE": "Zugriffsflags",
+        "RU": "Флаги доступа"
+    },
+
+    "_MSGroupAdm": {
+        "TR": "Yetkili grupları",
+        "EN": "Administrator groups",
+        "UA": "Групи адміністраторів",
+        "GE": "Administratorgruppen",
+        "RU": "Группы администраторов"
+    },
+
+    "_MSAddAdmin": {
+        "TR": "Yetkili ekle",
+        "EN": "Add admin",
+        "UA": "Додати адміна",
+        "GE": "Administrator hinzufügen",
+        "RU": "Добавить админа"
+    },
+    
+    "_MSAddAdminForm": {
+        "TR": "Yetkili ekleme formu",
+        "EN": "Form for adding admins",
+        "UA": "Форма для додавання адміністраторів",
+        "GE": "Formular zum Hinzufügen von Administratoren",
+        "RU": "Форма для добавления админов"
+    },
+
+    "_MSComm2": {
+        "TR": "Yorum",
+        "EN": "Comment",
+        "UA": "Коментар",
+        "GE": "Kommentar",
+        "RU": "Комментарий"
+    },
+
+    "_MSAddAdmin2": {
+        "TR": "Yetkili ekle",
+        "EN": "Add administrator",
+        "UA": "Додати адміністратора",
+        "GE": "Administrator hinzufügen",
+        "RU": "Добавить администратора"
+    },
+
+    "_MSAddAdminList": {
+        "TR": "Yönetim Listesi",
+        "EN": "List of administration",
+        "UA": "Список адміністрації",
+        "GE": "Liste der Verwaltung",
+        "RU": "Список администрации"
+    },
+
+    "_MSAddAdminListDesc": {
+        "TR": "Yetkili olan kullanıcılar",
+        "EN": "Users who are administrators",
+        "UA": "Користувачі, які є адміністраторами",
+        "GE": "Benutzer, die Administratoren sind",
+        "RU": "Пользователи которые являются администраторами"
+    },
+
+    "_MSProff": {
+        "TR": "Profile git",
+        "EN": "Go to profile",
+        "UA": "Перейти в профіль",
+        "GE": "Zum Profil gehen",
+        "RU": "Перейти в профиль"
+    },
+
+    "_MSNameGroup1": {
+        "TR": "Grup adı",
+        "EN": "Group name",
+        "UA": "Назва групи",
+        "GE": "Gruppenname",
+        "RU": "Название группы"
+    },
+
+    "_MSDelAdm": {
+        "TR": "Yetkili sil",
+        "EN": "Delete admin",
+        "UA": "Видалити адміна",
+        "GE": "Administrator löschen",
+        "RU": "Удалить админа"
+    },
+
+    "_MSNono": {
+        "TR": "Boş bırakabilirsiniz",
+        "EN": "You can leave it blank",
+        "UA": "Ви можете залишити його порожнім",
+        "GE": "Sie können es leer lassen",
+        "RU": "Можно не указывать"
+    },
+
+    "_MSLol": {
+        "TR": "Ne isterseniz, herhangi bir metin",
+        "EN": "Whatever you want, any text",
+        "UA": "Що завгодно, будь-який текст",
+        "GE": "Was auch immer Sie wollen, beliebiger Text",
+        "RU": "Что хотите, любой текст"
+    },
+
+    "_MSRedAdmn": {
+        "TR": "Yetkiliyi düzenle",
+        "EN": "Edit admin",
+        "UA": "Редагувати адміна",
+        "GE": "Administrator bearbeiten",
+        "RU": "Редактировать админа"
+    },
+
+    "_MSComm0": {
+        "TR": "Belirtilmemiş",
+        "EN": "Not specified",
+        "UA": "Не вказано",
+        "GE": "Nicht angegeben",
+        "RU": "Не указан"
+    },
+
+    "_MSGroup0": {
+        "TR": "Belirtilmemiş",
+        "EN": "Not specified",
+        "UA": "Не вказано",
+        "GE": "Nicht angegeben",
+        "RU": "Не указана"
+    },
+
+    "_MSGRoup": {
+        "TR": "Grup",
+        "EN": "Group",
+        "UA": "Група",
+        "GE": "Gruppe",
+        "RU": "Группа"
+    },
+
+    "_MSAddVip": {
+        "TR": "",
+        "EN": "Add VIP player",
+        "UA": "Додати VIP-гравця",
+        "GE": "VIP-Spieler hinzufügen",
+        "RU": "Добавить VIP-игрока"
+    },
+
+    "_MSSidVip": {
+        "TR": "Ekte belirttiğiniz sid'i belirtin",
+        "EN": "Specify the sid you specified in the config",
+        "UA": "Вкажіть sid, яку ви вказали в конфігурації",
+        "GE": "Geben Sie die SID an, die Sie in der Konfiguration angegeben haben",
+        "RU": "Укажите sid, которую вы указали в конфиге"
+    },
+
+    "_MSGFRoupConf": {
+        "TR": "Yapılandırmada oluşturduğunuz grubu belirtin.",
+        "EN": "Specify the group you created in the config",
+        "UA": "Вкажіть групу, яку ви створили в конфігурації",
+        "GE": "Geben Sie die Gruppe an, die Sie in der Konfiguration erstellt haben",
+        "RU": "Укажите группу, которую вы создали в конфиге"
+    },
+
+    "_MSVipGroup": {
+        "TR": "VIP grup",
+        "EN": "VIP group",
+        "UA": "VIP група",
+        "GE": "VIP-Gruppe",
+        "RU": "VIP группа"
+    },
+
+    "_MSGotovVipGroup": {
+        "TR": "Hazır VIP grupları",
+        "EN": "Ready VIP groups",
+        "UA": "Готові VIP групи",
+        "GE": "Bereite VIP-Gruppen",
+        "RU": "Готовые VIP группы"
+    },
+
+    "_MSFormDescAdd": {
+        "TR": "VIP oyuncuları eklemek için form",
+        "EN": "Form for adding VIP players",
+        "UA": "Форма для додавання VIP-гравців",
+        "GE": "Formular zum Hinzufügen von VIP-Spielern",
+        "RU": "Форма для добавления VIP-игроков"
+    },
+
+    "_MSDElVip": {
+        "EN": "Delete VIP player",
+        "UA": "Видалити VIP-гравця",
+        "GE": "VIP-Spieler löschen",
+        "RU": "Удалить VIP-игрока"
+    },
+
+    "_MSREdVip": {
+        "TR": "VIP Oyuncu Düzenle",
+        "EN": "Edit VIP player",
+        "UA": "Редагувати VIP-гравця",
+        "GE": "VIP-Spieler bearbeiten",
+        "RU": "Редактировать VIP-игрока"
+    },
+    
+    "_MSVipList": {
+        "TR": "VIP oyuncuların listesi",
+        "EN": "List of VIP players",
+        "UA": "Список VIP-гравців",
+        "GE": "Liste der VIP-Spieler",
+        "RU": "Список VIP-игроков"
+    },
+
+    "_MSListDesc": {
+        "TR": "VIP olan kullanıcılar",
+        "EN": "Users who are VIP players",
+        "UA": "Користувачі, які є VIP-гравцями",
+        "GE": "Benutzer, die VIP-Spieler sind",
+        "RU": "Пользователи которые являются VIP-игроками"
+    },
+
+    "_MSSettingBanAll": {
+        "TR": "Tüm sunuculara verilen cezalar",
+        "EN": "Ban on all servers",
+        "UA": "Покарання на всі сервера",
+        "GE": "Strafen für alle Server",
+        "RU": "Наказания на все сервера"
+    },
+
+    "_MSSettingBanAllFunc": {
+        "TR": "İşlev, tüm sunucularda cezaları etkinleştirmenize olanak tanır, önce eklentinin yapılandırmasını yapılandırmanız gerekir",
+        "EN": "The function allows you to enable punishments on all servers, you first need to configure the plugin config",
+        "UA": "Функція дозволяє включити покарання на всіх серверах, попередньо потрібно налаштувати конфіг плагіна",
+        "GE": "Mit dieser Funktion können Sie die Bestrafung auf allen Servern aktivieren, bevor Sie die Plugin-Konfiguration konfigurieren müssen",
+        "RU": "Функция позволяет включить наказания на всех серверах, предварительно нужно настроить конфиг плагина"
+    },
+
+    "_MSAddNaruh": {
+        "TR": "Katma",
+        "EN": "Added",
+        "UA": "Доданий",
+        "GE": "Hinzugefügt",
+        "RU": "Добавлен"
+    },
+
+    "_MSNameReasonNo": {
+        "TR": "Sebep belirtmeyi unuttun!",
+        "EN": "You forgot to specify the reason name!",
+        "UA": "Ви забули вказати назву причини!",
+        "GE": "Sie haben vergessen, den Grund anzugeben!",
+        "RU": "Вы забыли указать название причины!"
+    }, 
+
+    "_MSWebEditPravGroup": {
+        "TR": "",
+        "EN": "",
+        "UA": "",
+        "GE": "",
+        "RU": "\n\n**С новыми правами:**\n- Название группы:"
+    },
+
+    
+    "_MSWebAddWarnAccess": {
+        "TR": "\n- Uyarı ekleme erişimi:",
+        "EN": "\n- Warning adding access:",
+        "UA": "\n- Доступ до додавання попереджень:",
+        "GE": "\n- Warnung Hinzufügen Zugriff:",
+        "RU": "\n- Доступ к добавлению предупреждений:"
+    },
+    
+    "_MSWebAccessEdit": {
+        "TR": "**Eylem:**\nErişimi düzenledi:",
+        "EN": "**Action:**\nEdited access for:",
+        "UA": "**Дія:**\nВідредагував доступ для",
+        "GE": "**Aktion:**\nZugriff bearbeitet für:",
+        "RU": "**Действие:**\nОтредактировал доступ для"
+    },
+    
+    "_MSWebEditAccess": {
+        "TR": "\n\n**Yeni izinlerle:**\n- Erişim ekleme erişimi:",
+        "EN": "\n\n**With new permissions:**\n- Access to add access:",
+        "UA": "\n\n**З новими дозволами:**\n- Доступ до додавання доступу:",
+        "GE": "\n\n**Mit neuen Berechtigungen:**\n- Zugriff zum Hinzufügen von Zugriff:",
+        "RU": "\n\n**С новыми правами:**\n- Доступ к добавлению доступа:"
+    },
+    
+    "_MSWebAccessTime": {
+        "TR": "\n- Çevrimiçi görüntüleme erişimi:",
+        "EN": "\n- Online viewing access:",
+        "UA": "\n- Доступ до перегляду онлайн:",
+        "GE": "\n- Online-Anzeigezugriff:",
+        "RU": "\n- Доступ к просмотру онлайна:"
+    },
+
+    "_MSWebGroupsEdit": {
+        "TR": "\n\n**Yeni şartlarla:**\n- Grup:",
+        "EN": "\n\n**With new conditions:**\n- Group:",
+        "UA": "\n\n**З новими умовами:**\n- Група:",
+        "GE": "\n\n**Mit neuen Bedingungen:**\n- Gruppe:",
+        "RU": "\n\n**С новыми условиями:**\n- Группа:"
+    },
+    
+    "_MSWebVipEdit": {
+        "TR": "**Eylem:**\nVIP oyuncuyu düzenledi",
+        "EN": "**Action:**\nEdited VIP player",
+        "UA": "**Дія:**\nВідредагував VIP-гравця",
+        "GE": "**Aktion:**\nVIP-Spieler bearbeitet",
+        "RU": "**Действие:**\nОтредактировал VIP-игрока"
+    },
+    
+    "_MSWebEditAdminPrav": {
+        "TR": "\n\n**C новыми правами:**\n- Флаги:",
+        "EN": "\n\n**With new permissions:**\n- Flags:",
+        "UA": "\n\n**З новими дозволами:**\n- Прапорці:",
+        "GE": "\n\n**Mit neuen Berechtigungen:**\n- Flaggen:",
+        "RU": "\n\n**C новыми правами:**\n- Флаги:"
+    },
+
+    "_MSWebEditAdmin": {
+        "TR": "**Eylem:**\nYöneticiyi düzenledi",
+        "EN": "**Action:**\nEdited administrator",
+        "UA": "**Дія:**\nРедагував адміністратора",
+        "GE": "**Aktion:**\nYöneticiyi düzenledi",
+        "RU": "**Действие:**\nОтредактировал администратора"
+    },
+    
+    "_MSErrorRcon": {
+        "TR": "Rcon komutu çalıştırılırken bir hata oluştu!",
+        "EN": "An error occurred while executing Rcon command!",
+        "UA": "Під час виконання команди Rcon сталася помилка!",
+        "GE": "Beim Ausführen des Rcon-Befehls ist ein Fehler aufgetreten!",
+        "RU": "Произошла ошибка при выполнении Rcon команды!"
+    },
+    
+    "_MSTime3": {
+        "TR": "Zaman belirtilmedi!",
+        "EN": "You did not specify the time!",
+        "UA": "Ви не вказали час!",
+        "GE": "Sie haben die Zeit nicht angegeben!",
+        "RU": "Вы не указали время!"
+    },
+    
+    "_MSTime4": {
+        "TR": "Hazır bir zaman seçin veya kendi zamanınızı belirtin!",
+        "EN": "Choose either a ready time or specify your own!",
+        "UA": "Виберіть або готовий час, або вкажіть свій!",
+        "GE": "Wählen Sie entweder eine fertige Zeit oder geben Sie Ihre eigene an!",
+        "RU": "Выберите либо готовое время, либо укажите свое!"
+    },    
+
+    "_MSEditAdmin": {
+        "TR": "Yönetici düzenlemesi kaydedildi!",
+        "EN": "Administrator edit saved!",
+        "UA": "Редагування адміністратора збережено!",
+        "GE": "Administratorbearbeitung gespeichert!",
+        "RU": "Изменения администратора сохранены!"
+    },
+    
+    "_MSNoAdmin": {
+        "TR": "Böyle bir yönetici yok!",
+        "EN": "There is no such administrator!",
+        "UA": "Такого адміністратора не існує!",
+        "GE": "Es gibt keinen solchen Administrator!",
+        "RU": "Такого администратора нет!"
+    },
+
+    "_MSWebHookPred": {
+        "UA": "Додано попередження для:",
+        "GE": "Warnung hinzugefügt für:",
+        "TR": "İçin uyarı eklendi:",
+        "EN": "Added warning for:",
+        "RU": "Добавил предупреждение для"
+    },
+    
+    "_MSAddPred": {
+        "UA": "Попередження успішно видано!",
+        "GE": "Warnung erfolgreich ausgegeben!",
+        "TR": "Uyarı başarıyla verildi!",
+        "EN": "Warning successfully issued!",
+        "RU": "Предупреждение успешно выдано!"
+    },
+    
+    "_MSDelPred": {
+        "UA": "Попередження успішно видалено!",
+        "GE": "Warnung erfolgreich entfernt!",
+        "TR": "Uyarı başarıyla kaldırıldı!",
+        "EN": "Warning successfully removed!",
+        "RU": "Предупреждение успешно удалено!"
+    },
+    
+    "_MSWebHookDelPred": {
+        "UA": "Попередження видалено для:",
+        "GE": "Warnung entfernt für:",
+        "TR": "İçin uyarı kaldırıldı:",
+        "EN": "Warning removed for:",
+        "RU": "Удалил предупреждение для"
+    },    
+
+    "_MSSysPred": {
+        "UA": "Система попереджень",
+        "GE": "Warnsystem",
+        "TR": "Uyarı Sistemi",
+        "EN": "Warning System",
+        "RU": "Система предупреждений"
+    },
+    
+    "_MSSysPredDel": {
+        "UA": "Систему успішно видалено адміністратором",
+        "GE": "Warnsystem erfolgreich gelöscht",
+        "TR": "Uyarı Sistemi başarıyla silindi",
+        "EN": "Warning system successfully deleted",
+        "RU": "Удалила администратора"
+    },
+    
+    "_MSArStatDel": {
+        "UA": "Статистика онлайну успішно очищена!",
+        "GE": "Online-Statistik erfolgreich gelöscht!",
+        "TR": "Online istatistik başarıyla temizlendi!",
+        "EN": "Online statistics successfully cleared!",
+        "RU": "Статистика онлайна успешно очищена!"
+    },    
+
+    "_MesGeneralTime": {
+        "TR": "m.",
+        "EN": "m.",
+        "UA": "міс.",
+        "GE": "m.",
+        "RU": "мес."
+    },
+    
+    "_NedGeneralTime": {
+        "TR": "w.",
+        "EN": "w.",
+        "UA": "нед.",
+        "GE": "w.",
+        "RU": "нед."
+    },
+    
+    "_DnGeneralTime": {
+        "TR": "d.",
+        "EN": "d.",
+        "UA": "дн.",
+        "GE": "d.",
+        "RU": "дн."
+    },
+    
+    "_CGeneralTime": {
+        "TR": "h.",
+        "EN": "h.",
+        "UA": "ч.",
+        "GE": "h.",
+        "RU": "ч."
+    },
+    
+    "_MGeneralTime": {
+        "TR": "m.",
+        "EN": "m.",
+        "UA": "мiн..",
+        "GE": "m.",
+        "RU": "мин."
+    },
+    
+    "_SGeneralTime": {
+        "TR": "s.",
+        "EN": "s.",
+        "UA": "сек.",
+        "GE": "s.",
+        "RU": "сек."
+    },    
+
+    "_MSPred": {
+        "TR": "Uyarılar",
+        "EN": "Warnings",
+        "UA": "Попередження",
+        "GE": "Warnungen",
+        "RU": "Предупреждения"
+    },
+    
+    "_MSAccesEdit": {
+        "TR": "Erişim değişiklikleri kaydedildi!",
+        "EN": "Access changes saved!",
+        "UA": "Зміни доступу збережено!",
+        "GE": "Zugriffsänderungen gespeichert!",
+        "RU": "Изменения доступа сохранены!"
+    },
+    
+    "_MSPointDel": {
+        "TR": "Menü öğesi silindi!",
+        "EN": "Menu item deleted!",
+        "UA": "Пункт меню видалено!",
+        "GE": "Menüpunkt gelöscht!",
+        "RU": "Пункт меню удален!"
+    },
+    
+    "_MSPointVipNo": {
+        "TR": "Belirtilen kimlik numarasına sahip grup bulunamadı!",
+        "EN": "Group with specified ID not found!",
+        "UA": "Група з вказаним ідентифікатором не знайдена!",
+        "GE": "Gruppe mit angegebener ID nicht gefunden!",
+        "RU": "Группа с указанным ID не найдена!"
+    },
+    
+    "_MSPointResNo": {
+        "TR": "Belirtilen kimlik numarasına sahip neden bulunamadı!",
+        "EN": "Reason with specified ID not found!",
+        "UA": "Причина з вказаним ідентифікатором не знайдена!",
+        "GE": "Grund mit angegebener ID nicht gefunden!",
+        "RU": "Причина с указанным ID не найдена!"
+    },    
+
+    "_MSPointTimeNo": {
+        "TR": "Belirtilen kimlik numarasına sahip zaman bulunamadı!",
+        "EN": "Time with specified ID not found!",
+        "UA": "Час з вказаним ідентифікатором не знайдений!",
+        "GE": "Zeit mit angegebener ID nicht gefunden!",
+        "RU": "Время с указанным ID не найдено!"
+    },
+    
+    "_MSPointServNo": {
+        "TR": "Belirtilen kimlik numarasına sahip sunucu bulunamadı!",
+        "EN": "Server with specified ID not found!",
+        "UA": "Сервер з вказаним ідентифікатором не знайдений!",
+        "GE": "Server mit angegebener ID nicht gefunden!",
+        "RU": "Сервер с указанным ID не найден!"
+    },
+    
+    "_MSEditVip": {
+        "TR": "VIP oyuncu değişiklikleri kaydedildi!",
+        "EN": "VIP player changes saved!",
+        "UA": "Зміни VIP-гравця збережено!",
+        "GE": "VIP-Spieleränderungen gespeichert!",
+        "RU": "Изменения VIP-игрока сохранены!"
+    },
+    
+    "_MSChistVip": {
+        "TR": "Oyuncular başarıyla temizlendi!",
+        "EN": "Players successfully cleared!",
+        "UA": "Гравці успішно очищені!",
+        "GE": "Spieler erfolgreich gelöscht!",
+        "RU": "Игроки успешно очищены!"
+    },    
+
+    "_MSOnlineAdmin": {
+        "TR": "Çevrimiçi yöneticiler",
+        "EN": "Online administrators",
+        "UA": "Онлайн адміністрація",
+        "GE": "Online-Administratoren",
+        "RU": "Онлайн администрации"
+    },
+    
+    "_MSYprPred": {
+        "TR": "Uyarıları yönet",
+        "EN": "Manage warnings",
+        "UA": "Управління попередженнями",
+        "GE": "Warnungen verwalten",
+        "RU": "Управление предупреждениями"
+    },
+    
+    "_MSPredDesc": {
+        "TR": "Yönetici uyarıları hakkında tam bilgi ve eklemelerin sistemi",
+        "EN": "Full information about administrator warnings and their addition system",
+        "UA": "Повна інформація про попередження адміністрації та система їх додавання",
+        "GE": "Vollständige Informationen zu Administratorwarnungen und ihrem Hinzufügesystem",
+        "RU": "Полная информация о предупреждениях администрации, а также система их добавления"
+    },
+    
+    "_MSOnlineDesc": {
+        "TR": "Yöneticilerinizin çevrimiçi durumu hakkında tam bilgi",
+        "EN": "Full information about the online status of your administrators",
+        "UA": "Повна інформація про онлайн-статус вашої адміністрації",
+        "GE": "Vollständige Informationen zum Online-Status Ihrer Administratoren",
+        "RU": "Полная информация об онлайне вашей администрации"
+    },    
+
+    "_MSAddAdmin1": {
+        "TR": "Yönetici Ekle",
+        "EN": "Add administration",
+        "UA": "Додати адміністрацію",
+        "GE": "Administration hinzufügen",
+        "RU": "Добавить администрацию"
+    },
+    
+    "_MSAddPred1": {
+        "TR": "Uyarı Ekle",
+        "EN": "Add warning",
+        "UA": "Додати попередження",
+        "GE": "Warnung hinzufügen",
+        "RU": "Добавить предупреждение"
+    },
+    
+    "_MSIstecPlayVip": {
+        "TR": "Süresi Dolmuş Oyuncuları Temizle",
+        "EN": "Clear expired players",
+        "UA": "Очистити закінчених гравців",
+        "GE": "Abgelaufene Spieler löschen",
+        "RU": "Очистить истекших игроков"
+    },
+    
+    "_MSAllMesStat": {
+        "TR": "Tüm Mesajları Temizle",
+        "EN": "Clear all messages",
+        "UA": "Очистити всі повідомлення",
+        "GE": "Alle Nachrichten löschen",
+        "RU": "Очистить все, кроме текущего месяца статистики"
+    },    
+
+    "_MSEditAcces": {
+        "TR": "Erişimi Düzenle",
+        "EN": "Edit access",
+        "UA": "Редагувати доступ",
+        "GE": "Zugriff bearbeiten",
+        "RU": "Редактировать доступ"
+    },
+    
+    "_MSDostPred": {
+        "TR": "Uyarı Vermeye İzin Ver",
+        "EN": "Allow warning issuance",
+        "UA": "Дозвіл видавати попередження",
+        "GE": "Warnungsausstellung erlauben",
+        "RU": "Доступ к выдаче предупреждений"
+    },
+    
+    "_MSDostOnlie": {
+        "TR": "Çevrimiçi Görüntüleme İzni",
+        "EN": "Online viewing permission",
+        "UA": "Дозвіл перегляду онлайну",
+        "GE": "Online-Anzeigeberechtigung",
+        "RU": "Доступ к просмотру онлайна"
+    },
+    
+    "_MSEditDostup": {
+        "TR": "Erişimi Düzenle",
+        "EN": "Edit access",
+        "UA": "Редагувати доступ",
+        "GE": "Zugriff bearbeiten",
+        "RU": "Редактирование доступа"
+    },    
+
+    "_MSEditDostupDesc": {
+        "TR": "Erişim Düzenleme Formu",
+        "EN": "Access Editing Form",
+        "UA": "Форма для редагування доступу",
+        "GE": "Zugriffsbearbeitungsformular",
+        "RU": "Форма для редактирования доступа"
+    },
+    
+    "_MSSaveIzm": {
+        "TR": "Değişiklikleri Kaydet",
+        "EN": "Save Changes",
+        "UA": "Зберегти зміни",
+        "GE": "Änderungen speichern",
+        "RU": "Сохранить изменения"
+    },
+    
+    "_MSPoisk": {
+        "TR": "Kullanıcı Ara",
+        "EN": "Search users",
+        "UA": "Пошук користувачів",
+        "GE": "Benutzer suchen",
+        "RU": "Поиск пользователей"
+    },
+    
+    "_MSEditAdmin1": {
+        "TR": "Yöneticiyi Düzenle",
+        "EN": "Edit Admin",
+        "UA": "Редагування адміна",
+        "GE": "Admin bearbeiten",
+        "RU": "Редактирование админа"
+    },
+    
+    "_MSFormEditAdmin": {
+        "TR": "Yönetici Düzenleme Formu",
+        "EN": "Admin Editing Form",
+        "UA": "Форма для редагування адміністратора",
+        "GE": "Formular zur Bearbeitung des Administrators",
+        "RU": "Форма для редактирования администратора"
+    },    
+
+    "_MSAdminGroupNo": {
+        "TR": "Yönetici Grubu Oluşturmadınız",
+        "EN": "You haven't created an admin group",
+        "UA": "Ви не створили групу адміністраторів",
+        "GE": "Sie haben keine Admin-Gruppe erstellt",
+        "RU": "Вы не создали админ группу"
+    },
+    
+    "_MSAdminTimeNo": {
+        "TR": "Hazır Zaman Oluşturmadınız",
+        "EN": "You haven't created ready time",
+        "UA": "Ви не створили готовий час",
+        "GE": "Sie haben keine bereite Zeit erstellt",
+        "RU": "Вы не создали готовое время"
+    },
+    
+    "_MSTimeSov": {
+        "TR": "Kendi Zamanınız (Günler) (gerekirse)",
+        "EN": "Your Time (Days) (if necessary)",
+        "UA": "Ваш час (дні) (за потреби)",
+        "GE": "Ihre Zeit (Tage) (falls erforderlich)",
+        "RU": "Свое время в днях (если необходимо)"
+    },
+    
+    "_MSTimeSovDay": {
+        "TR": "Kendi Zamanınız (Saniyeler) (gerekirse)",
+        "EN": "Your Time (Seconds) (if necessary)",
+        "UA": "Ваш час (секунди) (за потреби)",
+        "GE": "Ihre Zeit (Sekunden) (falls erforderlich)",
+        "RU": "Свое время в секундах (если необходимо)"
+    },
+    
+    "_MSNullText": {
+        "TR": "(Tüm sunuculara vermek için boş bırakın)",
+        "EN": "(Leave blank to issue to all servers)",
+        "UA": "(Залиште порожнім, щоб видати на всі сервери)",
+        "GE": "(Leer lassen, um an alle Server zu verteilen)",
+        "RU": "(Оставьте пустым, чтобы выдать на все сервера)"
+    },    
+
+    "_MSIPPlay": {
+        "TR": "Oyuncunun IP'si (isteğe bağlı)",
+        "EN": "Player's IP (optional)",
+        "UA": "IP гравця (не обов'язково)",
+        "GE": "IP des Spielers (optional)",
+        "RU": "IP игрока (не обязательно)"
+    },
+    
+    "_MSNoRes": {
+        "TR": "Hazır Neden Oluşturmadınız",
+        "EN": "You haven't created ready reasons",
+        "UA": "Ви не створили готові причини",
+        "GE": "Sie haben keine bereiten Gründe erstellt",
+        "RU": "Вы не создали готовые причины"
+    },
+    
+    "_MSIPSTEAMDesc": {
+        "TR": "Belirtilirse, yasaklama STEAMID ve IP'ye göre verilecek",
+        "EN": "If specified, ban will be issued based on STEAMID and IP",
+        "UA": "Якщо вказати, заборона буде надана на основі STEAMID та IP",
+        "GE": "Wenn angegeben, wird das Verbot aufgrund der STEAMID und IP erteilt",
+        "RU": "Если указать, бан будет выдан по STEAMID и IP"
+    },
+    
+    "_MSNoVipGroup": {
+        "TR": "VIP Grubu Oluşturmadınız",
+        "EN": "You haven't created a VIP group",
+        "UA": "Ви не створили групу VIP",
+        "GE": "Sie haben keine VIP-Gruppe erstellt",
+        "RU": "Вы не создали VIP группу"
+    },
+    
+    "_MSEditVip1": {
+        "TR": "VIP Oyuncuyu Düzenle",
+        "EN": "Edit VIP player",
+        "UA": "Редагувати VIP-гравця",
+        "GE": "VIP-Spieler bearbeiten",
+        "RU": "Редактировать VIP-игрока"
+    },    
+
+    "_MSFormEditVip": {
+        "TR": "VIP Oyuncuları Düzenleme Formu",
+        "EN": "Form for editing VIP players",
+        "UA": "Форма для редагування VIP-гравців",
+        "GE": "Formular zur Bearbeitung von VIP-Spielern",
+        "RU": "Форма для редактирования VIP-игроков"
+    },
+    
+    "_MSListPredDesc": {
+        "TR": "Tüm yönetici uyarıları burada gösterilir",
+        "EN": "Here are displayed all administration warnings",
+        "UA": "Тут відображаються всі попередження адміністрації",
+        "GE": "Hier werden alle Verwarnungen der Administration angezeigt",
+        "RU": "Здесь отображаются все предупреждения администрации"
+    },
+    
+    "_MSListPred": {
+        "TR": "Uyarı Listesi",
+        "EN": "Warning List",
+        "UA": "Список попереджень",
+        "GE": "Warnungsliste",
+        "RU": "Список предупреждений"
+    },
+    
+    "_MSDelPred2": {
+        "TR": "Uyarıyı Sil",
+        "EN": "Delete warning",
+        "UA": "Видалити попередження",
+        "GE": "Warnung löschen",
+        "RU": "Удалить предупреждение"
+    },
+    
+    "_MSAddPred2": {
+        "TR": "Uyarı Ekle",
+        "EN": "Add warning",
+        "UA": "Додати попередження",
+        "GE": "Warnung hinzufügen",
+        "RU": "Добавить предупреждение"
+    },
+    
+    "_MSFormAddPred2": {
+        "TR": "Uyarı Ekleme Formu",
+        "EN": "Form for adding warnings",
+        "UA": "Форма для додавання попереджень",
+        "GE": "Formular zum Hinzufügen von Warnungen",
+        "RU": "Форма для добавления предупреждений"
+    },    
+
+    "_MSResPred": {
+        "TR": "Uyarı Verme Nedeni",
+        "EN": "Reason for issuing a warning",
+        "UA": "Причина видачі попередження",
+        "GE": "Grund für die Ausstellung einer Warnung",
+        "RU": "Причина выдачи предупреждения"
+    },
+    
+    "_MSResPred1": {
+        "TR": "Kural veya Maddeyi Belirtin",
+        "EN": "Specify the rule or item",
+        "UA": "Вкажіть правило або пункт",
+        "GE": "Geben Sie die Regel oder den Punkt an",
+        "RU": "Укажите правило или пункт"
+    },
+    
+    "_MSResPred2": {
+        "TR": "Sizin Nedeniniz",
+        "EN": "Your reason",
+        "UA": "Ваша причина",
+        "GE": "Ihr Grund",
+        "RU": "Ваша причина"
+    },
+    
+    "_MSResPred3": {
+        "TR": "Gün cinsinden uyarı verme süresi",
+        "EN": "Time to issue warning in days",
+        "UA": "Час видачі попередження в днях",
+        "GE": "Zeitpunkt der Warnungsausstellung in Tagen",
+        "RU": "Время выдачи предупреждения в днях"
+    },
+    
+    "_MSResPred4": {
+        "TR": "Uyarı gün sayısını belirtin",
+        "EN": "Specify the number of warning days",
+        "UA": "Вкажіть кількість днів попередження",
+        "GE": "Geben Sie die Anzahl der Warnungstage an",
+        "RU": "Укажите количество дней предупреждения"
+    },
+    
+    "_MSResPred5": {
+        "TR": "Uyarıyı Ver",
+        "EN": "Issue warning",
+        "UA": "Видати попередження",
+        "GE": "Warnung ausstellen",
+        "RU": "Выдать предупреждение"
+    },    
+
+    "_MSOnline1": {
+        "TR": "Çevrimiçi İstatistik",
+        "EN": "Online Statistics",
+        "UA": "Онлайн-статистика",
+        "GE": "Online-Statistik",
+        "RU": "Статистика онлайна"
+    },
+    
+    "_MSOnline2": {
+        "TR": "Belirli bir zaman diliminde sunucuya giren yöneticiler",
+        "EN": "Administration that logged into the server for a certain period of time",
+        "UA": "Адміністрація, яка заходила на сервер протягом певного періоду часу",
+        "GE": "Administration, die sich für einen bestimmten Zeitraum auf dem Server angemeldet hat",
+        "RU": "Администрация, которая заходила на сервер за определенный период времени"
+    },
+    
+    "_MSOnline3": {
+        "TR": "Dönemi Seç",
+        "EN": "Select period",
+        "UA": "Вибрати період",
+        "GE": "Zeitraum auswählen",
+        "RU": "Выбрать период"
+    },
+    
+    "_MSOnline4": {
+        "TR": "Dönemi Seçme Formu",
+        "EN": "Period Selection Form",
+        "UA": "Форма для вибору періоду",
+        "GE": "Formular zur Auswahl des Zeitraums",
+        "RU": "Форма для выбора периода"
+    },
+    
+    "_MSOnline5": {
+        "TR": "Dönemi Seçme Formu",
+        "EN": "Period Selection Form",
+        "UA": "Форма для вибору періоду",
+        "GE": "Formular zur Auswahl des Zeitraums",
+        "RU": "Форма для выбора периода"
+    },
+    
+    "_MSOnline6": {
+        "TR": "Dönemi Seçme Formu",
+        "EN": "Period Selection Form",
+        "UA": "Форма для вибору періоду",
+        "GE": "Formular zur Auswahl des Zeitraums",
+        "RU": "Форма для выбора периода"
+    },
+        
+    "_MSOnline7": {
+        "TR": "Seç",
+        "EN": "Select",
+        "UA": "Обрати",
+        "GE": "Auswählen",
+        "RU": "Выбрать"
+    },
+
+    "_MSOnline8": {
+        "TR": "Toplam oynandı",
+        "EN": "It's all played out",
+        "UA": "Всього награно",
+        "GE": "Insgesamt wurde gespielt",
+        "RU": "Всего наиграно"
+    },
+
+    "_MSOnline9": {
+        "TR": "Son yaklaşım",
+        "EN": "Last call",
+        "UA": "Останній захід",
+        "GE": "Letzter Anlauf",
+        "RU": "Последний заход"
+    },
+    
+    "_MSSettings1": {
+        "TR": "VIP Sunucuları Oluşturma (Tek VIP veritabanınız varsa)",
+        "EN": "Creating VIP servers (if you have one VIP database)",
+        "UA": "Створення VIP серверів (якщо у вас одна база для VIP)",
+        "GE": "VIP-Server erstellen (wenn Sie eine VIP-Datenbank haben)",
+        "RU": "Создание VIP серверов (если у вас одна база для VIP)"
+    },
+    
+    "_MSSettings2": {
+        "TR": "Sunucuya Sunucu Kimliğini Bağlama Fonksiyonu",
+        "EN": "Function to attach server ID to the server",
+        "UA": "Функція дозволяє прив'язати до сервера його ідентифікатор сервера",
+        "GE": "Funktion, um die Server-ID an den Server anzuhängen",
+        "RU": "Функция позволяет привязать к серверу его сервер ID"
+    },
+    
+    "_MSSettings3": {
+        "TR": "Maksimum uyarı sayısına ulaşıldığında yöneticilerin silinmesi",
+        "EN": "Deleting admins when maximum warning count is reached",
+        "UA": "Видалення адміністраторів, коли досягнуто максимальну кількість попереджень",
+        "GE": "Löschen von Admins, wenn die maximale Warnanzahl erreicht ist",
+        "RU": "Удаление админов, при максимальном количестве предупреждений"
+    },
+    
+    "_MSSettings4": {
+        "TR": "Maksimum uyarı sayısına ulaşıldığında yöneticilerin otomatik olarak kaldırılması",
+        "EN": "Automatically removing administrators when maximum warning count is reached",
+        "UA": "Автоматичне видалення адміністраторів, коли досягнуто максимальну кількість попереджень",
+        "GE": "Automatisches Entfernen von Administratoren, wenn die maximale Warnanzahl erreicht ist",
+        "RU": "Функция позволяет включить автоматическое снятие администратора по достижению максимального количества предупреждений"
+    },
+    
+    "_MSSettings5": {
+        "TR": "Uyarı Sayısı",
+        "EN": "Warning Count",
+        "UA": "Кількість попереджень",
+        "GE": "Warnanzahl",
+        "RU": "Количество предупреждений"
+    },
+        
+    "_MSSettings6": {
+        "TR": "Maksimum uyarı sayısı",
+        "EN": "Maximum warning count",
+        "UA": "Максимальна кількість попереджень",
+        "GE": "Maximale Warnanzahl",
+        "RU": "Максимальное количество предупреждений"
+    },
+    
+    "_MSSettings7": {
+        "TR": "VIPTEST gizle",
+        "EN": "Hide VIPTEST",
+        "UA": "Приховувати VIPTEST",
+        "GE": "VIPTEST ausblenden",
+        "RU": "Скрывать VIPTEST"
+    },
+    
+    "_MSSettings8": {
+        "TR": "Gizlemek istiyorsanız, VIP grubunu belirtin",
+        "EN": "If you want to hide, specify the VIP group",
+        "UA": "Якщо ви хочете приховати, вкажіть групу VIP",
+        "GE": "Wenn Sie es ausblenden möchten, geben Sie die VIP-Gruppe an",
+        "RU": "Если хотите скрыть, укажите VIP группу"
+    },
+    
+    "_MSSettings9": {
+        "TR": "Grupları Bağlama",
+        "EN": "Binding Groups",
+        "UA": "Прив'язка груп",
+        "GE": "Gruppenbindung",
+        "RU": "Привязка групп"
+    },
+    
+    "_MSSettings10": {
+        "TR": "Yönetici grubunu VIP grubuyla ilişkilendirme",
+        "EN": "Associating admin group with VIP group to automatically assign VIP group when admin group is assigned",
+        "UA": "Функція дозволяє зв'язати адмін групу з VIP групою, щоб при видачі адмін групи, автоматично видавалась VIP група",
+        "GE": "Verknüpfung der Administratorengruppe mit der VIP-Gruppe, um automatisch die VIP-Gruppe zuzuweisen, wenn die Administratorengruppe zugewiesen wird",
+        "RU": "Функция позволяет связать админ группу с VIP группой, чтобы при выдаче админ группы, автоматически выдавалась VIP группа"
+    },
+    
+    "_MSSettings11": {
+        "TR": "VIP Sunucularını Bağlama",
+        "EN": "Connecting VIP servers",
+        "UA": "Підключення VIP серверів",
+        "GE": "VIP-Server verbinden",
+        "RU": "Подключение VIP серверов"
+    },
+    
+    "_MSSettings12": {
+        "TR": "SID ve sunucu eşleştirme",
+        "EN": "Linking SID and server",
+        "UA": "Пов'язування SID та сервера",
+        "GE": "SID und Server verknüpfen",
+        "RU": "Связываем SID и сервер"
+    },
+
+    "_MSWarning": {
+        "RU": "Вы получили предупреждение, теперь у вас %count%/%warn%"
+    },
+
+    "_MSVipGift": {
+        "RU": "Вам выдали привилегию: %vgroup%"
+    }, 
+
+    "_MSAdminGift": {
+        "RU": "Вы стали командой проекта. Ваша должность: %agroup%"
+    },
+
+    "_MSAdminDelGift": {
+        "RU": "Увы, вы больше не команда проекта :("
+    }
+}

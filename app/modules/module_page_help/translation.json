@@ -1,0 +1,90 @@
+{
+        "_Rules": {
+                "EN": "Help",
+                "RU": "Помощь"
+        },
+        "_Knowledge_base": {
+                "EN": "Knowledge base",
+                "RU": "База знаний"
+        },
+        "_Add_category": {
+                "EN": "Add category",
+                "RU": "Добавить категорию"
+        },
+        "_Add_item": {
+                "EN": "Add item",
+                "RU": "Добавить пункт"
+        },
+        "_Adding_item": {
+                "EN": "Adding item",
+                "RU": "Добавление пункта"
+        },
+        "_Category_change": {
+                "EN": "Category change",
+                "RU": "Изменение категории"
+        },
+        "_Adding_category": {
+                "EN": "Adding category",
+                "RU": "Добавление категории"
+        },
+        "_Change_item": {
+                "EN": "Change item",
+                "RU": "Изменение пункта"
+        },
+        "_No_category": {
+                "EN": "No category",
+                "RU": "Без категории"
+        },
+        "_Data_success_added": {
+                "EN": "Data successfully added",
+                "RU": "Данные успешно добавлены"
+        },
+        "_Data_success_changed": {
+                "EN": "Data successfully changed",
+                "RU": "Данные успешно изменены"
+        },
+        "_Data_success_deleted": {
+                "EN": "Data successfully deleted",
+                "RU": "Данные успешно удалены"
+        },
+        "_Error": {
+                "EN": "Error!",
+                "RU": "Ошибка!"
+        },
+        "_TitleContent": {
+                "EN": "Item name",
+                "RU": "Название пункта"
+        },
+        "_TitleCategory": {
+                "EN": "Category name",
+                "RU": "Название категории"
+        },
+        "_Category": {
+                "EN": "Category",
+                "RU": "Категория"
+        },
+        "_Svg": {
+                "EN": "SVG icon code",
+                "RU": "SVG код иконки"
+        },
+        "_Sort": {
+                "EN": "Number 1,2,3, etc.",
+                "RU": "Порядковый номер 1,2,3 и тд"
+        },
+        "_Save": {
+                "EN": "Save",
+                "RU": "Сохранить"
+        },
+        "_Back": {
+                "EN": "Back",
+                "RU": "Назад"
+        },
+        "_Specify_a_sequential_number": {
+                "EN": "Specify a sequential number!",
+                "RU": "Укажите порядковый номер!"
+        },
+        "_Specify_the_title": {
+                "EN": "Specify the title!",
+                "RU": "Укажите название!"
+        }
+}
